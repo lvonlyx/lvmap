@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-13)<br>(문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-16)<br>(문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -2655,6 +2655,40 @@
         <styleUrl>#icon-1611-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1614-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1614-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1614-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1614-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1614-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1618-673AB7-normal">
       <IconStyle>
         <color>ffb73a67</color>
@@ -5135,6 +5169,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1861-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1877-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1877-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1877-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1877-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1877-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1879-0288D1-normal">
@@ -10771,6 +10839,51 @@
         <Point>
           <coordinates>
             126.9275775,37.5586376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(구) 江戸前がってん寿司六 本木店</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/QAwHK9XGpsSXeT99aJMMFjSaJ3gRJ0SHXRQSEQByIW4lqL1806Zz_s7UnfldeIv4hllW3lvwe1t8rahYGhCUeupUDEuFcX_0fv9oYatD_2XJ33BMnYSpM4Xsu_x43GfmZkaa" height="200" width="auto" /><br><br>현재는 '세븐일레븐'<br><br>* おまかせTV<br>Lovelyz 編 2 (2015.07.23)<br>- KCON 2015 리허설 후 들렸던 스시집<br>- https://ameblo.jp/judo501/entry-12307728877.html<br><br><img src="https://lh6.googleusercontent.com/iRNNirYCJ1LUZqs3P39BW2WL1WsXZhAYSahM0I9TcANXWH6QRhYnE_PeLP9K0O7zLpfHGU9hB3QP5YbI0j_RcSiXiC0Lz2LLDMU_jedF8XGc4_S47unNITWQlDDM-rLEs5nOXQ" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/_CKOU0GxkLcXdvlBPy-e3dmu72qvGmBw1O_FftIOfBGVrsODGlfgJEJdsPgg7cpYJbju2rhVw3cdGa7RLVXViHAKbbpLUeWQs_xo5nXS2dOKwQWOaKtwCfaeLg70llqF5f1r" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/QAwHK9XGpsSXeT99aJMMFjSaJ3gRJ0SHXRQSEQByIW4lqL1806Zz_s7UnfldeIv4hllW3lvwe1t8rahYGhCUeupUDEuFcX_0fv9oYatD_2XJ33BMnYSpM4Xsu_x43GfmZkaa https://lh6.googleusercontent.com/iRNNirYCJ1LUZqs3P39BW2WL1WsXZhAYSahM0I9TcANXWH6QRhYnE_PeLP9K0O7zLpfHGU9hB3QP5YbI0j_RcSiXiC0Lz2LLDMU_jedF8XGc4_S47unNITWQlDDM-rLEs5nOXQ https://lh5.googleusercontent.com/_CKOU0GxkLcXdvlBPy-e3dmu72qvGmBw1O_FftIOfBGVrsODGlfgJEJdsPgg7cpYJbju2rhVw3cdGa7RLVXViHAKbbpLUeWQs_xo5nXS2dOKwQWOaKtwCfaeLg70llqF5f1r</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7323408,35.6628042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>원효대교 밑 계단</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/I1twUKUVz_tcFqRt4shJ_iSHaYZ8XdNY--S8nB2_XVKG2uuoq6JiLd1O9-yWB-6SlMXkXOnbS7cBgdnWOE-WiVFYSGGXvAj7keok8imhKSpFLZhg2pmft0Ex9bG-E_Gm5LWP" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>드라마 EP.05 (2017.06.30)<br>- 수정 출연. 극중 5명만 남은 멤버들이 이야기를 나눴던 곳<br>- https://www.vlive.tv/video/34264 <br><br><img src="https://lh5.googleusercontent.com/wd0IH_NE41_37J6tmmuLYyMDJs2T8JfZr-MxsGWYCodAyw3Bm2VhnVnj690Rg_kgG5zaIvMCUjaVJ4umGyiaNVItWWZRWoDIx9ArhKEDO9JmRD_TE7u0hbGYooLajT1InKjP4w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1877-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/I1twUKUVz_tcFqRt4shJ_iSHaYZ8XdNY--S8nB2_XVKG2uuoq6JiLd1O9-yWB-6SlMXkXOnbS7cBgdnWOE-WiVFYSGGXvAj7keok8imhKSpFLZhg2pmft0Ex9bG-E_Gm5LWP https://lh5.googleusercontent.com/wd0IH_NE41_37J6tmmuLYyMDJs2T8JfZr-MxsGWYCodAyw3Bm2VhnVnj690Rg_kgG5zaIvMCUjaVJ4umGyiaNVItWWZRWoDIx9ArhKEDO9JmRD_TE7u0hbGYooLajT1InKjP4w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9397587,37.5237988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>파리공원 한불마당 야외무대</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/E9RhWUVSmxMDz7tR2SAUPcfiBB9WPQHReUjzZQbjlLnqeExFmOpU8KE2cxNE8IZMAgGFYu-nHTCFXyHbAA62vlPZWo2u43DHbnTBblcf98fuHCk7Oo3Um4bXMowOmbS6uYCtVQ" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>드라마 EP.07 (2017.07.02)<br>- 수정 출연. 극중 옆집소녀 멤버들이 무안양파축제 행사를 했던 무대<br>- https://www.vlive.tv/video/34351<br><br><img src="https://lh5.googleusercontent.com/kmDtEUhE3rTwn2G1Qh-52cztbDanCGj2KGu_pFsj3HOwgWFdXDS8_a1JAPsOyX13ixRotKZlQtu_GfwBolcgHmadU69vk7My4j8tyVeJ9gzG6roVDpuhq0UgCcR7tBswr2CUAA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1614-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/E9RhWUVSmxMDz7tR2SAUPcfiBB9WPQHReUjzZQbjlLnqeExFmOpU8KE2cxNE8IZMAgGFYu-nHTCFXyHbAA62vlPZWo2u43DHbnTBblcf98fuHCk7Oo3Um4bXMowOmbS6uYCtVQ https://lh5.googleusercontent.com/kmDtEUhE3rTwn2G1Qh-52cztbDanCGj2KGu_pFsj3HOwgWFdXDS8_a1JAPsOyX13ixRotKZlQtu_GfwBolcgHmadU69vk7My4j8tyVeJ9gzG6roVDpuhq0UgCcR7tBswr2CUAA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8770657,37.5344166,0
           </coordinates>
         </Point>
       </Placemark>
