@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-16)<br>(문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-17)<br>(문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -10887,6 +10887,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>한국잡월드</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/NSTn0MKH0ecOGBUuvRveh4bmpYM0I6d6aZzYTSXs-Td2xyTYeuUmBh5Mu1FGArbzHgfsJ-iXyNDbfSlCY6Vpjd5tHuvzt9q4A1p9GoPYY36kguH79uOnOOfxyugtywRfO7YbXA" height="200" width="auto" /><br><br>* 나는 취준생이다<br>EP.04 (2016.09.02)<br>- 미주 출연<br>- 극중 오빠와 밥먹던 곳은 잡카페 (2F)<br>- 인턴 장면을 찍은 곳은 패션디자인실(4F)<br>- 랩하던 곳은 패션쇼장(3F)<br>- https://tv.naver.com/v/1089932<br><br><img src="https://lh5.googleusercontent.com/Du-QpdPL-YQkufC5Awf9ywt_5havXC8yTrGAMXJr5Cd5P0VuSR0Z74I3uOpbF7BwbR39Vz0hMYI0o4PGnjyKIcit6piyIcwBC_9Q6j5kVI8Rtam9n62uw5StlYT9oQGCbK929A" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/qkTpfFT_UJNAQedXOvw4dDHN5Cuv2NLevFwdxWa10GwXlzX30-UZ7dWl0rT4uTbtWjmrlgS_XLeTMj71l1g6NXwrbEUjAnyqxCgESA9tm27Bj57h87FQ03y7kN-2RjYkjezJtg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/NSTn0MKH0ecOGBUuvRveh4bmpYM0I6d6aZzYTSXs-Td2xyTYeuUmBh5Mu1FGArbzHgfsJ-iXyNDbfSlCY6Vpjd5tHuvzt9q4A1p9GoPYY36kguH79uOnOOfxyugtywRfO7YbXA https://lh5.googleusercontent.com/Du-QpdPL-YQkufC5Awf9ywt_5havXC8yTrGAMXJr5Cd5P0VuSR0Z74I3uOpbF7BwbR39Vz0hMYI0o4PGnjyKIcit6piyIcwBC_9Q6j5kVI8Rtam9n62uw5StlYT9oQGCbK929A https://lh6.googleusercontent.com/qkTpfFT_UJNAQedXOvw4dDHN5Cuv2NLevFwdxWa10GwXlzX30-UZ7dWl0rT4uTbtWjmrlgS_XLeTMj71l1g6NXwrbEUjAnyqxCgESA9tm27Bj57h87FQ03y7kN-2RjYkjezJtg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1062303,37.3785172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>보물섬어린이공원</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/6FlUnIs_zunu45aOJ3iN9FYUNJ-nNpkJ8qj3Ft2VMZU6dwqz8v57r8X0s5nuTkYBsK1Bqh-cFG5gZDa-n8BOIDaB8oDwj2PTXy9Z8skoiCADjBhaLADlm4ymEHc6NTG0vl_r" height="200" width="auto" /><br><br>* 나는 취준생이다<br>예고편, EP.04 (2016.09.02)<br>- 미주 출연<br>- 예고편을 찍었던 놀이터<br>- 극중 오빠와 맥주를 마셨던 공원<br>- https://tv.naver.com/v/1082744<br>- https://tv.naver.com/v/1089932<br><br><img src="https://lh5.googleusercontent.com/Fnz3XH51kGg_AdFFf57msU6A6wD1hsBvwHI6lmrYrINrYsvUlJ9JDYwGnHZjYy_Yl5A9WZEXklgY2cwgLibdoesixO-Gm84cg5GFj06iWBliUAcqK7KGSlvl1CcQnkG0xbuP" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/6FlUnIs_zunu45aOJ3iN9FYUNJ-nNpkJ8qj3Ft2VMZU6dwqz8v57r8X0s5nuTkYBsK1Bqh-cFG5gZDa-n8BOIDaB8oDwj2PTXy9Z8skoiCADjBhaLADlm4ymEHc6NTG0vl_r https://lh5.googleusercontent.com/Fnz3XH51kGg_AdFFf57msU6A6wD1hsBvwHI6lmrYrINrYsvUlJ9JDYwGnHZjYy_Yl5A9WZEXklgY2cwgLibdoesixO-Gm84cg5GFj06iWBliUAcqK7KGSlvl1CcQnkG0xbuP</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1130971,37.3840845,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>기타</name>
@@ -12027,6 +12057,21 @@
         <Point>
           <coordinates>
             127.2907484,37.5214203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(구) 카스쿠르트</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/rzZNRGrRzSSwMQvBCFLKCh03SlNm8U83x33wQTPVzUuzPvrBzFwga-mNXqED8sT5uupZPZ-Q6l1cOgYJg_XSrufnxgeilPuS31L7EZFfIaEHYzzImd4CFTkZ7UrdkzbOcIxtHg" height="200" width="auto" /><br><br>'와플에 구름'으로 상호 변경하여 맞은 편으로 확장 이전<br><br>- 지수가 와플들고 셀카 찍은 곳<br>- http://gall.dcinside.com/board/view/?id=lovelyz&no=4917946]]></description>
+        <styleUrl>#icon-1567-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/rzZNRGrRzSSwMQvBCFLKCh03SlNm8U83x33wQTPVzUuzPvrBzFwga-mNXqED8sT5uupZPZ-Q6l1cOgYJg_XSrufnxgeilPuS31L7EZFfIaEHYzzImd4CFTkZ7UrdkzbOcIxtHg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0381975,37.5277405,0
           </coordinates>
         </Point>
       </Placemark>
