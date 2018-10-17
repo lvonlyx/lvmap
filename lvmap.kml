@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-17)<br>(문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-18)<br>(문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -10914,6 +10914,111 @@
         <Point>
           <coordinates>
             127.1130971,37.3840845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>한강밤섬자이아파트</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/iY1DakvYiB6FBStcYydkY_3EVRnT7-L5DwQdU5ZWsY67X5MhpJmE-qlJIF6yVGEOV7O632QnbT-eCRPZwqk8w3_tCMFuvZMRXpFGSEX1UFTXM4wgJABrCTWhIJKt94JGdT10rg" height="200" width="auto" /><br><br>* 나는 취준생이다<br>EP.05 (2016.09.03)<br>- 미주 출연. 극중 출근길<br>- https://tv.naver.com/v/1089944<br><br><img src="https://lh6.googleusercontent.com/oWy1IEvf1sHzpPg0o4sv6161KEldwxWpX6V-EXRVg12Jb3ru5G_tJgXYixiVj3F4SDDy_KAgt8o_wKVGZ6cthcneVHwmdg-to2yfiGAcmYZcXmxXFKq3OM3ZliNntT1VvStkKg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/iY1DakvYiB6FBStcYydkY_3EVRnT7-L5DwQdU5ZWsY67X5MhpJmE-qlJIF6yVGEOV7O632QnbT-eCRPZwqk8w3_tCMFuvZMRXpFGSEX1UFTXM4wgJABrCTWhIJKt94JGdT10rg https://lh6.googleusercontent.com/oWy1IEvf1sHzpPg0o4sv6161KEldwxWpX6V-EXRVg12Jb3ru5G_tJgXYixiVj3F4SDDy_KAgt8o_wKVGZ6cthcneVHwmdg-to2yfiGAcmYZcXmxXFKq3OM3ZliNntT1VvStkKg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9276553,37.5455839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(구) 브릭스</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/uTPXDkHzgi_CfHEdHRMr-Dj_j_ltW8o8oBEgr1Ai-UDuTEGPfLbsqzuIYDEav6_WT5UB8K6iky29emeHtTH0-cKx2oA6rZWRDtekON-W1zBTOc8dir4-g2M6-roKHEQHwaR-" height="200" width="auto" /><br><br>현재는 '초록마을'<br><br>* 나는 취준생이다<br>EP.05 (2016.09.03)<br>- 미주 출연. 극중 오빠랑 커피마시러 왔다가 아빠를 만난 곳<br>- https://tv.naver.com/v/1089944<br><br><img src="https://lh6.googleusercontent.com/YXCoPgHh32Y60dbhvltt8rImhhawnbv84O1l7RUXFDVY0NjJGRo8D-osrK8dG-25mAtwCCIO0uy2C9s4zd6jwIphYFv1wucYJBwYaUCGoalo2bXX_BZPsPTmwt0714n2i6PTryo" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1534-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/uTPXDkHzgi_CfHEdHRMr-Dj_j_ltW8o8oBEgr1Ai-UDuTEGPfLbsqzuIYDEav6_WT5UB8K6iky29emeHtTH0-cKx2oA6rZWRDtekON-W1zBTOc8dir4-g2M6-roKHEQHwaR- https://lh6.googleusercontent.com/YXCoPgHh32Y60dbhvltt8rImhhawnbv84O1l7RUXFDVY0NjJGRo8D-osrK8dG-25mAtwCCIO0uy2C9s4zd6jwIphYFv1wucYJBwYaUCGoalo2bXX_BZPsPTmwt0714n2i6PTryo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.932217,37.546811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 창조관 앞 벤치</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/4GiOGFjgnZEhlhMrBGxRXLkExPM0mX9a7obIh0YhN6KhPyIcplZKGkMAnE98GohyWNQaE-n5L4m_ASmlSnRtPM9qd6aLi-EJBGF0RnAPOjeiaSdLIVV46T4WJMrzC5XKmE4-BQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 해지가 술먹고 잠자던 곳<br>- https://tv.naver.com/v/2142941<br><br><img src="https://lh5.googleusercontent.com/FRCm0P5sfT8Ot3YHTE5GWlGCsPHSUNwUqwIPpRz8nddIve6ESDWo3QZtSfQaoE_ErppnKSD2lgZIDwYXIY1aAUsWcaknHlw4iK7iGXOUIAxIhULKO809ZCrbEs3qY6hAFERt" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/4GiOGFjgnZEhlhMrBGxRXLkExPM0mX9a7obIh0YhN6KhPyIcplZKGkMAnE98GohyWNQaE-n5L4m_ASmlSnRtPM9qd6aLi-EJBGF0RnAPOjeiaSdLIVV46T4WJMrzC5XKmE4-BQ https://lh5.googleusercontent.com/FRCm0P5sfT8Ot3YHTE5GWlGCsPHSUNwUqwIPpRz8nddIve6ESDWo3QZtSfQaoE_ErppnKSD2lgZIDwYXIY1aAUsWcaknHlw4iK7iGXOUIAxIhULKO809ZCrbEs3qY6hAFERt</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.062314,37.1549627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 청학관</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/7SfCw3SNd5j5jM077pOppg9_AZtcMadXls5FQAOscR_lFNyrDe5zaoG1wWBEkxN4588ZWTzFIU8tL_LA6e7UIQd-y4Pw8UuaaaKMqElIgHcjO6SH6snez-aJ-HVOl3KQR6EIAQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 조리수업을 받았던 곳 (1층 실습실)<br>- https://tv.naver.com/v/2142941]]></description>
+        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/7SfCw3SNd5j5jM077pOppg9_AZtcMadXls5FQAOscR_lFNyrDe5zaoG1wWBEkxN4588ZWTzFIU8tL_LA6e7UIQd-y4Pw8UuaaaKMqElIgHcjO6SH6snez-aJ-HVOl3KQR6EIAQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0594949,37.1559274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>궁평리해수욕장</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/-Dm_xhnmQ89bu7o0pkX3duaOwjwVirCRRhQipHEvez0xKtKKYxNs03jAj37cOxUd9f88PtR9g4UbsIIJvo2HcXtFMaciawr-N5obLzzQCfd-s8vqZkTgHRetzucdyfwWnQAQZAg" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 해지가 차이고 화풀이 하다가 정차기를 발견해서 끌고 간 곳<br>- https://tv.naver.com/v/2142941<br><br><img src="https://lh6.googleusercontent.com/3F4BsFWbmxEZcET6ogackpRkKQmBvbZp2FQ6utWAtifmBHme9PBP58-89z0txoU_1KL-iNk3oyeZEQ9_OJi-dhPlhylBjdjkeyNSePdPjyUlyBtUAmE-05HlGz8mk_Z-bWAT2xE" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/ocTd9uNtggaI-gbYF3pixVDILIQHqwGMh_8jlx3n8O-AD1Jnzol7Am-bFSui5WIf5iOnswzxNVejaLYOb4H5-SJR6UK5zo4pyPQ967_NZtHF4n6QJ2I6VDxpfyey5d2tEq-D7A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1521-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/-Dm_xhnmQ89bu7o0pkX3duaOwjwVirCRRhQipHEvez0xKtKKYxNs03jAj37cOxUd9f88PtR9g4UbsIIJvo2HcXtFMaciawr-N5obLzzQCfd-s8vqZkTgHRetzucdyfwWnQAQZAg https://lh6.googleusercontent.com/3F4BsFWbmxEZcET6ogackpRkKQmBvbZp2FQ6utWAtifmBHme9PBP58-89z0txoU_1KL-iNk3oyeZEQ9_OJi-dhPlhylBjdjkeyNSePdPjyUlyBtUAmE-05HlGz8mk_Z-bWAT2xE https://lh3.googleusercontent.com/ocTd9uNtggaI-gbYF3pixVDILIQHqwGMh_8jlx3n8O-AD1Jnzol7Am-bFSui5WIf5iOnswzxNVejaLYOb4H5-SJR6UK5zo4pyPQ967_NZtHF4n6QJ2I6VDxpfyey5d2tEq-D7A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6849142,37.1196084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 희망관 옆 광장</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/SR9Fu9Ts1bswWCbHSkVeBGt8Hl0rVoi6KEZQIEUe1hExUrmWjpFQ_7oE2HxjrVSJJWDd_HTDwT28ifVD3OwpGnqI8-Y1Mykb-ACTjfgfcPSshpsnNd1AJ70FuqEELChu-opqEQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 해지가 친구들과 만나서 얘기(?)하다가 정차기를 소개받은 곳<br>- https://tv.naver.com/v/2142941<br><br><img src="https://lh3.googleusercontent.com/-elyrriPqEPWExZSFh2OW57KIJ06d2kRK5u8ob3t11DspS8WZRilVB2KmHK9Os5We2jj_b5Hdef9IxQChFLSuqiFfm7QN_kT5T6G65VWwkvQdyRQ82obfuw-oSC4wqz28mhb" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/SR9Fu9Ts1bswWCbHSkVeBGt8Hl0rVoi6KEZQIEUe1hExUrmWjpFQ_7oE2HxjrVSJJWDd_HTDwT28ifVD3OwpGnqI8-Y1Mykb-ACTjfgfcPSshpsnNd1AJ70FuqEELChu-opqEQ https://lh3.googleusercontent.com/-elyrriPqEPWExZSFh2OW57KIJ06d2kRK5u8ob3t11DspS8WZRilVB2KmHK9Os5We2jj_b5Hdef9IxQChFLSuqiFfm7QN_kT5T6G65VWwkvQdyRQ82obfuw-oSC4wqz28mhb</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0617668,37.1546789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 본관</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/CowF-VOGgE_pVnz_r7T_cfZDqRTdlwzkFbZZ_Mbr01wzbG6uYkaNZp4Ctn27SpfPW3Ksc94w78DkC2aAH2de-kXztIO3rhhPp6iGkhL2qKsEvuJWnnZ36aiuPD0iwuBUPpdF-g" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>EP.02 두 얼굴 (2017.10.10)<br>- 예인 출연. 극중 해지가 미행당하던 중 정차기와 함께 숨었던 곳<br>- https://tv.naver.com/v/2142941<br>- https://tv.naver.com/v/2145392<br><br><img src="https://lh5.googleusercontent.com/SY5GmdB1XI6jkaZKJeNl4q-9H-SP-1jyCz4SrtB-Yd3kY8v1icVZgA3OixcR4RIuGgVGpKuiiH4R-f5ENvUHYNtWwauiGpcG5cfxsw-ibPYMw6ZcbGGhGkY8nm-Y3dUp8khq2g" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/-OS8VlcQ-konlSoALd_htidcgbyazOCfYqTYdpIqGf808kcPeqf4L6kSLqoJnW7GSzAtG8D7I80GTalzU3V_QuxTuzCWV8FpyoWXGD8g-XhZpzprlTV_8f7aPZ0aKinrQsr8Ng" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/CowF-VOGgE_pVnz_r7T_cfZDqRTdlwzkFbZZ_Mbr01wzbG6uYkaNZp4Ctn27SpfPW3Ksc94w78DkC2aAH2de-kXztIO3rhhPp6iGkhL2qKsEvuJWnnZ36aiuPD0iwuBUPpdF-g https://lh5.googleusercontent.com/SY5GmdB1XI6jkaZKJeNl4q-9H-SP-1jyCz4SrtB-Yd3kY8v1icVZgA3OixcR4RIuGgVGpKuiiH4R-f5ENvUHYNtWwauiGpcG5cfxsw-ibPYMw6ZcbGGhGkY8nm-Y3dUp8khq2g https://lh4.googleusercontent.com/-OS8VlcQ-konlSoALd_htidcgbyazOCfYqTYdpIqGf808kcPeqf4L6kSLqoJnW7GSzAtG8D7I80GTalzU3V_QuxTuzCWV8FpyoWXGD8g-XhZpzprlTV_8f7aPZ0aKinrQsr8Ng</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0603001,37.1553954,0
           </coordinates>
         </Point>
       </Placemark>
