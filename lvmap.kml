@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-18)<br>(문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-20)<br>(문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -343,6 +343,40 @@
         <styleUrl>#icon-1521-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1521-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1521-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1521-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1521-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1521-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1523-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -477,6 +511,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1527-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1528-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1528-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1528-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1528-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1528-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1529-0288D1-normal">
@@ -647,6 +715,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1534-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1534-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1534-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1534-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1534-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1534-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1534-558B2F-normal">
@@ -1091,6 +1193,40 @@
         <styleUrl>#icon-1546-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1546-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1546-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1546-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1546-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1546-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1546-558B2F-normal">
       <IconStyle>
         <color>ff2f8b55</color>
@@ -1259,6 +1395,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1567-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1567-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1567-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1567-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1567-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1567-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1567-558B2F-normal">
@@ -1703,6 +1873,40 @@
         <styleUrl>#icon-1578-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1578-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1578-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1578-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1578-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1578-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1578-558B2F-normal">
       <IconStyle>
         <color>ff2f8b55</color>
@@ -2077,6 +2281,40 @@
         <styleUrl>#icon-1587-558B2F-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1589-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1589-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1589-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1589-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1589-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1591-C2185B-normal">
       <IconStyle>
         <color>ff5b18c2</color>
@@ -2279,6 +2517,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1602-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1602-558B2F-normal">
@@ -2655,9 +2927,9 @@
         <styleUrl>#icon-1611-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1614-0288D1-normal">
+    <Style id="icon-1611-0F9D58-normal">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff589d0f</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -2667,9 +2939,9 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <Style id="icon-1614-0288D1-highlight">
+    <Style id="icon-1611-0F9D58-highlight">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff589d0f</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -2679,14 +2951,48 @@
         <scale>1</scale>
       </LabelStyle>
     </Style>
-    <StyleMap id="icon-1614-0288D1">
+    <StyleMap id="icon-1611-0F9D58">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1614-0288D1-normal</styleUrl>
+        <styleUrl>#icon-1611-0F9D58-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1614-0288D1-highlight</styleUrl>
+        <styleUrl>#icon-1611-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1614-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1614-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1614-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1614-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1614-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1618-673AB7-normal">
@@ -3267,6 +3573,40 @@
         <styleUrl>#icon-1682-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1682-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1682-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1682-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1682-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1682-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1682-558B2F-normal">
       <IconStyle>
         <color>ff2f8b55</color>
@@ -3401,6 +3741,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1684-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1684-558B2F-normal">
@@ -4287,6 +4661,40 @@
         <styleUrl>#icon-1720-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1720-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1720-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1720-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1720-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1720-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1720-673AB7-normal">
       <IconStyle>
         <color>ffb73a67</color>
@@ -4523,6 +4931,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1731-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1731-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1731-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1731-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1731-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1731-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1731-558B2F-normal">
@@ -5171,9 +5613,9 @@
         <styleUrl>#icon-1861-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1877-0288D1-normal">
+    <Style id="icon-1877-0F9D58-normal">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff589d0f</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -5183,9 +5625,9 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <Style id="icon-1877-0288D1-highlight">
+    <Style id="icon-1877-0F9D58-highlight">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff589d0f</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -5195,14 +5637,14 @@
         <scale>1</scale>
       </LabelStyle>
     </Style>
-    <StyleMap id="icon-1877-0288D1">
+    <StyleMap id="icon-1877-0F9D58">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1877-0288D1-normal</styleUrl>
+        <styleUrl>#icon-1877-0F9D58-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1877-0288D1-highlight</styleUrl>
+        <styleUrl>#icon-1877-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1879-0288D1-normal">
@@ -5307,9 +5749,9 @@
         <styleUrl>#icon-1879-C2185B-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1886-0288D1-normal">
+    <Style id="icon-1886-0F9D58-normal">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff589d0f</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -5319,9 +5761,9 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <Style id="icon-1886-0288D1-highlight">
+    <Style id="icon-1886-0F9D58-highlight">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff589d0f</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -5331,14 +5773,14 @@
         <scale>1</scale>
       </LabelStyle>
     </Style>
-    <StyleMap id="icon-1886-0288D1">
+    <StyleMap id="icon-1886-0F9D58">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1886-0288D1-normal</styleUrl>
+        <styleUrl>#icon-1886-0F9D58-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1886-0288D1-highlight</styleUrl>
+        <styleUrl>#icon-1886-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1892-0288D1-normal">
@@ -9249,21 +9691,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>토니버거 청담점</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/zXvmbUWkeIQ0uK-5KUfkrEERF5vkq_gm9hM22pJWeycCiIYWCMyS9rSyTmpp5ClCBRQavSn2SOnJuY64l83lkX7uOrpb9Kt1jVlq3RgyZ_Pk_bqosASI-q1kbI_fUyVtO4-tOSQ" height="200" width="auto" /><br><br>* KBS 월계수 양복점 신사들<br>EP.29 (2016.12.03)<br>- 지애, 지수, 미주, 예인 카메오 출연<br>- http://tvcast.naver.com/v/1283444<br><br><img src="https://lh5.googleusercontent.com/uKVBOzi2NltLSd9DYaqUfq4qZJd-EdKVM6P8Bz1oVmOgVY3sBwtItGjMSEJRC9stj-DXv9HrQN8VP8nT_MPCzXednOavmCcP0jDgC1tZh8zEGTrHTSKaRzREG3HXesYdXekzDw" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1567-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh4.googleusercontent.com/zXvmbUWkeIQ0uK-5KUfkrEERF5vkq_gm9hM22pJWeycCiIYWCMyS9rSyTmpp5ClCBRQavSn2SOnJuY64l83lkX7uOrpb9Kt1jVlq3RgyZ_Pk_bqosASI-q1kbI_fUyVtO4-tOSQ https://lh5.googleusercontent.com/uKVBOzi2NltLSd9DYaqUfq4qZJd-EdKVM6P8Bz1oVmOgVY3sBwtItGjMSEJRC9stj-DXv9HrQN8VP8nT_MPCzXednOavmCcP0jDgC1tZh8zEGTrHTSKaRzREG3HXesYdXekzDw</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            127.056426,37.520156,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>뚱뚱이할머니족발집</name>
         <description><![CDATA[<img src="https://lh6.googleusercontent.com/Cdjy6CpxAUPttCc7sXishPzvz6HTMvHhYWxNtX31Ax9Ebsiy6bsAIC-6tRZI04LqcQDzbwRJrhzBXnTzuvkYaBKnpAL-I1moSj91aW6OCEXcE5PYfJcx9TWrFEsPI7MZ7qdz" height="200" width="auto" /><br><br>* MBC 능력자들<br>EP.18 (2016.03.11)<br>- 케이가 첫번째로 갔던 족발집]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
@@ -9280,7 +9707,7 @@
       </Placemark>
       <Placemark>
         <name>만족오향족발 시청점</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/BG9BUU9N0cvp_tj_lGHJK_EwBGHKgeb4XoAHB1JPToyd0QYELHFoLCn-VxaGSQnd_7eS8wFH8WOgxbuRSn2lHK99Dtwbw-rWJbYo5r7KTeRIyvJRH270ZmT3nv0vqL_zh8tJqfU" height="200" width="auto" /><br><br>* MBC 능력자들<br>EP.18 (2016.03.11)<br>- 케이가 2번째로 찾은 족발집]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/BG9BUU9N0cvp_tj_lGHJK_EwBGHKgeb4XoAHB1JPToyd0QYELHFoLCn-VxaGSQnd_7eS8wFH8WOgxbuRSn2lHK99Dtwbw-rWJbYo5r7KTeRIyvJRH270ZmT3nv0vqL_zh8tJqfU" height="200" width="auto" /><br><br>* MBC 능력자들<br>EP.18 (2016.03.11)<br>- 케이가 2번째로 찾은 족발집<br><br>* 러블리즈의 소원을 말해봐<br>EP.08 (2018.10.18)<br>- 지수가 성수족발 다음으로 들른 곳<br>- 티저: https://www.vlive.tv/video/93441<br>- 본편: https://www.vlive.tv/video/88015]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -10269,7 +10696,7 @@
       </Placemark>
       <Placemark>
         <name>성수족발</name>
-        <description><![CDATA[* 러블리즈의 소원을 말해봐<br>EP.08 (2018.10.12)<br>- 지수가 케이에게 줄 족발을 산 곳<br>- 서울 3대족발 집 중 하나<br>- 티저: https://www.vlive.tv/video/93441]]></description>
+        <description><![CDATA[* 러블리즈의 소원을 말해봐<br>EP.08 (2018.10.18)<br>- 지수가 케이에게 줄 족발을 산 곳<br>- 서울 3대족발 집 중 하나<br>- 티저: https://www.vlive.tv/video/93441<br>- 본편: https://www.vlive.tv/video/88015]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -10279,7 +10706,7 @@
       </Placemark>
       <Placemark>
         <name>비밀</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/79iu1Xhr6lhk5eyLOv1nXSocEoTadEZvWLBlKKvVHpP46VdJsc8bdBAxb-Do4NQ2nNgZEQGA2PAyN8BirUYCY2e80ST2O_1H-dqTqs4dB8buu5_Zg-RfP5rGusET2wDP7Z5zaQ" height="200" width="auto" /><br><br>* 러블리즈의 소원을 말해봐<br>EP.08 (2018.10.12)<br>- 티저에서 무작정 방문한 것으로 나오는 빵집<br>- 이원일 셰프가 운영하는 곳<br>- 티저: https://www.vlive.tv/video/93441]]></description>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/79iu1Xhr6lhk5eyLOv1nXSocEoTadEZvWLBlKKvVHpP46VdJsc8bdBAxb-Do4NQ2nNgZEQGA2PAyN8BirUYCY2e80ST2O_1H-dqTqs4dB8buu5_Zg-RfP5rGusET2wDP7Z5zaQ" height="200" width="auto" /><br><br>* 러블리즈의 소원을 말해봐<br>EP.08 (2018.10.18)<br>- 케이에게 줄 빵을 산 곳으로 지수가 좋아하는 빵집<br>- 이원일 셰프가 운영하는 곳<br>- 티저: https://www.vlive.tv/video/93441<br>- 본편: https://www.vlive.tv/video/88015]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -10623,66 +11050,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>홀트학교</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/o7P7xTkyLWLMYFUQN7Ic5SuWjv8qmqAuCGFOChxYy_T7YUlDXGuSlk4WXS-OpFa3_cS22YUIcYO6EF3f2g4c5HCLHEnLEH2ExAJXqXac6VFxGFj3ktJ1KmnCwMZzGe7eZv7Njg" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 학교신 촬영 장소<br><br><img src="https://lh4.googleusercontent.com/wLgqXLc0lceCSZy8r18N_lk8ggWPvjB11wa9LrZJHTHbJUS-4QvwUp5dSqJRjMS2mW_m7tAHxrzAfOsqUS2K_lPpqNXVY9SYDFvX5ospdNH8EufYG2EBtDYsHjhKnBjAUZUa" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/l3LFVdqiMt3gmef2meiAe6LeOAX1CT_sL0_oxVuFdjt0VKZbVnRTuVGFqRw2OWWM6Gq6bnbNHD7wQMlqVaW_hbWA6Rbm3-N1XAMB3K5IQtJTc6L3w8u5OXI63vMX1mINVijJ" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1682-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh5.googleusercontent.com/o7P7xTkyLWLMYFUQN7Ic5SuWjv8qmqAuCGFOChxYy_T7YUlDXGuSlk4WXS-OpFa3_cS22YUIcYO6EF3f2g4c5HCLHEnLEH2ExAJXqXac6VFxGFj3ktJ1KmnCwMZzGe7eZv7Njg https://lh4.googleusercontent.com/wLgqXLc0lceCSZy8r18N_lk8ggWPvjB11wa9LrZJHTHbJUS-4QvwUp5dSqJRjMS2mW_m7tAHxrzAfOsqUS2K_lPpqNXVY9SYDFvX5ospdNH8EufYG2EBtDYsHjhKnBjAUZUa https://lh5.googleusercontent.com/l3LFVdqiMt3gmef2meiAe6LeOAX1CT_sL0_oxVuFdjt0VKZbVnRTuVGFqRw2OWWM6Gq6bnbNHD7wQMlqVaW_hbWA6Rbm3-N1XAMB3K5IQtJTc6L3w8u5OXI63vMX1mINVijJ</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            126.7715916,37.6968204,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>스포츠샵</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/ZfI8D05-k2Ck-1cEPL9WRg3Ix41AgrkauN9k8UoWC_sVpJXK3XrOwYvhZgIKaW1WO_RciDXyW1q0N11B_fk8PrEAsOOETo3EqRGlxIQqAsaGGKZZF5aqe5I9fk39kcNft5Oom_U" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 심부름하다가 절도범으로 몰린 친구의 누명을 벗겨준 곳<br><br><img src="https://lh6.googleusercontent.com/lSU77K1M3CYaD3bGSkldnUa12Bj1zr5b07Ant-SgvVXBasqDwA-tPn1zTTytzUM22yW_KvQwGJLEWPSARavDDVqCJOMawddCx2gFIGEWx0CTij5FvaUee7YLnBba0P0_25RLzJ4" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1684-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh6.googleusercontent.com/ZfI8D05-k2Ck-1cEPL9WRg3Ix41AgrkauN9k8UoWC_sVpJXK3XrOwYvhZgIKaW1WO_RciDXyW1q0N11B_fk8PrEAsOOETo3EqRGlxIQqAsaGGKZZF5aqe5I9fk39kcNft5Oom_U https://lh6.googleusercontent.com/lSU77K1M3CYaD3bGSkldnUa12Bj1zr5b07Ant-SgvVXBasqDwA-tPn1zTTytzUM22yW_KvQwGJLEWPSARavDDVqCJOMawddCx2gFIGEWx0CTij5FvaUee7YLnBba0P0_25RLzJ4</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            127.1991867,37.8920877,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>영천배수갑문</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/yhS-Bwh37LoiVNcYEUCQmDPdd8Wcd3KNlqQLorqlcX_zqFWLKnuAmKTxWmwH68MtLKTrKgGwgxFmxatRDvWYgyKZCxHIMKGZ2fwgsmMil-VonKkJAy2HfxxVCcJEB1LXAkiiEQ" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 선우(예인)이 친구와 놀러와서 경치 구경한 곳<br><br><img src="https://lh5.googleusercontent.com/oinDfy6FgBprnfIC02-Z8r0v_pJRfsCAf_dkL7PqE5BgKGnMUg3XcFv8COAk0Fo9PrKttIKPIQnwwI7C0SPzAgJOokQ3P59cSrE9mfvI5ufhv7rybHgVewnivaMdanYxHG2Tzg" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1611-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh4.googleusercontent.com/yhS-Bwh37LoiVNcYEUCQmDPdd8Wcd3KNlqQLorqlcX_zqFWLKnuAmKTxWmwH68MtLKTrKgGwgxFmxatRDvWYgyKZCxHIMKGZ2fwgsmMil-VonKkJAy2HfxxVCcJEB1LXAkiiEQ https://lh5.googleusercontent.com/oinDfy6FgBprnfIC02-Z8r0v_pJRfsCAf_dkL7PqE5BgKGnMUg3XcFv8COAk0Fo9PrKttIKPIQnwwI7C0SPzAgJOokQ3P59cSrE9mfvI5ufhv7rybHgVewnivaMdanYxHG2Tzg</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            126.7181675,37.7538067,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>공릉천변</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/MSHXSWLxdRDByzIQq2OylPzUxNGX6sImHAHOLICD9x91Pn2O9HDIHEE6PRGnHCYk_JKkIAykByzsUmC2yKcjgp39Z0DjQ0GWrF5mzS8K_JmiCP1jXszBdh6LCmdPXet27z8ggg" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 선우(예인)이 친구한테 책을 받았던 곳. 나중에 이곳에서 친구를 기다림<br><br><img src="https://lh3.googleusercontent.com/vwZ1svaLdyzz95tqB1aidVVpjEUhj9vGASXEeYfedvj9PrtI6rfYU53vs3dlZEHQlOrzmvFQpK1kxCdXVvAp-x3rb8Z9mmOwjp3IbnQRifB5VNkJ9TuoCcCQWki126-crDKd0Q" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1886-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh5.googleusercontent.com/MSHXSWLxdRDByzIQq2OylPzUxNGX6sImHAHOLICD9x91Pn2O9HDIHEE6PRGnHCYk_JKkIAykByzsUmC2yKcjgp39Z0DjQ0GWrF5mzS8K_JmiCP1jXszBdh6LCmdPXet27z8ggg https://lh3.googleusercontent.com/vwZ1svaLdyzz95tqB1aidVVpjEUhj9vGASXEeYfedvj9PrtI6rfYU53vs3dlZEHQlOrzmvFQpK1kxCdXVvAp-x3rb8Z9mmOwjp3IbnQRifB5VNkJ9TuoCcCQWki126-crDKd0Q</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            126.720329,37.7534559,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>(구) 에잇세컨즈 IFC몰점</name>
         <description><![CDATA[<img src="https://lh6.googleusercontent.com/Gfo5ueYDCRCLNFN6xN2ME0H0amqqLYOuVSkIV5jq5hE6TxblKDq8OPzIty0oyTJohj7s88ITd1wbMSZbxapUpTfMQkTzu5FrPi0xdcEar0KDLR43p33QNAyYwcRu-VuELu9zJ7Y" height="200" width="auto" /><br><br>현재는 '무인양품'<br><br>* 스타캐스트 복불복 금일봉으로 자유시간을! 러블리즈의 주말 (2015.04.12)<br>- 15만원팀(케이,명은)이 여러가지 옷을 구매<br>- 2만원팀(소울,수정,예인)은 구경만 함<br>- https://tv.naver.com/v/360518<br>- https://entertain.naver.com/read?oid=420&aid=0000002073<br><br><img src="https://lh4.googleusercontent.com/mENH5HsGEb1Y6k1jB8CCYJV3JyFqkGugiP2Fojz3Nj8yUxXbvjUcT9PmsEHdJgLLBZiFxua9qjsKzb_aeVo-kZ05BLySWAYmxr2vnnrKiD3NGuoHs9cbLoVfFk69WD2XJZuj" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/xaTsyLcf-8KmeO8itsYXlYdPguQi9nWBTs4FZSo1B7GV9GduDn5pA7UX4Py3qlxSDhB-iK1UmHidLKQCvlx-PiO7Imh8P7vN87PM726FrFaV3iEoGVvpsY2I0hMWtK6AKBHS-XU" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1684-0288D1</styleUrl>
@@ -10828,21 +11195,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>파파이스 동교점</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/AQ7pRtWKxsYV-_i8JjvP-1a8aB_vYhAXFU7hbIlrJznMET3ZkRPu9ZyzGwFmNJSDgv2DW8FAXD5WiscV-X2or9FGGISaOPq-BXgorXeiW4LPeEa9AudSFGodqtEjKkxHa4lE" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>드라마 EP.02 (2017.06.27)<br>- 수정 출연. 극중 문별과 수정이 몰래 햄버거를 먹은 곳<br>- https://www.vlive.tv/video/33939 ]]></description>
-        <styleUrl>#icon-1567-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh4.googleusercontent.com/AQ7pRtWKxsYV-_i8JjvP-1a8aB_vYhAXFU7hbIlrJznMET3ZkRPu9ZyzGwFmNJSDgv2DW8FAXD5WiscV-X2or9FGGISaOPq-BXgorXeiW4LPeEa9AudSFGodqtEjKkxHa4lE</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            126.9275775,37.5586376,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>(구) 江戸前がってん寿司六 本木店</name>
         <description><![CDATA[<img src="https://lh4.googleusercontent.com/QAwHK9XGpsSXeT99aJMMFjSaJ3gRJ0SHXRQSEQByIW4lqL1806Zz_s7UnfldeIv4hllW3lvwe1t8rahYGhCUeupUDEuFcX_0fv9oYatD_2XJ33BMnYSpM4Xsu_x43GfmZkaa" height="200" width="auto" /><br><br>현재는 '세븐일레븐'<br><br>* おまかせTV<br>Lovelyz 編 2 (2015.07.23)<br>- KCON 2015 리허설 후 들렸던 스시집<br>- https://ameblo.jp/judo501/entry-12307728877.html<br><br><img src="https://lh6.googleusercontent.com/iRNNirYCJ1LUZqs3P39BW2WL1WsXZhAYSahM0I9TcANXWH6QRhYnE_PeLP9K0O7zLpfHGU9hB3QP5YbI0j_RcSiXiC0Lz2LLDMU_jedF8XGc4_S47unNITWQlDDM-rLEs5nOXQ" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/_CKOU0GxkLcXdvlBPy-e3dmu72qvGmBw1O_FftIOfBGVrsODGlfgJEJdsPgg7cpYJbju2rhVw3cdGa7RLVXViHAKbbpLUeWQs_xo5nXS2dOKwQWOaKtwCfaeLg70llqF5f1r" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
@@ -10857,10 +11209,103 @@
           </coordinates>
         </Point>
       </Placemark>
+    </Folder>
+    <Folder>
+      <name>드라마</name>
+      <Placemark>
+        <name>토니버거 청담점</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/zXvmbUWkeIQ0uK-5KUfkrEERF5vkq_gm9hM22pJWeycCiIYWCMyS9rSyTmpp5ClCBRQavSn2SOnJuY64l83lkX7uOrpb9Kt1jVlq3RgyZ_Pk_bqosASI-q1kbI_fUyVtO4-tOSQ" height="200" width="auto" /><br><br>* KBS 월계수 양복점 신사들<br>EP.29 (2016.12.03)<br>- 지애, 지수, 미주, 예인 카메오 출연<br>- http://tvcast.naver.com/v/1283444<br><br><img src="https://lh5.googleusercontent.com/uKVBOzi2NltLSd9DYaqUfq4qZJd-EdKVM6P8Bz1oVmOgVY3sBwtItGjMSEJRC9stj-DXv9HrQN8VP8nT_MPCzXednOavmCcP0jDgC1tZh8zEGTrHTSKaRzREG3HXesYdXekzDw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1567-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/zXvmbUWkeIQ0uK-5KUfkrEERF5vkq_gm9hM22pJWeycCiIYWCMyS9rSyTmpp5ClCBRQavSn2SOnJuY64l83lkX7uOrpb9Kt1jVlq3RgyZ_Pk_bqosASI-q1kbI_fUyVtO4-tOSQ https://lh5.googleusercontent.com/uKVBOzi2NltLSd9DYaqUfq4qZJd-EdKVM6P8Bz1oVmOgVY3sBwtItGjMSEJRC9stj-DXv9HrQN8VP8nT_MPCzXednOavmCcP0jDgC1tZh8zEGTrHTSKaRzREG3HXesYdXekzDw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.056426,37.520156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>홀트학교</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/o7P7xTkyLWLMYFUQN7Ic5SuWjv8qmqAuCGFOChxYy_T7YUlDXGuSlk4WXS-OpFa3_cS22YUIcYO6EF3f2g4c5HCLHEnLEH2ExAJXqXac6VFxGFj3ktJ1KmnCwMZzGe7eZv7Njg" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 학교신 촬영 장소<br><br><img src="https://lh4.googleusercontent.com/wLgqXLc0lceCSZy8r18N_lk8ggWPvjB11wa9LrZJHTHbJUS-4QvwUp5dSqJRjMS2mW_m7tAHxrzAfOsqUS2K_lPpqNXVY9SYDFvX5ospdNH8EufYG2EBtDYsHjhKnBjAUZUa" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/l3LFVdqiMt3gmef2meiAe6LeOAX1CT_sL0_oxVuFdjt0VKZbVnRTuVGFqRw2OWWM6Gq6bnbNHD7wQMlqVaW_hbWA6Rbm3-N1XAMB3K5IQtJTc6L3w8u5OXI63vMX1mINVijJ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1682-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/o7P7xTkyLWLMYFUQN7Ic5SuWjv8qmqAuCGFOChxYy_T7YUlDXGuSlk4WXS-OpFa3_cS22YUIcYO6EF3f2g4c5HCLHEnLEH2ExAJXqXac6VFxGFj3ktJ1KmnCwMZzGe7eZv7Njg https://lh4.googleusercontent.com/wLgqXLc0lceCSZy8r18N_lk8ggWPvjB11wa9LrZJHTHbJUS-4QvwUp5dSqJRjMS2mW_m7tAHxrzAfOsqUS2K_lPpqNXVY9SYDFvX5ospdNH8EufYG2EBtDYsHjhKnBjAUZUa https://lh5.googleusercontent.com/l3LFVdqiMt3gmef2meiAe6LeOAX1CT_sL0_oxVuFdjt0VKZbVnRTuVGFqRw2OWWM6Gq6bnbNHD7wQMlqVaW_hbWA6Rbm3-N1XAMB3K5IQtJTc6L3w8u5OXI63vMX1mINVijJ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7715916,37.6968204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>스포츠샵</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/ZfI8D05-k2Ck-1cEPL9WRg3Ix41AgrkauN9k8UoWC_sVpJXK3XrOwYvhZgIKaW1WO_RciDXyW1q0N11B_fk8PrEAsOOETo3EqRGlxIQqAsaGGKZZF5aqe5I9fk39kcNft5Oom_U" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 심부름하다가 절도범으로 몰린 친구의 누명을 벗겨준 곳<br><br><img src="https://lh6.googleusercontent.com/lSU77K1M3CYaD3bGSkldnUa12Bj1zr5b07Ant-SgvVXBasqDwA-tPn1zTTytzUM22yW_KvQwGJLEWPSARavDDVqCJOMawddCx2gFIGEWx0CTij5FvaUee7YLnBba0P0_25RLzJ4" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1684-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/ZfI8D05-k2Ck-1cEPL9WRg3Ix41AgrkauN9k8UoWC_sVpJXK3XrOwYvhZgIKaW1WO_RciDXyW1q0N11B_fk8PrEAsOOETo3EqRGlxIQqAsaGGKZZF5aqe5I9fk39kcNft5Oom_U https://lh6.googleusercontent.com/lSU77K1M3CYaD3bGSkldnUa12Bj1zr5b07Ant-SgvVXBasqDwA-tPn1zTTytzUM22yW_KvQwGJLEWPSARavDDVqCJOMawddCx2gFIGEWx0CTij5FvaUee7YLnBba0P0_25RLzJ4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1991867,37.8920877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>영천배수갑문</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/yhS-Bwh37LoiVNcYEUCQmDPdd8Wcd3KNlqQLorqlcX_zqFWLKnuAmKTxWmwH68MtLKTrKgGwgxFmxatRDvWYgyKZCxHIMKGZ2fwgsmMil-VonKkJAy2HfxxVCcJEB1LXAkiiEQ" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 선우(예인)이 친구와 놀러와서 경치 구경한 곳<br>- 2022년 철거 예정<br>- http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=001&aid=0009221718<br><br><img src="https://lh5.googleusercontent.com/oinDfy6FgBprnfIC02-Z8r0v_pJRfsCAf_dkL7PqE5BgKGnMUg3XcFv8COAk0Fo9PrKttIKPIQnwwI7C0SPzAgJOokQ3P59cSrE9mfvI5ufhv7rybHgVewnivaMdanYxHG2Tzg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1611-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/yhS-Bwh37LoiVNcYEUCQmDPdd8Wcd3KNlqQLorqlcX_zqFWLKnuAmKTxWmwH68MtLKTrKgGwgxFmxatRDvWYgyKZCxHIMKGZ2fwgsmMil-VonKkJAy2HfxxVCcJEB1LXAkiiEQ https://lh5.googleusercontent.com/oinDfy6FgBprnfIC02-Z8r0v_pJRfsCAf_dkL7PqE5BgKGnMUg3XcFv8COAk0Fo9PrKttIKPIQnwwI7C0SPzAgJOokQ3P59cSrE9mfvI5ufhv7rybHgVewnivaMdanYxHG2Tzg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7181675,37.7538067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>공릉천변</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/MSHXSWLxdRDByzIQq2OylPzUxNGX6sImHAHOLICD9x91Pn2O9HDIHEE6PRGnHCYk_JKkIAykByzsUmC2yKcjgp39Z0DjQ0GWrF5mzS8K_JmiCP1jXszBdh6LCmdPXet27z8ggg" height="200" width="auto" /><br><br>* tvN 크리미널 마인드<br>EP.13 (2017.09.06)<br>- 예인 출연. 선우(예인)이 친구한테 책을 받았던 곳. 나중에 이곳에서 친구를 기다림<br><br><img src="https://lh3.googleusercontent.com/vwZ1svaLdyzz95tqB1aidVVpjEUhj9vGASXEeYfedvj9PrtI6rfYU53vs3dlZEHQlOrzmvFQpK1kxCdXVvAp-x3rb8Z9mmOwjp3IbnQRifB5VNkJ9TuoCcCQWki126-crDKd0Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1886-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/MSHXSWLxdRDByzIQq2OylPzUxNGX6sImHAHOLICD9x91Pn2O9HDIHEE6PRGnHCYk_JKkIAykByzsUmC2yKcjgp39Z0DjQ0GWrF5mzS8K_JmiCP1jXszBdh6LCmdPXet27z8ggg https://lh3.googleusercontent.com/vwZ1svaLdyzz95tqB1aidVVpjEUhj9vGASXEeYfedvj9PrtI6rfYU53vs3dlZEHQlOrzmvFQpK1kxCdXVvAp-x3rb8Z9mmOwjp3IbnQRifB5VNkJ9TuoCcCQWki126-crDKd0Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.720329,37.7534559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>파파이스 동교점</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/AQ7pRtWKxsYV-_i8JjvP-1a8aB_vYhAXFU7hbIlrJznMET3ZkRPu9ZyzGwFmNJSDgv2DW8FAXD5WiscV-X2or9FGGISaOPq-BXgorXeiW4LPeEa9AudSFGodqtEjKkxHa4lE" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>드라마 EP.02 (2017.06.27)<br>- 수정 출연. 극중 문별과 수정이 몰래 햄버거를 먹은 곳<br>- https://www.vlive.tv/video/33939 ]]></description>
+        <styleUrl>#icon-1567-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/AQ7pRtWKxsYV-_i8JjvP-1a8aB_vYhAXFU7hbIlrJznMET3ZkRPu9ZyzGwFmNJSDgv2DW8FAXD5WiscV-X2or9FGGISaOPq-BXgorXeiW4LPeEa9AudSFGodqtEjKkxHa4lE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9275775,37.5586376,0
+          </coordinates>
+        </Point>
+      </Placemark>
       <Placemark>
         <name>원효대교 밑 계단</name>
         <description><![CDATA[<img src="https://lh6.googleusercontent.com/I1twUKUVz_tcFqRt4shJ_iSHaYZ8XdNY--S8nB2_XVKG2uuoq6JiLd1O9-yWB-6SlMXkXOnbS7cBgdnWOE-WiVFYSGGXvAj7keok8imhKSpFLZhg2pmft0Ex9bG-E_Gm5LWP" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>드라마 EP.05 (2017.06.30)<br>- 수정 출연. 극중 5명만 남은 멤버들이 이야기를 나눴던 곳<br>- https://www.vlive.tv/video/34264 <br><br><img src="https://lh5.googleusercontent.com/wd0IH_NE41_37J6tmmuLYyMDJs2T8JfZr-MxsGWYCodAyw3Bm2VhnVnj690Rg_kgG5zaIvMCUjaVJ4umGyiaNVItWWZRWoDIx9ArhKEDO9JmRD_TE7u0hbGYooLajT1InKjP4w" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1877-0288D1</styleUrl>
+        <styleUrl>#icon-1877-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh6.googleusercontent.com/I1twUKUVz_tcFqRt4shJ_iSHaYZ8XdNY--S8nB2_XVKG2uuoq6JiLd1O9-yWB-6SlMXkXOnbS7cBgdnWOE-WiVFYSGGXvAj7keok8imhKSpFLZhg2pmft0Ex9bG-E_Gm5LWP https://lh5.googleusercontent.com/wd0IH_NE41_37J6tmmuLYyMDJs2T8JfZr-MxsGWYCodAyw3Bm2VhnVnj690Rg_kgG5zaIvMCUjaVJ4umGyiaNVItWWZRWoDIx9ArhKEDO9JmRD_TE7u0hbGYooLajT1InKjP4w</value>
@@ -10875,7 +11320,7 @@
       <Placemark>
         <name>파리공원 한불마당 야외무대</name>
         <description><![CDATA[<img src="https://lh3.googleusercontent.com/E9RhWUVSmxMDz7tR2SAUPcfiBB9WPQHReUjzZQbjlLnqeExFmOpU8KE2cxNE8IZMAgGFYu-nHTCFXyHbAA62vlPZWo2u43DHbnTBblcf98fuHCk7Oo3Um4bXMowOmbS6uYCtVQ" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>드라마 EP.07 (2017.07.02)<br>- 수정 출연. 극중 옆집소녀 멤버들이 무안양파축제 행사를 했던 무대<br>- https://www.vlive.tv/video/34351<br><br><img src="https://lh5.googleusercontent.com/kmDtEUhE3rTwn2G1Qh-52cztbDanCGj2KGu_pFsj3HOwgWFdXDS8_a1JAPsOyX13ixRotKZlQtu_GfwBolcgHmadU69vk7My4j8tyVeJ9gzG6roVDpuhq0UgCcR7tBswr2CUAA" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1614-0288D1</styleUrl>
+        <styleUrl>#icon-1614-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh3.googleusercontent.com/E9RhWUVSmxMDz7tR2SAUPcfiBB9WPQHReUjzZQbjlLnqeExFmOpU8KE2cxNE8IZMAgGFYu-nHTCFXyHbAA62vlPZWo2u43DHbnTBblcf98fuHCk7Oo3Um4bXMowOmbS6uYCtVQ https://lh5.googleusercontent.com/kmDtEUhE3rTwn2G1Qh-52cztbDanCGj2KGu_pFsj3HOwgWFdXDS8_a1JAPsOyX13ixRotKZlQtu_GfwBolcgHmadU69vk7My4j8tyVeJ9gzG6roVDpuhq0UgCcR7tBswr2CUAA</value>
@@ -10890,7 +11335,7 @@
       <Placemark>
         <name>한국잡월드</name>
         <description><![CDATA[<img src="https://lh6.googleusercontent.com/NSTn0MKH0ecOGBUuvRveh4bmpYM0I6d6aZzYTSXs-Td2xyTYeuUmBh5Mu1FGArbzHgfsJ-iXyNDbfSlCY6Vpjd5tHuvzt9q4A1p9GoPYY36kguH79uOnOOfxyugtywRfO7YbXA" height="200" width="auto" /><br><br>* 나는 취준생이다<br>EP.04 (2016.09.02)<br>- 미주 출연<br>- 극중 오빠와 밥먹던 곳은 잡카페 (2F)<br>- 인턴 장면을 찍은 곳은 패션디자인실(4F)<br>- 랩하던 곳은 패션쇼장(3F)<br>- https://tv.naver.com/v/1089932<br><br><img src="https://lh5.googleusercontent.com/Du-QpdPL-YQkufC5Awf9ywt_5havXC8yTrGAMXJr5Cd5P0VuSR0Z74I3uOpbF7BwbR39Vz0hMYI0o4PGnjyKIcit6piyIcwBC_9Q6j5kVI8Rtam9n62uw5StlYT9oQGCbK929A" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/qkTpfFT_UJNAQedXOvw4dDHN5Cuv2NLevFwdxWa10GwXlzX30-UZ7dWl0rT4uTbtWjmrlgS_XLeTMj71l1g6NXwrbEUjAnyqxCgESA9tm27Bj57h87FQ03y7kN-2RjYkjezJtg" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh6.googleusercontent.com/NSTn0MKH0ecOGBUuvRveh4bmpYM0I6d6aZzYTSXs-Td2xyTYeuUmBh5Mu1FGArbzHgfsJ-iXyNDbfSlCY6Vpjd5tHuvzt9q4A1p9GoPYY36kguH79uOnOOfxyugtywRfO7YbXA https://lh5.googleusercontent.com/Du-QpdPL-YQkufC5Awf9ywt_5havXC8yTrGAMXJr5Cd5P0VuSR0Z74I3uOpbF7BwbR39Vz0hMYI0o4PGnjyKIcit6piyIcwBC_9Q6j5kVI8Rtam9n62uw5StlYT9oQGCbK929A https://lh6.googleusercontent.com/qkTpfFT_UJNAQedXOvw4dDHN5Cuv2NLevFwdxWa10GwXlzX30-UZ7dWl0rT4uTbtWjmrlgS_XLeTMj71l1g6NXwrbEUjAnyqxCgESA9tm27Bj57h87FQ03y7kN-2RjYkjezJtg</value>
@@ -10905,7 +11350,7 @@
       <Placemark>
         <name>보물섬어린이공원</name>
         <description><![CDATA[<img src="https://lh4.googleusercontent.com/6FlUnIs_zunu45aOJ3iN9FYUNJ-nNpkJ8qj3Ft2VMZU6dwqz8v57r8X0s5nuTkYBsK1Bqh-cFG5gZDa-n8BOIDaB8oDwj2PTXy9Z8skoiCADjBhaLADlm4ymEHc6NTG0vl_r" height="200" width="auto" /><br><br>* 나는 취준생이다<br>예고편, EP.04 (2016.09.02)<br>- 미주 출연<br>- 예고편을 찍었던 놀이터<br>- 극중 오빠와 맥주를 마셨던 공원<br>- https://tv.naver.com/v/1082744<br>- https://tv.naver.com/v/1089932<br><br><img src="https://lh5.googleusercontent.com/Fnz3XH51kGg_AdFFf57msU6A6wD1hsBvwHI6lmrYrINrYsvUlJ9JDYwGnHZjYy_Yl5A9WZEXklgY2cwgLibdoesixO-Gm84cg5GFj06iWBliUAcqK7KGSlvl1CcQnkG0xbuP" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh4.googleusercontent.com/6FlUnIs_zunu45aOJ3iN9FYUNJ-nNpkJ8qj3Ft2VMZU6dwqz8v57r8X0s5nuTkYBsK1Bqh-cFG5gZDa-n8BOIDaB8oDwj2PTXy9Z8skoiCADjBhaLADlm4ymEHc6NTG0vl_r https://lh5.googleusercontent.com/Fnz3XH51kGg_AdFFf57msU6A6wD1hsBvwHI6lmrYrINrYsvUlJ9JDYwGnHZjYy_Yl5A9WZEXklgY2cwgLibdoesixO-Gm84cg5GFj06iWBliUAcqK7KGSlvl1CcQnkG0xbuP</value>
@@ -10920,7 +11365,7 @@
       <Placemark>
         <name>한강밤섬자이아파트</name>
         <description><![CDATA[<img src="https://lh5.googleusercontent.com/iY1DakvYiB6FBStcYydkY_3EVRnT7-L5DwQdU5ZWsY67X5MhpJmE-qlJIF6yVGEOV7O632QnbT-eCRPZwqk8w3_tCMFuvZMRXpFGSEX1UFTXM4wgJABrCTWhIJKt94JGdT10rg" height="200" width="auto" /><br><br>* 나는 취준생이다<br>EP.05 (2016.09.03)<br>- 미주 출연. 극중 출근길<br>- https://tv.naver.com/v/1089944<br><br><img src="https://lh6.googleusercontent.com/oWy1IEvf1sHzpPg0o4sv6161KEldwxWpX6V-EXRVg12Jb3ru5G_tJgXYixiVj3F4SDDy_KAgt8o_wKVGZ6cthcneVHwmdg-to2yfiGAcmYZcXmxXFKq3OM3ZliNntT1VvStkKg" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <styleUrl>#icon-1731-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh5.googleusercontent.com/iY1DakvYiB6FBStcYydkY_3EVRnT7-L5DwQdU5ZWsY67X5MhpJmE-qlJIF6yVGEOV7O632QnbT-eCRPZwqk8w3_tCMFuvZMRXpFGSEX1UFTXM4wgJABrCTWhIJKt94JGdT10rg https://lh6.googleusercontent.com/oWy1IEvf1sHzpPg0o4sv6161KEldwxWpX6V-EXRVg12Jb3ru5G_tJgXYixiVj3F4SDDy_KAgt8o_wKVGZ6cthcneVHwmdg-to2yfiGAcmYZcXmxXFKq3OM3ZliNntT1VvStkKg</value>
@@ -10935,7 +11380,7 @@
       <Placemark>
         <name>(구) 브릭스</name>
         <description><![CDATA[<img src="https://lh5.googleusercontent.com/uTPXDkHzgi_CfHEdHRMr-Dj_j_ltW8o8oBEgr1Ai-UDuTEGPfLbsqzuIYDEav6_WT5UB8K6iky29emeHtTH0-cKx2oA6rZWRDtekON-W1zBTOc8dir4-g2M6-roKHEQHwaR-" height="200" width="auto" /><br><br>현재는 '초록마을'<br><br>* 나는 취준생이다<br>EP.05 (2016.09.03)<br>- 미주 출연. 극중 오빠랑 커피마시러 왔다가 아빠를 만난 곳<br>- https://tv.naver.com/v/1089944<br><br><img src="https://lh6.googleusercontent.com/YXCoPgHh32Y60dbhvltt8rImhhawnbv84O1l7RUXFDVY0NjJGRo8D-osrK8dG-25mAtwCCIO0uy2C9s4zd6jwIphYFv1wucYJBwYaUCGoalo2bXX_BZPsPTmwt0714n2i6PTryo" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1534-0288D1</styleUrl>
+        <styleUrl>#icon-1534-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh5.googleusercontent.com/uTPXDkHzgi_CfHEdHRMr-Dj_j_ltW8o8oBEgr1Ai-UDuTEGPfLbsqzuIYDEav6_WT5UB8K6iky29emeHtTH0-cKx2oA6rZWRDtekON-W1zBTOc8dir4-g2M6-roKHEQHwaR- https://lh6.googleusercontent.com/YXCoPgHh32Y60dbhvltt8rImhhawnbv84O1l7RUXFDVY0NjJGRo8D-osrK8dG-25mAtwCCIO0uy2C9s4zd6jwIphYFv1wucYJBwYaUCGoalo2bXX_BZPsPTmwt0714n2i6PTryo</value>
@@ -10950,7 +11395,7 @@
       <Placemark>
         <name>오산대학교 창조관 앞 벤치</name>
         <description><![CDATA[<img src="https://lh4.googleusercontent.com/4GiOGFjgnZEhlhMrBGxRXLkExPM0mX9a7obIh0YhN6KhPyIcplZKGkMAnE98GohyWNQaE-n5L4m_ASmlSnRtPM9qd6aLi-EJBGF0RnAPOjeiaSdLIVV46T4WJMrzC5XKmE4-BQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 해지가 술먹고 잠자던 곳<br>- https://tv.naver.com/v/2142941<br><br><img src="https://lh5.googleusercontent.com/FRCm0P5sfT8Ot3YHTE5GWlGCsPHSUNwUqwIPpRz8nddIve6ESDWo3QZtSfQaoE_ErppnKSD2lgZIDwYXIY1aAUsWcaknHlw4iK7iGXOUIAxIhULKO809ZCrbEs3qY6hAFERt" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <styleUrl>#icon-1602-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh4.googleusercontent.com/4GiOGFjgnZEhlhMrBGxRXLkExPM0mX9a7obIh0YhN6KhPyIcplZKGkMAnE98GohyWNQaE-n5L4m_ASmlSnRtPM9qd6aLi-EJBGF0RnAPOjeiaSdLIVV46T4WJMrzC5XKmE4-BQ https://lh5.googleusercontent.com/FRCm0P5sfT8Ot3YHTE5GWlGCsPHSUNwUqwIPpRz8nddIve6ESDWo3QZtSfQaoE_ErppnKSD2lgZIDwYXIY1aAUsWcaknHlw4iK7iGXOUIAxIhULKO809ZCrbEs3qY6hAFERt</value>
@@ -10963,12 +11408,27 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>오산대학교 청학관</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/7SfCw3SNd5j5jM077pOppg9_AZtcMadXls5FQAOscR_lFNyrDe5zaoG1wWBEkxN4588ZWTzFIU8tL_LA6e7UIQd-y4Pw8UuaaaKMqElIgHcjO6SH6snez-aJ-HVOl3KQR6EIAQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 조리수업을 받았던 곳 (1층 실습실)<br>- https://tv.naver.com/v/2142941]]></description>
-        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <name>오산대학교 창조관 앞길</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/VlgjDAhWrykBaw6y14EL_xCXw4ncQei0torLLouS8rAduqArVLtxzyos_bHxxP1pWr9jVdOCcacjqkpA8G_MPg0NuF_udZ6XvLNxV9-AwQ5HfpK4g0lJBIX5zsFqgzXmMIPyQA" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 해지가 버스타러 뛰어가다 넘어진 곳<br>- https://tv.naver.com/v/2142941<br><br><img src="https://lh6.googleusercontent.com/e331hHXVJuziQoVsWFqzovOuK4Qg_1Cg-3GN4tJVWSiFrYOmq987jPvcLsIh50UDhpIv_4_MLMi3mJ1OHfQDzPel2Yo9xeE-wyAVWaUmEpDBM4DugI0D8XxOu6hpp0G1LFnU" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/BP4Qk0pitae7Kkv0OySzHAvEV_PR3WBgoZWBV2QVv7BkH-GsK3Me0apJ0WLHF3HfScrP8rtLkeb3qCqfAxH5wFAfd4YUs49bT7PyhLJUnBD2POcvVCGCuivvDSAMXPSUQnp6" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://lh6.googleusercontent.com/7SfCw3SNd5j5jM077pOppg9_AZtcMadXls5FQAOscR_lFNyrDe5zaoG1wWBEkxN4588ZWTzFIU8tL_LA6e7UIQd-y4Pw8UuaaaKMqElIgHcjO6SH6snez-aJ-HVOl3KQR6EIAQ</value>
+            <value>https://lh3.googleusercontent.com/VlgjDAhWrykBaw6y14EL_xCXw4ncQei0torLLouS8rAduqArVLtxzyos_bHxxP1pWr9jVdOCcacjqkpA8G_MPg0NuF_udZ6XvLNxV9-AwQ5HfpK4g0lJBIX5zsFqgzXmMIPyQA https://lh6.googleusercontent.com/e331hHXVJuziQoVsWFqzovOuK4Qg_1Cg-3GN4tJVWSiFrYOmq987jPvcLsIh50UDhpIv_4_MLMi3mJ1OHfQDzPel2Yo9xeE-wyAVWaUmEpDBM4DugI0D8XxOu6hpp0G1LFnU https://lh5.googleusercontent.com/BP4Qk0pitae7Kkv0OySzHAvEV_PR3WBgoZWBV2QVv7BkH-GsK3Me0apJ0WLHF3HfScrP8rtLkeb3qCqfAxH5wFAfd4YUs49bT7PyhLJUnBD2POcvVCGCuivvDSAMXPSUQnp6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0628642,37.1546457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 청학관</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/7SfCw3SNd5j5jM077pOppg9_AZtcMadXls5FQAOscR_lFNyrDe5zaoG1wWBEkxN4588ZWTzFIU8tL_LA6e7UIQd-y4Pw8UuaaaKMqElIgHcjO6SH6snez-aJ-HVOl3KQR6EIAQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>EP.03 심쿵 (2017.10.11)<br>EP.04 난 아니야... (2017.10.12)<br>- 예인 출연. 극중 조리수업을 받았던 곳 (1층 실습실)<br>- https://tv.naver.com/v/2142941<br>- https://tv.naver.com/v/2150110<br>- https://tv.naver.com/v/2154936<br><br><img src="https://lh5.googleusercontent.com/sQPtfsqlc6Z_5j0foULhtAwlaHlvNBHGhJ-GwJpzNW1XqzEhux4XvYhpXEku-1PgaW_dIaQeNEnIws9fA7qjS9RqP9ErMIEYEV6XQ604ZZN6i9rcnPZe7LQxNw2UrgEuvHwThHI" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/7SfCw3SNd5j5jM077pOppg9_AZtcMadXls5FQAOscR_lFNyrDe5zaoG1wWBEkxN4588ZWTzFIU8tL_LA6e7UIQd-y4Pw8UuaaaKMqElIgHcjO6SH6snez-aJ-HVOl3KQR6EIAQ https://lh5.googleusercontent.com/sQPtfsqlc6Z_5j0foULhtAwlaHlvNBHGhJ-GwJpzNW1XqzEhux4XvYhpXEku-1PgaW_dIaQeNEnIws9fA7qjS9RqP9ErMIEYEV6XQ604ZZN6i9rcnPZe7LQxNw2UrgEuvHwThHI</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10980,7 +11440,7 @@
       <Placemark>
         <name>궁평리해수욕장</name>
         <description><![CDATA[<img src="https://lh6.googleusercontent.com/-Dm_xhnmQ89bu7o0pkX3duaOwjwVirCRRhQipHEvez0xKtKKYxNs03jAj37cOxUd9f88PtR9g4UbsIIJvo2HcXtFMaciawr-N5obLzzQCfd-s8vqZkTgHRetzucdyfwWnQAQZAg" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 해지가 차이고 화풀이 하다가 정차기를 발견해서 끌고 간 곳<br>- https://tv.naver.com/v/2142941<br><br><img src="https://lh6.googleusercontent.com/3F4BsFWbmxEZcET6ogackpRkKQmBvbZp2FQ6utWAtifmBHme9PBP58-89z0txoU_1KL-iNk3oyeZEQ9_OJi-dhPlhylBjdjkeyNSePdPjyUlyBtUAmE-05HlGz8mk_Z-bWAT2xE" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/ocTd9uNtggaI-gbYF3pixVDILIQHqwGMh_8jlx3n8O-AD1Jnzol7Am-bFSui5WIf5iOnswzxNVejaLYOb4H5-SJR6UK5zo4pyPQ967_NZtHF4n6QJ2I6VDxpfyey5d2tEq-D7A" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1521-0288D1</styleUrl>
+        <styleUrl>#icon-1521-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh6.googleusercontent.com/-Dm_xhnmQ89bu7o0pkX3duaOwjwVirCRRhQipHEvez0xKtKKYxNs03jAj37cOxUd9f88PtR9g4UbsIIJvo2HcXtFMaciawr-N5obLzzQCfd-s8vqZkTgHRetzucdyfwWnQAQZAg https://lh6.googleusercontent.com/3F4BsFWbmxEZcET6ogackpRkKQmBvbZp2FQ6utWAtifmBHme9PBP58-89z0txoU_1KL-iNk3oyeZEQ9_OJi-dhPlhylBjdjkeyNSePdPjyUlyBtUAmE-05HlGz8mk_Z-bWAT2xE https://lh3.googleusercontent.com/ocTd9uNtggaI-gbYF3pixVDILIQHqwGMh_8jlx3n8O-AD1Jnzol7Am-bFSui5WIf5iOnswzxNVejaLYOb4H5-SJR6UK5zo4pyPQ967_NZtHF4n6QJ2I6VDxpfyey5d2tEq-D7A</value>
@@ -10995,7 +11455,7 @@
       <Placemark>
         <name>오산대학교 희망관 옆 광장</name>
         <description><![CDATA[<img src="https://lh3.googleusercontent.com/SR9Fu9Ts1bswWCbHSkVeBGt8Hl0rVoi6KEZQIEUe1hExUrmWjpFQ_7oE2HxjrVSJJWDd_HTDwT28ifVD3OwpGnqI8-Y1Mykb-ACTjfgfcPSshpsnNd1AJ70FuqEELChu-opqEQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>- 예인 출연. 극중 해지가 친구들과 만나서 얘기(?)하다가 정차기를 소개받은 곳<br>- https://tv.naver.com/v/2142941<br><br><img src="https://lh3.googleusercontent.com/-elyrriPqEPWExZSFh2OW57KIJ06d2kRK5u8ob3t11DspS8WZRilVB2KmHK9Os5We2jj_b5Hdef9IxQChFLSuqiFfm7QN_kT5T6G65VWwkvQdyRQ82obfuw-oSC4wqz28mhb" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh3.googleusercontent.com/SR9Fu9Ts1bswWCbHSkVeBGt8Hl0rVoi6KEZQIEUe1hExUrmWjpFQ_7oE2HxjrVSJJWDd_HTDwT28ifVD3OwpGnqI8-Y1Mykb-ACTjfgfcPSshpsnNd1AJ70FuqEELChu-opqEQ https://lh3.googleusercontent.com/-elyrriPqEPWExZSFh2OW57KIJ06d2kRK5u8ob3t11DspS8WZRilVB2KmHK9Os5We2jj_b5Hdef9IxQChFLSuqiFfm7QN_kT5T6G65VWwkvQdyRQ82obfuw-oSC4wqz28mhb</value>
@@ -11009,16 +11469,226 @@
       </Placemark>
       <Placemark>
         <name>오산대학교 본관</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/CowF-VOGgE_pVnz_r7T_cfZDqRTdlwzkFbZZ_Mbr01wzbG6uYkaNZp4Ctn27SpfPW3Ksc94w78DkC2aAH2de-kXztIO3rhhPp6iGkhL2qKsEvuJWnnZ36aiuPD0iwuBUPpdF-g" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>EP.02 두 얼굴 (2017.10.10)<br>- 예인 출연. 극중 해지가 미행당하던 중 정차기와 함께 숨었던 곳<br>- https://tv.naver.com/v/2142941<br>- https://tv.naver.com/v/2145392<br><br><img src="https://lh5.googleusercontent.com/SY5GmdB1XI6jkaZKJeNl4q-9H-SP-1jyCz4SrtB-Yd3kY8v1icVZgA3OixcR4RIuGgVGpKuiiH4R-f5ENvUHYNtWwauiGpcG5cfxsw-ibPYMw6ZcbGGhGkY8nm-Y3dUp8khq2g" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/-OS8VlcQ-konlSoALd_htidcgbyazOCfYqTYdpIqGf808kcPeqf4L6kSLqoJnW7GSzAtG8D7I80GTalzU3V_QuxTuzCWV8FpyoWXGD8g-XhZpzprlTV_8f7aPZ0aKinrQsr8Ng" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/CowF-VOGgE_pVnz_r7T_cfZDqRTdlwzkFbZZ_Mbr01wzbG6uYkaNZp4Ctn27SpfPW3Ksc94w78DkC2aAH2de-kXztIO3rhhPp6iGkhL2qKsEvuJWnnZ36aiuPD0iwuBUPpdF-g" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.01 우연한 만남 (2017.10.09)<br>EP.02 두 얼굴 (2017.10.10)<br>EP.05 해피엔딩 (2017.10.13)<br>- 예인 출연. 극중 해지가 미행당하던 중 정차기와 함께 숨었던 곳<br>- 마지막회에서 정차기가 납치된 해지(예인)을 구하러온 곳<br>- https://tv.naver.com/v/2142941<br>- https://tv.naver.com/v/2145392<br>- https://tv.naver.com/v/2159664<br><br><img src="https://lh5.googleusercontent.com/SY5GmdB1XI6jkaZKJeNl4q-9H-SP-1jyCz4SrtB-Yd3kY8v1icVZgA3OixcR4RIuGgVGpKuiiH4R-f5ENvUHYNtWwauiGpcG5cfxsw-ibPYMw6ZcbGGhGkY8nm-Y3dUp8khq2g" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/-OS8VlcQ-konlSoALd_htidcgbyazOCfYqTYdpIqGf808kcPeqf4L6kSLqoJnW7GSzAtG8D7I80GTalzU3V_QuxTuzCWV8FpyoWXGD8g-XhZpzprlTV_8f7aPZ0aKinrQsr8Ng" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/sU0CeX0i7SjGfO5uahVqIivtcjMoJiBkyW4G9SSZBVvP5MhNMjBURh4Y7VmHbxj1t20TIlSNjjKb1ZFv7Odor-7ghycc386Diab1m9VEDkQBcc_xbtZiehfqjOhcVWif1nopWXA" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/3KY-nKIhBbVxgObCjoCMD0LjKqDPRX4XC0AIa1X1JFLbxJc9y6hUoxEfTsdLFV6mYC8rz8HqtMhnisahySzdEeDYTz81jJN2b1eBw9cfXG6-hcUpfoJGlL56upMeMqyONWkT8w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://lh5.googleusercontent.com/CowF-VOGgE_pVnz_r7T_cfZDqRTdlwzkFbZZ_Mbr01wzbG6uYkaNZp4Ctn27SpfPW3Ksc94w78DkC2aAH2de-kXztIO3rhhPp6iGkhL2qKsEvuJWnnZ36aiuPD0iwuBUPpdF-g https://lh5.googleusercontent.com/SY5GmdB1XI6jkaZKJeNl4q-9H-SP-1jyCz4SrtB-Yd3kY8v1icVZgA3OixcR4RIuGgVGpKuiiH4R-f5ENvUHYNtWwauiGpcG5cfxsw-ibPYMw6ZcbGGhGkY8nm-Y3dUp8khq2g https://lh4.googleusercontent.com/-OS8VlcQ-konlSoALd_htidcgbyazOCfYqTYdpIqGf808kcPeqf4L6kSLqoJnW7GSzAtG8D7I80GTalzU3V_QuxTuzCWV8FpyoWXGD8g-XhZpzprlTV_8f7aPZ0aKinrQsr8Ng</value>
+            <value>https://lh5.googleusercontent.com/CowF-VOGgE_pVnz_r7T_cfZDqRTdlwzkFbZZ_Mbr01wzbG6uYkaNZp4Ctn27SpfPW3Ksc94w78DkC2aAH2de-kXztIO3rhhPp6iGkhL2qKsEvuJWnnZ36aiuPD0iwuBUPpdF-g https://lh5.googleusercontent.com/SY5GmdB1XI6jkaZKJeNl4q-9H-SP-1jyCz4SrtB-Yd3kY8v1icVZgA3OixcR4RIuGgVGpKuiiH4R-f5ENvUHYNtWwauiGpcG5cfxsw-ibPYMw6ZcbGGhGkY8nm-Y3dUp8khq2g https://lh4.googleusercontent.com/-OS8VlcQ-konlSoALd_htidcgbyazOCfYqTYdpIqGf808kcPeqf4L6kSLqoJnW7GSzAtG8D7I80GTalzU3V_QuxTuzCWV8FpyoWXGD8g-XhZpzprlTV_8f7aPZ0aKinrQsr8Ng https://lh4.googleusercontent.com/sU0CeX0i7SjGfO5uahVqIivtcjMoJiBkyW4G9SSZBVvP5MhNMjBURh4Y7VmHbxj1t20TIlSNjjKb1ZFv7Odor-7ghycc386Diab1m9VEDkQBcc_xbtZiehfqjOhcVWif1nopWXA https://lh3.googleusercontent.com/3KY-nKIhBbVxgObCjoCMD0LjKqDPRX4XC0AIa1X1JFLbxJc9y6hUoxEfTsdLFV6mYC8rz8HqtMhnisahySzdEeDYTz81jJN2b1eBw9cfXG6-hcUpfoJGlL56upMeMqyONWkT8w</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
             127.0603001,37.1553954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 창업경영 라운지</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/IM8E-2XS0wlrGfhiT2PolqhqswK37XBUZIRulm-j7gkq_ZcUKdd3IPgKzY8X4ciunYn-DDncilrHXy23o1VbxwP6qHJVuNvhMWT9Yr7HgavTwHgNxW2Bp3t4o8F1IyjS6vyulQ" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.02 두 얼굴 (2017.10.10)<br>- 예인 출연. 극중 해지(예인)와 친구가 통화하다 만난 곳<br>- https://tv.naver.com/v/2145392<br><br><img src="https://lh4.googleusercontent.com/yb-B1TEtPIDhxL4yVF829YIoxP9vD0VNtPE3gz7YwP3mMEPA6_-5F3b2V6lyHUHwTfCITx-sURk4sjukpKulAsINyRY5_mu3p6ue0AaR7zY5Grnmowof4_Uuu_qCKK0Jj9VITw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1534-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/IM8E-2XS0wlrGfhiT2PolqhqswK37XBUZIRulm-j7gkq_ZcUKdd3IPgKzY8X4ciunYn-DDncilrHXy23o1VbxwP6qHJVuNvhMWT9Yr7HgavTwHgNxW2Bp3t4o8F1IyjS6vyulQ https://lh4.googleusercontent.com/yb-B1TEtPIDhxL4yVF829YIoxP9vD0VNtPE3gz7YwP3mMEPA6_-5F3b2V6lyHUHwTfCITx-sURk4sjukpKulAsINyRY5_mu3p6ue0AaR7zY5Grnmowof4_Uuu_qCKK0Jj9VITw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0617632,37.1555782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 학생회관</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/q4Ujn2wAiyMJCzyWySXFSvZ1lPt0d9Z8z-LpJ7dMAHmWzEjtiQnK0jSpIbFrm3BsK-bpwJ2UPZewbALUuHcQgUlvTTRWLxvATFQsXjBb1pn4yb_mL4lpifp2_ScRo8CLGGNhZg" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.02 두 얼굴 (2017.10.10)<br>EP.03 심쿵 (2017.10.11)<br>- 예인 출연.<br>- 극중 해지(예인)가 친구 앞에서 폭식을 한 곳 (B1 스터디룸)<br>- 극중 해지(예인)이 친구들과 만나 커피 마신곳 (B1 카페테리아)<br>- https://tv.naver.com/v/2145392<br>- https://tv.naver.com/v/2150110<br><br><img src="https://lh3.googleusercontent.com/EjWOURZpa6i_CYlUTKR_bhNe51cNhAPXRNDNGQq8jvJnrKGcTA7PZBP_nFwY9IJAVsZhDGpwbxWsMniYi2jKlP4IrZh0_grySr2Ei0vO3EN0AZo46_L6sHMaxzpTdpAj5fiY65c" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/q4Ujn2wAiyMJCzyWySXFSvZ1lPt0d9Z8z-LpJ7dMAHmWzEjtiQnK0jSpIbFrm3BsK-bpwJ2UPZewbALUuHcQgUlvTTRWLxvATFQsXjBb1pn4yb_mL4lpifp2_ScRo8CLGGNhZg https://lh3.googleusercontent.com/EjWOURZpa6i_CYlUTKR_bhNe51cNhAPXRNDNGQq8jvJnrKGcTA7PZBP_nFwY9IJAVsZhDGpwbxWsMniYi2jKlP4IrZh0_grySr2Ei0vO3EN0AZo46_L6sHMaxzpTdpAj5fiY65c</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0638844,37.1559402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CU 궐동공원점 </name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/MRSyEEiDNqRy5j7IHx2Fs6kvYOVpXQfxzq_lZkEJOL7y3dmyp55h9xPY8IMbN_8cY7wC9IL7XjSlCbAUlBSU5pQMXeoto1tCx1UFYTr2e-6DkkMs3UnqTqHuBWin3q9GW2ve1w" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.02 두 얼굴 (2017.10.10)<br>EP.03 심쿵 (2017.10.11)<br>EP.04 난 아니야... (2017.10.12)<br>- 예인 출연. 편의점 신 촬영 장소<br>- https://tv.naver.com/v/2145392<br>- https://tv.naver.com/v/2150110<br>- https://tv.naver.com/v/2154936<br><br><img src="https://lh6.googleusercontent.com/V-IbeArUBJostxFZJXmTO-VoG0pVG0sgcNh5LnBWuH8kDEU6KQYdQxiXZjUX1pxvwQo5_8jYigNTkMiEF1YGsy0q3qbrh4nCzcan67RoJ5kiHClwOBWsGsMuHa1jzq-bhgYKWmo" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/0q1H6Ep3Y-sJCidPQX3T-zcfsMfck17IPXxtUOXJS5BtmORKIcjtwQDYpSHIkgJlPzCD9Rbla-dOqC6txNT1Cqaw_TsjJb1rRXrctYFWaE289h3DP68wbc8DVIa9NoysyZYC" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/Hp9-t8AkHtNmbzrU54iKGwbiJHJDwYKcBosPbxEbotUyCYpU2tgnuFuMxrUmSJJs9uSuOavK4SQbZVYjQf0Xr_hUnKzaC1fceEOG0njpPRXO6C6a-RP8FY0e39M2CN00Jp2B" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1578-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/MRSyEEiDNqRy5j7IHx2Fs6kvYOVpXQfxzq_lZkEJOL7y3dmyp55h9xPY8IMbN_8cY7wC9IL7XjSlCbAUlBSU5pQMXeoto1tCx1UFYTr2e-6DkkMs3UnqTqHuBWin3q9GW2ve1w https://lh6.googleusercontent.com/V-IbeArUBJostxFZJXmTO-VoG0pVG0sgcNh5LnBWuH8kDEU6KQYdQxiXZjUX1pxvwQo5_8jYigNTkMiEF1YGsy0q3qbrh4nCzcan67RoJ5kiHClwOBWsGsMuHa1jzq-bhgYKWmo https://lh6.googleusercontent.com/0q1H6Ep3Y-sJCidPQX3T-zcfsMfck17IPXxtUOXJS5BtmORKIcjtwQDYpSHIkgJlPzCD9Rbla-dOqC6txNT1Cqaw_TsjJb1rRXrctYFWaE289h3DP68wbc8DVIa9NoysyZYC https://lh4.googleusercontent.com/Hp9-t8AkHtNmbzrU54iKGwbiJHJDwYKcBosPbxEbotUyCYpU2tgnuFuMxrUmSJJs9uSuOavK4SQbZVYjQf0Xr_hUnKzaC1fceEOG0njpPRXO6C6a-RP8FY0e39M2CN00Jp2B</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0618356,37.1569813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 산학협력관</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/TFOCs1Kf-DkcvhJDQm_huVeyo-vJwfLgGsJ7Hzwjo9NW0dLj6o8qYxQ71ukiD_o1sQfgHzUstIBp00jfLsMlFJs1TGumhiWxx1zY2d1yO02FiNjQEebEjOvTnfZ4lb2HzpOBJGw" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.04 난 아니야... (2017.10.12)<br>- 예인 출연.<br>- 극중 현기가 자동차수리 실습하던 곳<br>- https://tv.naver.com/v/2154936<br><br><img src="https://lh3.googleusercontent.com/Q4iEXZXaiP_HoZf-q4xJNcpScS85or14D7cBooYDAhTlP2w5BSn82_7qLDrFDAaKCStMinS-ZPsuAH59ZBoFSbx4bB-f_HF4HvcoAMbuv83drbyxLg4B_v5Opw1LrK1tc_875g" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/TFOCs1Kf-DkcvhJDQm_huVeyo-vJwfLgGsJ7Hzwjo9NW0dLj6o8qYxQ71ukiD_o1sQfgHzUstIBp00jfLsMlFJs1TGumhiWxx1zY2d1yO02FiNjQEebEjOvTnfZ4lb2HzpOBJGw https://lh3.googleusercontent.com/Q4iEXZXaiP_HoZf-q4xJNcpScS85or14D7cBooYDAhTlP2w5BSn82_7qLDrFDAaKCStMinS-ZPsuAH59ZBoFSbx4bB-f_HF4HvcoAMbuv83drbyxLg4B_v5Opw1LrK1tc_875g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0621055,37.1566539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 종합정보관</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Sg_UL-I_zqUhbZAEHmhBmepxcE6wizvYbpIWfgD-HefteFbXKSOW63xkaeZDwwlBJy35UsI2oiiieFT6N-egqlLoKA7jUTvAm7Z4XbRI5wHShPP0OgQgcadBAXf58Z4LyDwk4Q" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.04 난 아니야... (2017.10.12)<br>- 예인 출연.<br>- 극중 친구한테 정차기와 같이 찍힌 사진을 받은 곳 (1F 산학취업처 앞)<br>- https://tv.naver.com/v/2154936]]></description>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/Sg_UL-I_zqUhbZAEHmhBmepxcE6wizvYbpIWfgD-HefteFbXKSOW63xkaeZDwwlBJy35UsI2oiiieFT6N-egqlLoKA7jUTvAm7Z4XbRI5wHShPP0OgQgcadBAXf58Z4LyDwk4Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0608723,37.1563807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산대학교 청암관 구름다리</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/ofwU4ORrq87Wa9Y0ksaZPnfX0VzTB44g7HaLiTIELyFPc0vm-KWT8Zs863EBzrRjiPfS5sseTFegj-bAKcBPCjBtbq1HF34Q_ATLquXDKR-RjAjsuyUHXbpYxYwr02NQv0obnA" height="200" width="auto" /><br><br>* 더블루씨(the Blue Sea)<br>EP.05 해피엔딩 (2017.10.13)<br>- 예인 출연.<br>- 극중 도서관에서 친구를 만나 같이 나왔던 곳<br>- https://tv.naver.com/v/2159664<br><br><img src="https://lh4.googleusercontent.com/RBnUyuOSqd7Q48WFYbam8ooY3lS0DK9E-FxC1yZCxIoEG41r2G3PeQTv02snQvfUSx9fJFU5JyTdBzBuJXrGWV3dcHMwds8xDKSNUutD4SVZvhmkAd45YhdG4GSgssnRAzmD" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1528-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/ofwU4ORrq87Wa9Y0ksaZPnfX0VzTB44g7HaLiTIELyFPc0vm-KWT8Zs863EBzrRjiPfS5sseTFegj-bAKcBPCjBtbq1HF34Q_ATLquXDKR-RjAjsuyUHXbpYxYwr02NQv0obnA https://lh4.googleusercontent.com/RBnUyuOSqd7Q48WFYbam8ooY3lS0DK9E-FxC1yZCxIoEG41r2G3PeQTv02snQvfUSx9fJFU5JyTdBzBuJXrGWV3dcHMwds8xDKSNUutD4SVZvhmkAd45YhdG4GSgssnRAzmD</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0619773,37.155269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>에이피플랜</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/8vBsPJJSFdyDrEUEx--7Pzil7kdf18j4FEvdgg1BIYqS5LzmxgXfEkBEmoJ31dxu5OcuaSEEliYIjRovIYuZsXDkJ0VKcgfLljqLxQ2Voh6LC64zUzE0AYuJimJ8kWEZ8CLHrQ" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 극중 웹툰 사무실 (4층)<br>- https://tv.naver.com/v/1022725]]></description>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/8vBsPJJSFdyDrEUEx--7Pzil7kdf18j4FEvdgg1BIYqS5LzmxgXfEkBEmoJ31dxu5OcuaSEEliYIjRovIYuZsXDkJ0VKcgfLljqLxQ2Voh6LC64zUzE0AYuJimJ8kWEZ8CLHrQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9253375,37.5448952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>디지털매직스페이스</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/I6ggM8y5XLvWBRm9dAG7gH_Sn8xSNEtsYB_OCeASCGozLUYxcIumaakCDpBnFKWiHyWbEH4F_qSGFvGp70xMIuV3PLC7Z5uWv19G3-FlKQbJptMcZ4nAvAmCq9r7KG0biVfKkw" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 웹툰 회사 건물로 쓰인 곳<br>- https://tv.naver.com/v/1022725<br><br><img src="https://lh3.googleusercontent.com/I9akTFCzHYIGq-CvyjHfquRRMJDYhI-q2RiKpGWhVTP89jEvyKTqEmfSkGPDrAdroXSBY0yh-JXiQDpqnqxcsPOWpPSnYq6w0Sq73FYg_BxsBmiRTtTSr3P-pSio2m9yn8j5XA" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/MLpXnjHuPjuaRRIqf4WQOWFoTDc7TgkFbHlTBh_PmFNiZmRP2i3U2wdlKmOaBpelRblCbdIbc0tjNGrnmUiGiXgubzUySwZP6bXXtW28GBbtXikbAgE7AIxJHf7bM_zGvQbTO3c" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/I6ggM8y5XLvWBRm9dAG7gH_Sn8xSNEtsYB_OCeASCGozLUYxcIumaakCDpBnFKWiHyWbEH4F_qSGFvGp70xMIuV3PLC7Z5uWv19G3-FlKQbJptMcZ4nAvAmCq9r7KG0biVfKkw https://lh3.googleusercontent.com/I9akTFCzHYIGq-CvyjHfquRRMJDYhI-q2RiKpGWhVTP89jEvyKTqEmfSkGPDrAdroXSBY0yh-JXiQDpqnqxcsPOWpPSnYq6w0Sq73FYg_BxsBmiRTtTSr3P-pSio2m9yn8j5XA https://lh6.googleusercontent.com/MLpXnjHuPjuaRRIqf4WQOWFoTDc7TgkFbHlTBh_PmFNiZmRP2i3U2wdlKmOaBpelRblCbdIbc0tjNGrnmUiGiXgubzUySwZP6bXXtW28GBbtXikbAgE7AIxJHf7bM_zGvQbTO3c</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8894549,37.5809818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GS25 상암DMC점</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/2-6QIvU1ly1PZcZb6vRbe7t8wiVfI_aGsTuwA_dQBweBO5m6iFfzVgC2n4q0YVNqJ7W8Zpwg80TG9IMqa6_81yT8id9DIJxz_GvtOB-8fovS9bYurwGdUIhD1nup3VMTy8hV8w" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 극중 아아를 산 곳. 이 앞에서 여고생 무리와 부딪혀 다툼이 일어남.<br>- https://tv.naver.com/v/1022725<br><br><img src="https://lh3.googleusercontent.com/fKadkE9ZMEa8ca5whL7wGf2M9Ux1blCRxOGD82gH6b5iK5kFcqUHeAEy8hLKHC-ws18rQh1jskMnbkq_DK8mWjZ0ZIf1uFjTEkPhElfcYyGRfDENm2mTPRBOn1yC6dYjosA0kA" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/yvLzcZZtfSwWi35DHxw0iewiz0WDO1i4FIFEh1vULaklqH0eZvWhypZbYnV9fQ061Ee6J2vzpyeKJlpDzyQ0Wl_pMDZ-ooZxwlHyc9KHiwNx3sy5nQo5QGpk7RRx54qM3v3mIBw" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/wozKcyKMqM_Rc_efoLyS_zjVIULJO7155T7YEciPjxAVZuiEa7mjVACsX2ehvok1JUxMIABf5jMAXx2Q8AYxcWmJuBqskUzDPsm-gTACUMl5RU39Ena7NGCDyQijhNrJ92TjCmg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1578-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/2-6QIvU1ly1PZcZb6vRbe7t8wiVfI_aGsTuwA_dQBweBO5m6iFfzVgC2n4q0YVNqJ7W8Zpwg80TG9IMqa6_81yT8id9DIJxz_GvtOB-8fovS9bYurwGdUIhD1nup3VMTy8hV8w https://lh3.googleusercontent.com/fKadkE9ZMEa8ca5whL7wGf2M9Ux1blCRxOGD82gH6b5iK5kFcqUHeAEy8hLKHC-ws18rQh1jskMnbkq_DK8mWjZ0ZIf1uFjTEkPhElfcYyGRfDENm2mTPRBOn1yC6dYjosA0kA https://lh5.googleusercontent.com/yvLzcZZtfSwWi35DHxw0iewiz0WDO1i4FIFEh1vULaklqH0eZvWhypZbYnV9fQ061Ee6J2vzpyeKJlpDzyQ0Wl_pMDZ-ooZxwlHyc9KHiwNx3sy5nQo5QGpk7RRx54qM3v3mIBw https://lh4.googleusercontent.com/wozKcyKMqM_Rc_efoLyS_zjVIULJO7155T7YEciPjxAVZuiEa7mjVACsX2ehvok1JUxMIABf5jMAXx2Q8AYxcWmJuBqskUzDPsm-gTACUMl5RU39Ena7NGCDyQijhNrJ92TjCmg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8899672,37.5806778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>상암중학교 옆길</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/-h8LefuxOhsbDszJjz43OAVclEZhsjTPT_Y1VyBwXMJoMinZOTvh6mmfnPMnqLxtzwq-QP3pQcyaLpRl8zWiVwFAuoZkLWd9D7yUOgF4iTtD4JOuM4WI5qSRTTulKgWeK0xdeDs" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 홍시아(케이)가 고등학생 무리를 쫓던 길<br>- https://tv.naver.com/v/1022725<br><br><img src="https://lh4.googleusercontent.com/tF-9rPwTJ30wXpWoL91OK6otdUk0EddIA7M843dr-700DZICyRDp5kRaYchWWyWeLnWS720eV4ZTMKxfniu0Xpi-jiZv9F4RgH-9476gKVN0XLANtryNJHuZ4LiTGfQq7nfVzw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/-h8LefuxOhsbDszJjz43OAVclEZhsjTPT_Y1VyBwXMJoMinZOTvh6mmfnPMnqLxtzwq-QP3pQcyaLpRl8zWiVwFAuoZkLWd9D7yUOgF4iTtD4JOuM4WI5qSRTTulKgWeK0xdeDs https://lh4.googleusercontent.com/tF-9rPwTJ30wXpWoL91OK6otdUk0EddIA7M843dr-700DZICyRDp5kRaYchWWyWeLnWS720eV4ZTMKxfniu0Xpi-jiZv9F4RgH-9476gKVN0XLANtryNJHuZ4LiTGfQq7nfVzw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8877275,37.5794675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>동아방송예술대학교 체육관</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/to5qWo4xNRjrLQqgM2pq1E0s6Yifmoo7ueelCTzStcbnmKG7ptbxJOzHfOGDVel267bzOKfpnCiw3WdC-c-7AZUrrKvb9zaDjbaFwWC3SGkzlaRBe_14LAvYnujhWQNnSM9xGA" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 극중 양궁부가 연습하는 체육관<br>- https://tv.naver.com/v/1022725]]></description>
+        <styleUrl>#icon-1589-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/to5qWo4xNRjrLQqgM2pq1E0s6Yifmoo7ueelCTzStcbnmKG7ptbxJOzHfOGDVel267bzOKfpnCiw3WdC-c-7AZUrrKvb9zaDjbaFwWC3SGkzlaRBe_14LAvYnujhWQNnSM9xGA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.358419,37.0577808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대동빌라 9차 앞 광고게시판</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/8foECSQx9SorOWkmojF_q4vwmL0hWmk-zHf5B_tZ2yb0vAh4eaibL7M1E2b_4jb0cl_KEzcuDiArjtI8AUNAnlZ0OUPuUlf0WXE2O3QcjR-bCs92dNc33vfXMwCV5_ZUPwgzxg" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 홍시아(케이)가 양궁부 매니저 구인 전단지를 떼어간 곳<br>- https://tv.naver.com/v/1022725<br><br><img src="https://lh6.googleusercontent.com/MoxRf4XlGWG7B8DM_LU9ZwK_UWxM2PpxJZrewryraPQzmZvTvvkwIlLY1Nw28ipu-l-PiU-EX-wSmAXgHZJt4O0OXx7gTfgAf9BC48bKRbxZ0XBdACuy6vIkdthAL_vrqFje3Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/8foECSQx9SorOWkmojF_q4vwmL0hWmk-zHf5B_tZ2yb0vAh4eaibL7M1E2b_4jb0cl_KEzcuDiArjtI8AUNAnlZ0OUPuUlf0WXE2O3QcjR-bCs92dNc33vfXMwCV5_ZUPwgzxg https://lh6.googleusercontent.com/MoxRf4XlGWG7B8DM_LU9ZwK_UWxM2PpxJZrewryraPQzmZvTvvkwIlLY1Nw28ipu-l-PiU-EX-wSmAXgHZJt4O0OXx7gTfgAf9BC48bKRbxZ0XBdACuy6vIkdthAL_vrqFje3Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8261984,37.3241746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>원고잔공원로</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/D9aJybkogm5rxAzt12YdSG49HGg7WI9DBh1S7NxQrh1sD_zxQzQU8g-YQFIRv1PFDHYbUt4RoR8jYo6FxHUmlMbjZQPcfgriSSy2YpVro7LC93-0Poucl8FmjZceDo5IXrhxAQ" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 홍시아(케이)가 매니저 구인 전단지를 모두 회수하면서 가던 길<br>- https://tv.naver.com/v/1022725<br><br><img src="https://lh4.googleusercontent.com/fYobBSFDqg53eWGRPkLSlGGyUrDiiX7dyLWr4pU5m6LK_vhCz3G-dDOgs-FtHhWgb_cFP3l90dzUXlhsgLP2ChG41Be2bDUjcDR8bq992c339a5ezRaRf4H2ZX8BpEn0LeG3gA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/D9aJybkogm5rxAzt12YdSG49HGg7WI9DBh1S7NxQrh1sD_zxQzQU8g-YQFIRv1PFDHYbUt4RoR8jYo6FxHUmlMbjZQPcfgriSSy2YpVro7LC93-0Poucl8FmjZceDo5IXrhxAQ https://lh4.googleusercontent.com/fYobBSFDqg53eWGRPkLSlGGyUrDiiX7dyLWr4pU5m6LK_vhCz3G-dDOgs-FtHhWgb_cFP3l90dzUXlhsgLP2ChG41Be2bDUjcDR8bq992c339a5ezRaRf4H2ZX8BpEn0LeG3gA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8250659,37.3258714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>원고잔도선관 옆길</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/JgBMX1vglyomHPrwZPBadFAOnewOB3Lr8RXncKh78jiwEzYQ26kVkxpjZ2fKudigPb1PxdZWkHj0miCfiQhFsAutjtXnLRiTWfLIozlr2aYuUwEkl-2RT7ymgNLUiMBg2xJU" height="200" width="auto" /><br><br>* 웹드라마 매칭! 소년양궁부<br>EP.01 첫번째 화살 (2016.08.04)<br>- 케이 출연.<br>- 홍시아(케이)가 매니저 구인 전단지를 모두 회수하고 기뻐하던 곳<br>- https://tv.naver.com/v/1022725<br><br><img src="https://lh4.googleusercontent.com/1MLXywtTfFpjN6ujDkof7WvkiNwW50s7Y02gch8Fdnl7jvKSjnLi7YAMopgmkvy9pa-szTJEh2WmsavCU-gQRyXO4u0SEtdSU1W1f3-f0nlIbTfq9_AoK2kE13EeMrOGAD8EoPM" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/JgBMX1vglyomHPrwZPBadFAOnewOB3Lr8RXncKh78jiwEzYQ26kVkxpjZ2fKudigPb1PxdZWkHj0miCfiQhFsAutjtXnLRiTWfLIozlr2aYuUwEkl-2RT7ymgNLUiMBg2xJU https://lh4.googleusercontent.com/1MLXywtTfFpjN6ujDkof7WvkiNwW50s7Y02gch8Fdnl7jvKSjnLi7YAMopgmkvy9pa-szTJEh2WmsavCU-gQRyXO4u0SEtdSU1W1f3-f0nlIbTfq9_AoK2kE13EeMrOGAD8EoPM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.824921,37.3248007,0
           </coordinates>
         </Point>
       </Placemark>
@@ -12132,7 +12802,7 @@
       </Placemark>
       <Placemark>
         <name>능내역</name>
-        <description><![CDATA[* 2nd Lovelyz Fan Meeting <LOVELY DAY 2> (2018.07.28~29)<br>- VCR 촬영 장소]]></description>
+        <description><![CDATA[* 2nd Lovelyz Fan Meeting <LOVELY DAY 2> (2018.07.28~29)<br>- VCR 촬영 장소<br>- http://gall.dcinside.com/board/view/?id=lovelyz&no=4692313]]></description>
         <styleUrl>#icon-1716-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -12142,7 +12812,7 @@
       </Placemark>
       <Placemark>
         <name>능내역 철길</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/2ClVAcvnJdnFRCfAgkFtHHwcHv-H4WEJnyILjc-3rojLTBRKpNiRbBaMylvAJCjC-vVkunevXlTszT13oV9zv00r2hZyFwl2kBRZeGZptGzgN2IXlxaybbH2weqUvQK2L7LW" height="200" width="auto" /><br><br>- 럽데2 VCR촬영와서 지애가 사진 찍은 곳<br>- https://www.instagram.com/p/Bl2ZrdDBkhz/<br><br><img src="https://lh5.googleusercontent.com/am4qdG3QRvb-rNZuLTRiGGS6bs-V0GzHxrwPUgGpXh8Ahz8Nj3bjQHupvCI6Pm_-9n-YnNwca_PDPfvwFxdX3E0i5KwnQRNzwf1S147MERGV9BQCyPY8gaOxKd5WpS7vzGkO7ec" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/2ClVAcvnJdnFRCfAgkFtHHwcHv-H4WEJnyILjc-3rojLTBRKpNiRbBaMylvAJCjC-vVkunevXlTszT13oV9zv00r2hZyFwl2kBRZeGZptGzgN2IXlxaybbH2weqUvQK2L7LW" height="200" width="auto" /><br><br>- 럽데2 VCR촬영와서 지애가 사진 찍은 곳<br>- https://www.instagram.com/p/Bl2ZrdDBkhz/<br>- http://gall.dcinside.com/board/view/?id=lovelyz&no=4692313<br><br><img src="https://lh5.googleusercontent.com/am4qdG3QRvb-rNZuLTRiGGS6bs-V0GzHxrwPUgGpXh8Ahz8Nj3bjQHupvCI6Pm_-9n-YnNwca_PDPfvwFxdX3E0i5KwnQRNzwf1S147MERGV9BQCyPY8gaOxKd5WpS7vzGkO7ec" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1662-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -12157,11 +12827,21 @@
       </Placemark>
       <Placemark>
         <name>능내역 오두막</name>
-        <description><![CDATA[* 2nd Lovelyz Fan Meeting <LOVELY DAY 2> (2018.07.28~29)<br>- VCR 촬영 장소. 백일장을 했던 오두막]]></description>
+        <description><![CDATA[* 2nd Lovelyz Fan Meeting <LOVELY DAY 2> (2018.07.28~29)<br>- VCR 촬영 장소. 백일장을 했던 오두막<br>- http://gall.dcinside.com/board/view/?id=lovelyz&no=4692313]]></description>
         <styleUrl>#icon-1765-0288D1</styleUrl>
         <Point>
           <coordinates>
             127.2907484,37.5214203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>송촌초등학교</name>
+        <description><![CDATA[* 2nd Lovelyz Fan Meeting <LOVELY DAY 2> (2018.07.28~29)<br>- VCR 촬영 장소. 귀신몰카를 찍었던 곳. 3학년 1반 교실<br>- http://gall.dcinside.com/board/view/?id=lovelyz&no=4692313]]></description>
+        <styleUrl>#icon-1682-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            127.3181863,37.5676519,0
           </coordinates>
         </Point>
       </Placemark>
