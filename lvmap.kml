@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-22)<br>(문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-23)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -4421,6 +4421,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1707-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1709-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1709-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1709-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1709-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1709-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1709-673AB7-normal">
@@ -11486,6 +11520,21 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>스튜디오비바체</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/4V-ZJDmy5CoTbmLEqoutZMPgFMD8AfhtGUhHbDp-9G9dDJlkbWQPGUwqwJEVqsfIY1OuNDZ88obFCBPV0iFLhM0gW3gfacXy1wB4Bxw1yckXkb3DBrQQ0CaU2lNn9274QjTOiw" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>티저 (2017.04.25)<br>EP.03 (2017.06.02)<br>EP.04 (2017.06.05)<br>- 수정 출연.<br>- 티저에서 포스터 촬영했던 곳<br>- 지칠줄 모르는 작가회의를 했던 곳<br>- 티저: https://tv.naver.com/v/1626970<br>- https://www.vlive.tv/video/31704<br>- https://www.vlive.tv/video/32087<br>- https://www.vlive.tv/video/32088<br>- 홈페이지: http://www.studiovivace.co.kr/<br><br><img src="https://lh4.googleusercontent.com/hSMim-52wLvr3pby3V8Kf3VTD52vP5Jj04S9EC-0HfqGAe6wwKYSPEcXb0wiSDjVWeaUSZKPVLeu4q119wHWrEttenVjMOwG1qbKBWKtnkM-ptniJ7LZAZb4Uyf4SI9TeSku7H8" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/0KlpuKdRyhtsip297iEr0T51U6fIANEycQJcUnndICS2SX_WUbPFI1gPnBUUgQDgbIySY4Qa1fhaG5tyyTRvyF9nQa9ul65FdFhxpV72ySMDUjDNc1xHlncvOtJDBeayWdrsZQ" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/VwVwPpN33q2Fni4oJGDWFvOPnqckhyVZR6mh4WxyJsSVXQCfWn3_-Waggk6eZgTlAGGnPKmtIIhi0M3qc1PN7_4v3yC1rUKqTZX5RlzkOv0Qsh7yxglUH8x9VbBtc-xj0IBxXGc" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/4V-ZJDmy5CoTbmLEqoutZMPgFMD8AfhtGUhHbDp-9G9dDJlkbWQPGUwqwJEVqsfIY1OuNDZ88obFCBPV0iFLhM0gW3gfacXy1wB4Bxw1yckXkb3DBrQQ0CaU2lNn9274QjTOiw https://lh4.googleusercontent.com/hSMim-52wLvr3pby3V8Kf3VTD52vP5Jj04S9EC-0HfqGAe6wwKYSPEcXb0wiSDjVWeaUSZKPVLeu4q119wHWrEttenVjMOwG1qbKBWKtnkM-ptniJ7LZAZb4Uyf4SI9TeSku7H8 https://lh6.googleusercontent.com/0KlpuKdRyhtsip297iEr0T51U6fIANEycQJcUnndICS2SX_WUbPFI1gPnBUUgQDgbIySY4Qa1fhaG5tyyTRvyF9nQa9ul65FdFhxpV72ySMDUjDNc1xHlncvOtJDBeayWdrsZQ https://lh3.googleusercontent.com/VwVwPpN33q2Fni4oJGDWFvOPnqckhyVZR6mh4WxyJsSVXQCfWn3_-Waggk6eZgTlAGGnPKmtIIhi0M3qc1PN7_4v3yC1rUKqTZX5RlzkOv0Qsh7yxglUH8x9VbBtc-xj0IBxXGc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6921326,37.7067947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>야먀앤핫칙스</name>
         <description><![CDATA[<img src="https://lh4.googleusercontent.com/w4VdeC7l5qoZYpnxGp15SOkpX_CBcdUj9qgNQl3Vl0eB76oHT2F42FA_Mx8vYRF7OF0WNBPD-7PqiGRS2qvFUklAqLegfy7j7hbKlAc3840774w3kO7cuNz8nfB49aup4l9IZaw" height="200" width="auto" /><br><br>* 아이돌 드라마 공작단<br>EP.11 (2017.06.21)<br>- 수정 출연. 크레용팝 '어이' 안무 연습했던 곳<br>- https://www.vlive.tv/video/33468<br>- https://www.vlive.tv/video/33470]]></description>
         <styleUrl>#icon-1773-0288D1</styleUrl>
@@ -11752,6 +11801,66 @@
         <Point>
           <coordinates>
             126.8900277,37.577011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>락앤볼</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/XVIoQaElON0YpbCNp86sAbNKOOUsXTUn6kvOX8L622cB4hEFQ3yVqv1j-KxpbB8mC5T4E3jyJ2YgjVsVQ1D-GAcUgZHMn9s6qQNVnDipPTayFtQC0Vrdds_Rv17RBhJmhqEsYg" height="200" width="auto" /><br><br>* 해피투게더<br>EP. 553 (2018.09.06)<br>EP. 554 (2018.09.13)<br>- '전설의 조동아리'에 지애, 미주 출연<br>- 단체 촬영했던 볼링장 (8F)<br>- https://tv.naver.com/v/3989131<br>- https://tv.naver.com/v/3989166<br>- https://tv.naver.com/v/4043480<br><br><img src="https://lh6.googleusercontent.com/31f0aAt7KRlmAGoa73pKOIU2eWLo3nMpAYJcBZV0h7GhGdZ9M1f8qndltv5_mW8o1wsMHdUl4I-zzoFx2jaZVMmh2l3HOBRRYG4CvIDKzrbKSGOqrZbsy7t2tFvLYiepQkmU_3I" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/TBU4pnYnl7lk_CtW25yIgvNcrr5Viozo_QR0Wukg2s8t2V0oK2kPQ8x8JR0pW6beb_vvHbexFz1-b1RQzJWY7pmAuYEaIM-yQafFvnJwEvYIHFL-886J5iO5patABdsxUnTn" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1527-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/XVIoQaElON0YpbCNp86sAbNKOOUsXTUn6kvOX8L622cB4hEFQ3yVqv1j-KxpbB8mC5T4E3jyJ2YgjVsVQ1D-GAcUgZHMn9s6qQNVnDipPTayFtQC0Vrdds_Rv17RBhJmhqEsYg https://lh6.googleusercontent.com/31f0aAt7KRlmAGoa73pKOIU2eWLo3nMpAYJcBZV0h7GhGdZ9M1f8qndltv5_mW8o1wsMHdUl4I-zzoFx2jaZVMmh2l3HOBRRYG4CvIDKzrbKSGOqrZbsy7t2tFvLYiepQkmU_3I https://lh3.googleusercontent.com/TBU4pnYnl7lk_CtW25yIgvNcrr5Viozo_QR0Wukg2s8t2V0oK2kPQ8x8JR0pW6beb_vvHbexFz1-b1RQzJWY7pmAuYEaIM-yQafFvnJwEvYIHFL-886J5iO5patABdsxUnTn</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0318812,37.2644261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>띠밥바코인노래연습장</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/AupTHclY2OIebQi6N91N88DyXUSmiqfG93rHOW7ZuwUStcRawwPpImM3dPAiWHRaVyBNqH1CulwVCle9nDxDtv5MqTUbfw5Xie_ctdwYKbx-xO96XVCybFQQduFxObW2QmZx1w" height="200" width="auto" /><br><br>* 해피투게더<br>EP. 554 (2018.09.13)<br>- '전설의 조동아리'에 지애, 미주 출연<br>- 불멸의 히트곡, 내 노래를 불러줘를 촬영한 노래방 (4F)<br>- https://tv.naver.com/v/4043480<br><br><img src="https://lh4.googleusercontent.com/x0oOGd1HCBz4yYWnJn2fxD3phBSH9-FMywQRe2ht1KqVXVDUTjl5a304a1mPkg6c2L15aTxqCuIjACfVv1S_U58jqq5ZDKdlJYIxB47KXVVQy8jM57wQldVrVRhk4uOnbIQpqw" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/PRxvBztaImHukUHXeN5HKizdqMS9BSBDaunjJgWHcSkwG_-ASTuG-S_1tj8ooEeDpEjRlx7C3JocUOxu-dcPdlEUoOQKlNc09Ye96j7wjj2rTdTZZUsbVaQN7gjm7cOjDlXs" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1614-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/AupTHclY2OIebQi6N91N88DyXUSmiqfG93rHOW7ZuwUStcRawwPpImM3dPAiWHRaVyBNqH1CulwVCle9nDxDtv5MqTUbfw5Xie_ctdwYKbx-xO96XVCybFQQduFxObW2QmZx1w https://lh4.googleusercontent.com/x0oOGd1HCBz4yYWnJn2fxD3phBSH9-FMywQRe2ht1KqVXVDUTjl5a304a1mPkg6c2L15aTxqCuIjACfVv1S_U58jqq5ZDKdlJYIxB47KXVVQy8jM57wQldVrVRhk4uOnbIQpqw https://lh3.googleusercontent.com/PRxvBztaImHukUHXeN5HKizdqMS9BSBDaunjJgWHcSkwG_-ASTuG-S_1tj8ooEeDpEjRlx7C3JocUOxu-dcPdlEUoOQKlNc09Ye96j7wjj2rTdTZZUsbVaQN7gjm7cOjDlXs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0320233,37.2643962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>K-STAR VR</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Kk7da-WNVo74JGfOTRHM6g9BXik03h4wJkA6ekJRhdZ00Wcezc-INI027hFyiTkvDvbr7FZx51B9d1synqkLzWK4jPgzEyJ9Av340Mg58mBnxdzd3HeksbvXBCGI9Qs56J1L" height="200" width="auto" /><br><br>* KBS2 크로스미디어 프로젝트 도시전설<br>EP.01 (2018.09.09)<br>- 지애, 지수, 수정, 예인 출연<br>- VR게임을 즐겼던 곳<br>- https://tv.naver.com/v/4007620<br><br><img src="https://lh6.googleusercontent.com/FsRbrFMtcb1nXhr3nNzNjcgkn_14yJLrP0uFApfm4RJVAQyX3T877Tn91UoZiUW_8Ea5N4tehy0CsfJrQ1isfdSDOxAZ7T2fYzD5QonUSgkQqPCLcGCTjFpBfq4nynTcMutO" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/rZhs0XS2R25nhybn32Bxx_iPs47pPOtSy3fb7Y_jWdYaKr00l-fi55VxVJWZ7IdNhoowsBAV9BnyNzZ4baRhBRQlxOp-X01ZRBq6AMeUPBSl-5Nniu8puFNRTTK88Sjw23vM_Ik" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1709-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Kk7da-WNVo74JGfOTRHM6g9BXik03h4wJkA6ekJRhdZ00Wcezc-INI027hFyiTkvDvbr7FZx51B9d1synqkLzWK4jPgzEyJ9Av340Mg58mBnxdzd3HeksbvXBCGI9Qs56J1L https://lh6.googleusercontent.com/FsRbrFMtcb1nXhr3nNzNjcgkn_14yJLrP0uFApfm4RJVAQyX3T877Tn91UoZiUW_8Ea5N4tehy0CsfJrQ1isfdSDOxAZ7T2fYzD5QonUSgkQqPCLcGCTjFpBfq4nynTcMutO https://lh6.googleusercontent.com/rZhs0XS2R25nhybn32Bxx_iPs47pPOtSy3fb7Y_jWdYaKr00l-fi55VxVJWZ7IdNhoowsBAV9BnyNzZ4baRhBRQlxOp-X01ZRBq6AMeUPBSl-5Nniu8puFNRTTK88Sjw23vM_Ik</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.916812,37.5259551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>캠프하우즈</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/fMQZ34Nnj8DNcqLxIhYA-a6Op0KnS4iIkUD0eq27kvNK8GdHN4jgOkQmYbW4Av5qidXiT-Y7_735pPaVrOpAMvmMZCSNzt1Pb_zJRxridD5uC6nUdldxDl6uWBvp4Hy1SDf8" height="200" width="auto" /><br><br>* KBS2 크로스미디어 프로젝트 도시전설<br>EP.01 (2018.09.09)<br>- 지애, 지수, 수정, 예인 출연<br>- VR을 하다 워프하여 유골의 비밀을 밝혔던 곳<br>- 예전 미군부대였던 곳으로 현재는 영화촬영에 쓰이고 있으며, 일반인 출입금지구역<br><br><img src="https://lh3.googleusercontent.com/Zmlb0GTxaob7a8thvtiP5yAJ9jrhRQHRVFDhNlLwNgEd1W8PkvQPX4oQSKVhxq1K8-tiUYt-Lnw_eeXFKHqJyDOxF4WS3OIKbwPZLzhNqkB5AtBTSu2y2ySoPVkxvyxmOlIka5s" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/CAvFukZGmzvWRrB7mi4vf7D5S2b3ZEa9vG3aTIzdQ12CfRn0locGe_xAGJxc0eqfxtugu5W0b6XdDaL96LJ6MEiR1Ka-1YSTe-Mk3RPo06Pn2VA9QUim8v7PebxQ-ATQeKKivQ" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/w2W9VmQadylGsZ3OjbkySjwI3EsQ9_I3XpI3kisjRvHO_bHfa_0RovCt59qC_Smr0WmAJEXGmkYLQ7IlHCUuHc1iIzUu7AkRlXiqKF7-8mDxo_1bszNZ_pKqElQ58fWFA9Bx" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/49ZWHO3CWgO-dbSMwd55bxUBWpGNWvzss-31kIxLSpL4c0L2Wu9yWOSa9Lf7vtNcpBuBK3KFTQAC-MX24nt7sd356Y3hTmzAmK4u64xhAQsjoCrwNGHxrRTpG8b1jN_6qI-NtdA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1546-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/fMQZ34Nnj8DNcqLxIhYA-a6Op0KnS4iIkUD0eq27kvNK8GdHN4jgOkQmYbW4Av5qidXiT-Y7_735pPaVrOpAMvmMZCSNzt1Pb_zJRxridD5uC6nUdldxDl6uWBvp4Hy1SDf8 https://lh3.googleusercontent.com/Zmlb0GTxaob7a8thvtiP5yAJ9jrhRQHRVFDhNlLwNgEd1W8PkvQPX4oQSKVhxq1K8-tiUYt-Lnw_eeXFKHqJyDOxF4WS3OIKbwPZLzhNqkB5AtBTSu2y2ySoPVkxvyxmOlIka5s https://lh6.googleusercontent.com/CAvFukZGmzvWRrB7mi4vf7D5S2b3ZEa9vG3aTIzdQ12CfRn0locGe_xAGJxc0eqfxtugu5W0b6XdDaL96LJ6MEiR1Ka-1YSTe-Mk3RPo06Pn2VA9QUim8v7PebxQ-ATQeKKivQ https://lh4.googleusercontent.com/w2W9VmQadylGsZ3OjbkySjwI3EsQ9_I3XpI3kisjRvHO_bHfa_0RovCt59qC_Smr0WmAJEXGmkYLQ7IlHCUuHc1iIzUu7AkRlXiqKF7-8mDxo_1bszNZ_pKqElQ58fWFA9Bx https://lh3.googleusercontent.com/49ZWHO3CWgO-dbSMwd55bxUBWpGNWvzss-31kIxLSpL4c0L2Wu9yWOSa9Lf7vtNcpBuBK3KFTQAC-MX24nt7sd356Y3hTmzAmK4u64xhAQsjoCrwNGHxrRTpG8b1jN_6qI-NtdA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8217944,37.7493038,0
           </coordinates>
         </Point>
       </Placemark>
