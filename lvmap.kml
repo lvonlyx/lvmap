@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-23)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-26)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -8914,6 +8914,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Île Sainte-Hélène</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/Bj57-WSmmrn_c73sHlcJBTnLBTzRxrokoGitvVdZ7ds7CVeL5cPpdgWAChs1tSQADJu6eb4qjf6gG9o51UYdYNwa-ZTYVoN1JGJ5C-oolkfi2ePl2ZkEpzkRpSKaez0KjWDR8g" height="200" width="auto" /><br><br>셍뜨엘렌느 섬<br><br>* 러블리즈가 사랑한 캐나다<br>EP.01 (2017.06.08)<br>- 소울이 버킷리스트 정할 때 가고 싶다고 했던 한강 같은 곳<br>- 이후에 짧게 실제 갔던 장면이 나옴<br><br><img src="https://lh6.googleusercontent.com/TuaJGYrc2g_wUbdlA5te9p-dR78ClBS2SpsJIzCNwt-ikQGoKsk5Dw0TKMu9-GQYEEBkZoZfJ9G314-k__YdrvTpxirKftV5OlZ0vRcSTusRQD7BH4NsXmciPBkJJuaJwEQ4FQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1523-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/Bj57-WSmmrn_c73sHlcJBTnLBTzRxrokoGitvVdZ7ds7CVeL5cPpdgWAChs1tSQADJu6eb4qjf6gG9o51UYdYNwa-ZTYVoN1JGJ5C-oolkfi2ePl2ZkEpzkRpSKaez0KjWDR8g https://lh6.googleusercontent.com/TuaJGYrc2g_wUbdlA5te9p-dR78ClBS2SpsJIzCNwt-ikQGoKsk5Dw0TKMu9-GQYEEBkZoZfJ9G314-k__YdrvTpxirKftV5OlZ0vRcSTusRQD7BH4NsXmciPBkJJuaJwEQ4FQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5383281,45.5134198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chez Bong</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/liTXDTT4nrdKzZhqgyvrZ1IKg3_WFJKDQMPmM1bo54kFkurmbxHHZpBVvzyHb0YtP8OB6yuUJk4CTcMN0ZN-18VXfJoP9YXMcOE2XC2oB1YPbRiBwYuJVkig3G9vt8RHVVQA1w" height="200" width="auto" /><br><br>쉐봉<br><br>* 러블리즈가 사랑한 캐나다<br>선공개 6회 (2017.05.26)<br>- 동부팀이 오랜만에 한식을 먹었던 곳<br>- https://tv.naver.com/v/1713688<br><br><img src="https://lh3.googleusercontent.com/5si7G6UvCjQGIaO4Y0ALtfWkMsfs-9CHQUvcZEMg8vU3JZ6YG5IBZbVvf-74w4X7osCFrqi77Khzzi5ZYpOhUz8767zMtPQwLG7voSYxqSx4kRxupzlZ2Nh6Y-8Hy6PgPQWA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/liTXDTT4nrdKzZhqgyvrZ1IKg3_WFJKDQMPmM1bo54kFkurmbxHHZpBVvzyHb0YtP8OB6yuUJk4CTcMN0ZN-18VXfJoP9YXMcOE2XC2oB1YPbRiBwYuJVkig3G9vt8RHVVQA1w https://lh3.googleusercontent.com/5si7G6UvCjQGIaO4Y0ALtfWkMsfs-9CHQUvcZEMg8vU3JZ6YG5IBZbVvf-74w4X7osCFrqi77Khzzi5ZYpOhUz8767zMtPQwLG7voSYxqSx4kRxupzlZ2Nh6Y-8Hy6PgPQWA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5761876,45.4952589,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>LOVELYZ FALL IN JAPAN</name>
@@ -10102,7 +10132,7 @@
       </Placemark>
       <Placemark>
         <name>락희옥</name>
-        <description><![CDATA[* 수요미식회<br>EP.88 (2016.10.19)<br>- 케이 출연]]></description>
+        <description><![CDATA[* 수요미식회<br>EP.88 보쌈 (2016.10.19)<br>- 케이 출연]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -11861,6 +11891,21 @@
         <Point>
           <coordinates>
             126.8217944,37.7493038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>왕경양다리양꼬치</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/S5FPh2lQaUg03KWpdXMaz8nb4kot6z3qV_ZI8rDR-ct0Os28TQgtHUjMU4eRR_6LRcZSixG0gVnl_M2HW1TRQox0MsMFLGh-PZLpeyWYl5fNZBvJ3r_kAJeP2qmQdtP3yWIKzg" height="200" width="auto" /><br><br>* MOMO X [아육대] 두 소녀의 마음을 빼앗은 NO.1 최애음식!?<br>러블리즈편 (2018.10.23)<br>- 수정, 예인 출연<br>- 양꼬치와 양갈비를 먹었던 곳<br>- https://www.vlive.tv/video/94659<br><br><img src="https://lh4.googleusercontent.com/ksEDpWIw1unpfQfg5BgbpsLUZTpW84R1zpPRP1N2tOKrSqE-PPF0Nx4z69RgL0TtknLfWhLFEo_FfhccwaUUqT_WuYNsE9B1YjCoISwy5YQAsmvIaqhV3WMx-0efbg3NASypkiU" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/W8cY7eypZJQMUr1z7k-RkgEUfEXcwDNo05jnQHDQSsjoQy-iMBNkz5qO-DMbgQ2uydSj8DZiSp_LMEM9Q8MV-1AlG5HyY9AhaCmr0BN_EO019i098Mn_jcf7-DS2WjzlapvS9Q" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/hzMQ4v8FZ6fMRrYVSh-qtdvGxIzbDI2xrFz5KctCo_0ElXqY9MN64My7Bs6v4e2SgiekXpWPne1k7tbHfmJi1HE199EGbmRkX-ou3g0GnayyyXjeyDjZma077BVceEzMnNXM7g" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/S5FPh2lQaUg03KWpdXMaz8nb4kot6z3qV_ZI8rDR-ct0Os28TQgtHUjMU4eRR_6LRcZSixG0gVnl_M2HW1TRQox0MsMFLGh-PZLpeyWYl5fNZBvJ3r_kAJeP2qmQdtP3yWIKzg https://lh4.googleusercontent.com/ksEDpWIw1unpfQfg5BgbpsLUZTpW84R1zpPRP1N2tOKrSqE-PPF0Nx4z69RgL0TtknLfWhLFEo_FfhccwaUUqT_WuYNsE9B1YjCoISwy5YQAsmvIaqhV3WMx-0efbg3NASypkiU https://lh6.googleusercontent.com/W8cY7eypZJQMUr1z7k-RkgEUfEXcwDNo05jnQHDQSsjoQy-iMBNkz5qO-DMbgQ2uydSj8DZiSp_LMEM9Q8MV-1AlG5HyY9AhaCmr0BN_EO019i098Mn_jcf7-DS2WjzlapvS9Q https://lh4.googleusercontent.com/hzMQ4v8FZ6fMRrYVSh-qtdvGxIzbDI2xrFz5KctCo_0ElXqY9MN64My7Bs6v4e2SgiekXpWPne1k7tbHfmJi1HE199EGbmRkX-ou3g0GnayyyXjeyDjZma077BVceEzMnNXM7g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9405542,37.5421881,0
           </coordinates>
         </Point>
       </Placemark>
