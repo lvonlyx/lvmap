@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-26)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-27)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -511,6 +511,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1527-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1528-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1528-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1528-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1528-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1528-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1528-0F9D58-normal">
@@ -11909,6 +11943,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>순수 청담점</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/EMz2QPP2w4HzirgmoxKh9SqpnnQXKM0FJ6q_o36hiGX95GK2pamsiSTZlm1qfxb7hG_1hdoE7dS6D8U4NsvkQKuYCWY6hHILGlDgv-ODPP-YzDlN_eCBzPDrOEiow4EhgnI2Tg" height="200" width="auto" /><br><br>* tvN 아찔한 사돈연습<br>EP.04 (2018.10.26)<br>- 미주 출연. 할로윈 분장했던 곳<br>- https://tv.naver.com/v/4368463<br><br><img src="https://lh3.googleusercontent.com/qWm0qR3gY20V9Jp9xCf24Ctdg4_M9DgXd9W5AiVmzx-ldlSjETKQo2TSQkPPO0WUIlvu6tj9hvTMKxBYvLkMtAL8KThRagqF_cYoKflHO_Swt_WgheuQAngpoPUeTAh7VVYemU8" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1516-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/EMz2QPP2w4HzirgmoxKh9SqpnnQXKM0FJ6q_o36hiGX95GK2pamsiSTZlm1qfxb7hG_1hdoE7dS6D8U4NsvkQKuYCWY6hHILGlDgv-ODPP-YzDlN_eCBzPDrOEiow4EhgnI2Tg https://lh3.googleusercontent.com/qWm0qR3gY20V9Jp9xCf24Ctdg4_M9DgXd9W5AiVmzx-ldlSjETKQo2TSQkPPO0WUIlvu6tj9hvTMKxBYvLkMtAL8KThRagqF_cYoKflHO_Swt_WgheuQAngpoPUeTAh7VVYemU8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0430985,37.5241129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>도산대로</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/zPjECBaiQ3g7GFYGmvxaAgmLmYu6cLvutz4HvsLKpUfm7k-Cv0UEtuHfqraWJyPwTrXuWidq21ge63F31yySKm02OvmHQDv3ZPQ4U3OKhaL75FYcODGPWUKFcpHGDh8XBdOFf4o" height="200" width="auto" /><br><br>* tvN 아찔한 사돈연습<br>EP.04 (2018.10.26)<br>- 미주 출연. 할리퀸 분장을 하고 길거리 크레이지 런웨이를 했던 곳<br>- https://tv.naver.com/v/4368463<br><br><img src="https://lh4.googleusercontent.com/Zce1WPF7ScmvPTsw8w1qACDLBMkQOc3vrWWUAMdeiSDCNiTvBd8emLN78MotFml9vFVi1yUoM8fY2pINNrk8KkYRm-q8uq3yudieUq_1SjTxWP1LTpirgyJ65I-AaXfuOoJ3VjU" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/FncidBr94a_UlSAtFYEgGlXvpNb7Yq9upSGnAuDAuBg_w-e1mXX-8wnNmm7FpUuXPk8tVOkbqRkqWlYxLC1DPJdtGB61gN259fcSw3wjMJaeF_Nd0mU-vtjt_Z4NxolMRD-42A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/zPjECBaiQ3g7GFYGmvxaAgmLmYu6cLvutz4HvsLKpUfm7k-Cv0UEtuHfqraWJyPwTrXuWidq21ge63F31yySKm02OvmHQDv3ZPQ4U3OKhaL75FYcODGPWUKFcpHGDh8XBdOFf4o https://lh4.googleusercontent.com/Zce1WPF7ScmvPTsw8w1qACDLBMkQOc3vrWWUAMdeiSDCNiTvBd8emLN78MotFml9vFVi1yUoM8fY2pINNrk8KkYRm-q8uq3yudieUq_1SjTxWP1LTpirgyJ65I-AaXfuOoJ3VjU https://lh3.googleusercontent.com/FncidBr94a_UlSAtFYEgGlXvpNb7Yq9upSGnAuDAuBg_w-e1mXX-8wnNmm7FpUuXPk8tVOkbqRkqWlYxLC1DPJdtGB61gN259fcSw3wjMJaeF_Nd0mU-vtjt_Z4NxolMRD-42A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0424975,37.5237703,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>드라마</name>
@@ -12961,6 +13025,21 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>구백가든</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/RfS5O5Oy3KOqo-yFv9ImVyEyXrN21UalCtbAKgOyVZaiw9y1ExqCTJmKkYfueqwYldBc2eXpNevlBt094vOn9gjjqyU6JCBKI_j7xJoZMJ6fu-3iNOq2KzDACAZI7kpNza-Fp6g" height="200" width="auto" /><br><br>- 소울 친척분께서 운영하시는 키조개+소고기 삼합집<br>- 멤버들이 화순행사 가기전에 몸보신 한 곳<br>- https://www.instagram.com/p/BpZHCAon0fL/<br>- https://www.instagram.com/p/BpZGa_1HIL_/<br><br><img src="https://lh3.googleusercontent.com/kvhEWPXOS1pZooy2xxd08gXOGxraPP8603m4az_9XpOFArecHx7d9AhqClByeHzHIbkOCa9V35iCvbP35kcizUHHmf-d1HIDBAgPwld029kHUzqaVHlMmSdk2v5L_Iqq4HkX" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/RfS5O5Oy3KOqo-yFv9ImVyEyXrN21UalCtbAKgOyVZaiw9y1ExqCTJmKkYfueqwYldBc2eXpNevlBt094vOn9gjjqyU6JCBKI_j7xJoZMJ6fu-3iNOq2KzDACAZI7kpNza-Fp6g https://lh3.googleusercontent.com/kvhEWPXOS1pZooy2xxd08gXOGxraPP8603m4az_9XpOFArecHx7d9AhqClByeHzHIbkOCa9V35iCvbP35kcizUHHmf-d1HIDBAgPwld029kHUzqaVHlMmSdk2v5L_Iqq4HkX</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8930471,34.9837214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>성산자동차운전학원</name>
         <description>소울, 명은이 운전면허를 딴 학원</description>
         <styleUrl>#icon-1538-673AB7</styleUrl>
@@ -13757,6 +13836,201 @@
         <Point>
           <coordinates>
             126.9343506,37.5662079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>황전휴게소 광양방향</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/yBI91F3rxyMG3uYubf0mMCLY9G38DBJpwtAkIeRDx6jJts3c--hxvrn8Zy9SGtW7PJfiecM5kLvHp4PwaamCr2uVhT-aavCPzTRaZh0cUnLdWws153c_fG6qIeQ_iI9ewb3_Mw" height="200" width="auto" /><br><br>- 지수가 순천행사 가는 길에 바나나 쪼꼬과자 먹고 신나했던 곳<br>- https://www.instagram.com/p/BpRX83PhpD4/<br><br><img src="https://lh6.googleusercontent.com/thxSZh6Z-hBlA1-98_P8Gy5aBvsXEmiUTAWu-W5HvitJvklq7RQJ9ZJrzR1LqvDZl2hCQFOPSY06cfWAN9PJBnY9SbTnIsk654CS6XULABUbOLWwhKa_lFKy58o_ZrwA7oD8wA" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/rLXmbWNutve9d6nUsnv39rGAbCwpslHaozu0d4Pm7WkI1eoez5o-No42U-PtlapIEaCIjf-qUuYgtg_fTGBFX9RoKuWjfltUqOUbBDeCmsBl_Pyl4iu8C3ZlFIkdFLN1fBMH" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/q7NsJ4Ls_jT36PTOTehPUol7yG02DSr7pWABcwzxoSuU5nGjr3GChyIQlJmcsf-mLr7st43Lrtt0pR_oRy0kNAvNKDoeIGF-feJ2lLWAtyUzf5s3cGVfAPKDsizN8zU93UJVssE" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1538-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/yBI91F3rxyMG3uYubf0mMCLY9G38DBJpwtAkIeRDx6jJts3c--hxvrn8Zy9SGtW7PJfiecM5kLvHp4PwaamCr2uVhT-aavCPzTRaZh0cUnLdWws153c_fG6qIeQ_iI9ewb3_Mw https://lh6.googleusercontent.com/thxSZh6Z-hBlA1-98_P8Gy5aBvsXEmiUTAWu-W5HvitJvklq7RQJ9ZJrzR1LqvDZl2hCQFOPSY06cfWAN9PJBnY9SbTnIsk654CS6XULABUbOLWwhKa_lFKy58o_ZrwA7oD8wA https://lh4.googleusercontent.com/rLXmbWNutve9d6nUsnv39rGAbCwpslHaozu0d4Pm7WkI1eoez5o-No42U-PtlapIEaCIjf-qUuYgtg_fTGBFX9RoKuWjfltUqOUbBDeCmsBl_Pyl4iu8C3ZlFIkdFLN1fBMH https://lh6.googleusercontent.com/q7NsJ4Ls_jT36PTOTehPUol7yG02DSr7pWABcwzxoSuU5nGjr3GChyIQlJmcsf-mLr7st43Lrtt0pR_oRy0kNAvNKDoeIGF-feJ2lLWAtyUzf5s3cGVfAPKDsizN8zU93UJVssE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.4543691,35.1492458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>양화진길 24 앞</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/urrqgvxUIl01Ns6LwTKzb1y05iqWO3ObUoCO5qbVpMu-gQ-PW5c-Ef4VGJTzrtM94V6NRkQXEkZxt9D7QXalCHaqWfFwDvoQ43JYPPgiYtkWsMiaecNEc-G_DmKW0O6QwAms55w" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 지애가 자전거 타고 가던 길<br>- https://www.youtube.com/watch?v=CFWPJtK10O4]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/urrqgvxUIl01Ns6LwTKzb1y05iqWO3ObUoCO5qbVpMu-gQ-PW5c-Ef4VGJTzrtM94V6NRkQXEkZxt9D7QXalCHaqWfFwDvoQ43JYPPgiYtkWsMiaecNEc-G_DmKW0O6QwAms55w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9123224,37.5476323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(구) ding dong</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/mGn28oBeB49vDyvcXBBU9YTpiIk_pqYq9HJbtEBtEEEPowO-UeiaqubjJbT3HRBr3L6LCR_ix91OYp4IvEgrdcZYlt6U5FLcXb_Jhs2zKlJiIjQ4jUeum4S5qsdu-YnULpXh6g" height="200" width="auto" /><br><br>현재는 참숯직화구이 전문점 '황소랑'<br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- MV에서 지애 집으로 나오던 곳<br>- 촬영 장소는 당시에 cafe였음<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=CFWPJtK10O4<br><br><img src="https://lh6.googleusercontent.com/v4E9nXxVCqkgzBVVQzrmHdYuRcN_AjfdSAB8JDD6U85K5bg6v7QbJiyBlyBqhnT0tDKthi1J7NRzOLvxLmLilg7wnOYWe-ya2HASXO9Au-cs1ypu6bJ7jMxzntMa-FjoMigvSQ" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/1zhdGFggV1HHYY8mqNhMdgvkVopRS_1oDa-rOanOiZo8iH1vcluW6MZ1DhFzvHuQxVX0vfYq2qEZ0TUJ6neIDpDKPWNRgrPo7_5ztuqYMquRPeIAdPaqhCn-Z0LO_QDR6lS_" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/7JMB5iGHBUMmt7GKOe32WPc9zbOk2ubXftOtOYYvp3KrM34P8_aUOzLbyJm6NtPbhzJJF21Tc0SehCXH0AIagwX7hg38N6SKKMHsYLIXOfrNmBqIbWtY_3aNFkF2WsGzL5IBpQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/mGn28oBeB49vDyvcXBBU9YTpiIk_pqYq9HJbtEBtEEEPowO-UeiaqubjJbT3HRBr3L6LCR_ix91OYp4IvEgrdcZYlt6U5FLcXb_Jhs2zKlJiIjQ4jUeum4S5qsdu-YnULpXh6g https://lh6.googleusercontent.com/v4E9nXxVCqkgzBVVQzrmHdYuRcN_AjfdSAB8JDD6U85K5bg6v7QbJiyBlyBqhnT0tDKthi1J7NRzOLvxLmLilg7wnOYWe-ya2HASXO9Au-cs1ypu6bJ7jMxzntMa-FjoMigvSQ https://lh5.googleusercontent.com/1zhdGFggV1HHYY8mqNhMdgvkVopRS_1oDa-rOanOiZo8iH1vcluW6MZ1DhFzvHuQxVX0vfYq2qEZ0TUJ6neIDpDKPWNRgrPo7_5ztuqYMquRPeIAdPaqhCn-Z0LO_QDR6lS_ https://lh6.googleusercontent.com/7JMB5iGHBUMmt7GKOe32WPc9zbOk2ubXftOtOYYvp3KrM34P8_aUOzLbyJm6NtPbhzJJF21Tc0SehCXH0AIagwX7hg38N6SKKMHsYLIXOfrNmBqIbWtY_3aNFkF2WsGzL5IBpQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9263087,37.5551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>양화진길 55 앞</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/3LxXogz1HaOxQ7dwOND0TcE_NOVKcm9e6E24-lhXHmfzaNmHlToJU2f9BfUJ0WmQSpSNSDNffI_kSQpBOyF0EyjqaAl_Et6gtQZLCzsVzoeWXU-th71sUgLu0DHFlnxJ1qcRMQ" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 지애가 자전거 타고 가던 길<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=CFWPJtK10O4<br><br><img src="https://lh3.googleusercontent.com/kSQKJOgemsZGaFsGYK2e4YuZHtcMM7OVdR4ZCkE-XdJD180iZTnb2Z-c10oxy6yBNKWx_z2_y1XtkTZVNun5870zriL9ZYmMsU-ovkkmNWgSHOGnnJfhjMEr5Lmhcgcb9yUI8Q" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/9SQZQDjSB8oF_sC2G1hAnygI5-E7XlrGB-PQBocYTj2MyErv0m-dDiymKEHtUVyXO1bPQ_VI1AKaSRZlgYcsCkPzm5VO1Xpf0epG4BiyKQbJAa31XFrFvjXXuQEk363kQNC_7w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/3LxXogz1HaOxQ7dwOND0TcE_NOVKcm9e6E24-lhXHmfzaNmHlToJU2f9BfUJ0WmQSpSNSDNffI_kSQpBOyF0EyjqaAl_Et6gtQZLCzsVzoeWXU-th71sUgLu0DHFlnxJ1qcRMQ https://lh3.googleusercontent.com/kSQKJOgemsZGaFsGYK2e4YuZHtcMM7OVdR4ZCkE-XdJD180iZTnb2Z-c10oxy6yBNKWx_z2_y1XtkTZVNun5870zriL9ZYmMsU-ovkkmNWgSHOGnnJfhjMEr5Lmhcgcb9yUI8Q https://lh6.googleusercontent.com/9SQZQDjSB8oF_sC2G1hAnygI5-E7XlrGB-PQBocYTj2MyErv0m-dDiymKEHtUVyXO1bPQ_VI1AKaSRZlgYcsCkPzm5VO1Xpf0epG4BiyKQbJAa31XFrFvjXXuQEk363kQNC_7w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9120061,37.5461828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>일산호수공원: 나무</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/KfbwE1nSL1NvJ4Au5KpQ-0Rt0De9ghYcHVl_QZy_Qv0oB7rUovFA8mBfxxNGYRlWT5_jk8QF2tyhF2XBIG3EHRD2VXX0BmVE9hhRs_EPlEKooH5CH4EtdPwCNR8h4-SQ60D1" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 기대 앉아서 찍었던 나무<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=CFWPJtK10O4<br><br><img src="https://lh3.googleusercontent.com/3c2E6vzru9WcDCruAGp1STvh3s4LY1elLoocXVFO-is2A46FgjFk9ytPPhxJDoinrImJkLqNOoLmhtRg-BqKEpcRwaQ_aPGLUvIGaQAYuqu8FLTMGD_tVuDFQtlgyaBVn9YP" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/fkrKBZwHmcwKNr7qeggxiM5r6fOSVfXE3h0S4fURFyCLgjZaPLXsJ_LRoiAaODAiGwZmTkSWjgc17mTEKKxArC3dAZoQv1152MR9Y6n7t7-kZn49iGEDQVZPoFTkA3UMwe0E" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/KfbwE1nSL1NvJ4Au5KpQ-0Rt0De9ghYcHVl_QZy_Qv0oB7rUovFA8mBfxxNGYRlWT5_jk8QF2tyhF2XBIG3EHRD2VXX0BmVE9hhRs_EPlEKooH5CH4EtdPwCNR8h4-SQ60D1 https://lh3.googleusercontent.com/3c2E6vzru9WcDCruAGp1STvh3s4LY1elLoocXVFO-is2A46FgjFk9ytPPhxJDoinrImJkLqNOoLmhtRg-BqKEpcRwaQ_aPGLUvIGaQAYuqu8FLTMGD_tVuDFQtlgyaBVn9YP https://lh3.googleusercontent.com/fkrKBZwHmcwKNr7qeggxiM5r6fOSVfXE3h0S4fURFyCLgjZaPLXsJ_LRoiAaODAiGwZmTkSWjgc17mTEKKxArC3dAZoQv1152MR9Y6n7t7-kZn49iGEDQVZPoFTkA3UMwe0E</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7626893,37.6581678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>일산호수공원: 나무다리</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/Mx1hNYF2_EvGcVIZtTWDFR5p-I9RuPknbr4rEkc0AxmqW4jahfRnGMOSUs06TnX-hi8kIMaVwj58zfkcmCJ7C6Ejp8cDAHH5VtJ5TeihmReAo0sJheJ82pv1_qOkBGUdgMcBvQ" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 지애가 자전거 타고 건너던 다리<br>- https://www.youtube.com/watch?v=CFWPJtK10O4]]></description>
+        <styleUrl>#icon-1528-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/Mx1hNYF2_EvGcVIZtTWDFR5p-I9RuPknbr4rEkc0AxmqW4jahfRnGMOSUs06TnX-hi8kIMaVwj58zfkcmCJ7C6Ejp8cDAHH5VtJ5TeihmReAo0sJheJ82pv1_qOkBGUdgMcBvQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7681825,37.6510034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>일산호수공원: 자전거길</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/0Scfx9x74I4Y80Hmzp5aBKy5sDwVUSXDM2k45_xvpCLu85T5NbJXjqCYmGAKnrHIQrjV7Du7x9eOCEHhQQtlhXaAxVAE7x29y78HkIsyYORD6TuDvf7xQ8N8yro73thx8HPa" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 지애가 자전거 타고 가던 길<br>- https://www.youtube.com/watch?v=CFWPJtK10O4]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/0Scfx9x74I4Y80Hmzp5aBKy5sDwVUSXDM2k45_xvpCLu85T5NbJXjqCYmGAKnrHIQrjV7Du7x9eOCEHhQQtlhXaAxVAE7x29y78HkIsyYORD6TuDvf7xQ8N8yro73thx8HPa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7681315,37.650275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>임진각 평화누리</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/v-rvmNMh2R_3H1q2tcSyxV9t6dA3OOFyvoz9fXk-9KgyFww201KFFMusE82CHN20Exufk_Opc4w790u81rBG0mML3Kfn4sk5je8aOOoWkzoClKZ_rCfT9fOYkFtlAgdO_uWgGQ" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- MV후반부 촬영 장소<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=CFWPJtK10O4<br><br><img src="https://lh5.googleusercontent.com/lQ_u2bQVAROlIbxJI-tac7zIqEhg22se_8RSU9RzorS_Lf4BmrzwRH4csTRkmVQbDdVNWBfEANrBZY6ToehmO3U9urX0_XbfPvERXdtXXFwkEQSLIr9phsRB8vnUimFDDnZiXA" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/XC4L5l3aDlUWJo3mD88uxJ6o23cfGSTbEuKGGFTUgXfQWAuEYfrpcG9FxNQLMOyZAIoGe4uEKhvj_6GwUFxLZq5PtYutoQ9H19b7R4hpV59sUXkgHd6XoDhUR4TKlD9e0fCbphw" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/uSSpGBZ6Q6uioZmwqsrnt4PI4TAD3MUCVQHLXjEd18UbkUHhsgSlx3aj_baG0Y0yZQ4l7QlkwP5IYiTUtZq29p2vvxErwFK98S-OKglZ7TLk-ikJIryo0-SPpEBXR6-eZ--fqA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/v-rvmNMh2R_3H1q2tcSyxV9t6dA3OOFyvoz9fXk-9KgyFww201KFFMusE82CHN20Exufk_Opc4w790u81rBG0mML3Kfn4sk5je8aOOoWkzoClKZ_rCfT9fOYkFtlAgdO_uWgGQ https://lh5.googleusercontent.com/lQ_u2bQVAROlIbxJI-tac7zIqEhg22se_8RSU9RzorS_Lf4BmrzwRH4csTRkmVQbDdVNWBfEANrBZY6ToehmO3U9urX0_XbfPvERXdtXXFwkEQSLIr9phsRB8vnUimFDDnZiXA https://lh3.googleusercontent.com/XC4L5l3aDlUWJo3mD88uxJ6o23cfGSTbEuKGGFTUgXfQWAuEYfrpcG9FxNQLMOyZAIoGe4uEKhvj_6GwUFxLZq5PtYutoQ9H19b7R4hpV59sUXkgHd6XoDhUR4TKlD9e0fCbphw https://lh4.googleusercontent.com/uSSpGBZ6Q6uioZmwqsrnt4PI4TAD3MUCVQHLXjEd18UbkUHhsgSlx3aj_baG0Y0yZQ4l7QlkwP5IYiTUtZq29p2vvxErwFK98S-OKglZ7TLk-ikJIryo0-SPpEBXR6-eZ--fqA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7441187,37.8924805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>연희하인츠빌라 앞</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/yQqF-UMHo2UA_7cyDs3wFiwRwbqKiymFYpKjmd5bf3xTaphQzfbEzKM_Gd7ZTxdxMwgRRvCOHCtpRhBv5j1_V5hkFckJjlXPMaL8bYI_2y6zbmo1-b1JTvdDW-V7Bt7wRTluY6I" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 벚꽃나무 배경으로 찍은 곳<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=CFWPJtK10O4<br><br><img src="https://lh6.googleusercontent.com/NQxuY7-8ngKNQ3LxFopa7eybvBc6kMCTJY1YO-E2jccNzF6Y47Fsxzo1oEx795xKSdhtxlpjpHXMg3A90Na_YNburRr1LtKU8Ca9cnNWGTPNVf_C0a_AU6aXDZwAl6F3NgPkCg" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/lKIevBjQeygFVOhpIW6izM1yiF2llwbbh-7Gi3u0n4x7MApvZWxrKNyiBoFvAEjWnkzBPOykOJcZpNWROrygbBkuypnUnqrJRkenf5IBObOUZPcGHl_p2wILLX0eT9mYDCiWbg" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/2c0w-8bRkzMHmYeMcStYgeIoR_UqWBcnM2rAlZAOHkp0ONYli6CHUfH58Qe2redfRRPgY3DwgKWGNZqzBTFKnrkUFBQ7xFa_YkMP2-d_EP5VoUMiPDYzTxtY-xTOPr71dHyFobU" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/yQqF-UMHo2UA_7cyDs3wFiwRwbqKiymFYpKjmd5bf3xTaphQzfbEzKM_Gd7ZTxdxMwgRRvCOHCtpRhBv5j1_V5hkFckJjlXPMaL8bYI_2y6zbmo1-b1JTvdDW-V7Bt7wRTluY6I https://lh6.googleusercontent.com/NQxuY7-8ngKNQ3LxFopa7eybvBc6kMCTJY1YO-E2jccNzF6Y47Fsxzo1oEx795xKSdhtxlpjpHXMg3A90Na_YNburRr1LtKU8Ca9cnNWGTPNVf_C0a_AU6aXDZwAl6F3NgPkCg https://lh6.googleusercontent.com/lKIevBjQeygFVOhpIW6izM1yiF2llwbbh-7Gi3u0n4x7MApvZWxrKNyiBoFvAEjWnkzBPOykOJcZpNWROrygbBkuypnUnqrJRkenf5IBObOUZPcGHl_p2wILLX0eT9mYDCiWbg https://lh5.googleusercontent.com/2c0w-8bRkzMHmYeMcStYgeIoR_UqWBcnM2rAlZAOHkp0ONYli6CHUfH58Qe2redfRRPgY3DwgKWGNZqzBTFKnrkUFBQ7xFa_YkMP2-d_EP5VoUMiPDYzTxtY-xTOPr71dHyFobU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9308434,37.5735707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>안산도시자연공원</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/RA80dcB91l6tZ3JLFWoKWAm_ROqOSJV2zqiWbX1yEoun6OTl8sRlmK6kZ_wFTrJvJm1sNCOoSQI8jXfxDgaXef1iwwgO7gdSA5vZEsHrs30pIQSh-B88ozuFpOezSkgyUKbiSQ" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 지애가 교복입고 걷던 길<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=CFWPJtK10O4<br><br><img src="https://lh5.googleusercontent.com/KmSU-YMG9F6dC6RAbkBIPwVAEquQ1_biN-PxDr8o07sfet10uFaB6KM9WvwUWAUFxWXFfo4x6sj8mLR25i1AX1oSqRCqev1K5wx-N8eP6KQNoKuPOJssFj9I05Fe15JqcACQsw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/RA80dcB91l6tZ3JLFWoKWAm_ROqOSJV2zqiWbX1yEoun6OTl8sRlmK6kZ_wFTrJvJm1sNCOoSQI8jXfxDgaXef1iwwgO7gdSA5vZEsHrs30pIQSh-B88ozuFpOezSkgyUKbiSQ https://lh5.googleusercontent.com/KmSU-YMG9F6dC6RAbkBIPwVAEquQ1_biN-PxDr8o07sfet10uFaB6KM9WvwUWAUFxWXFfo4x6sj8mLR25i1AX1oSqRCqev1K5wx-N8eP6KQNoKuPOJssFj9I05Fe15JqcACQsw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9310179,37.5737678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>호수교</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/in2DE0BFdHaRm6YULiDnf2FcqGyJn9TiPsFu4v2ofyl6BoenzyJKefNVIZhYBi546T2q1o3uZPlGlIx_DDCxLdPGxBw83m2yH1HqD8thg0muCrJfmdx2rFNiHjuSLipY6hcryA" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making B (2013.04.25)<br>- 자전거와 함께 서있던 다리<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=PLVwYeVNaB8<br><br><img src="https://lh6.googleusercontent.com/Wj_DJ6Cof6XnoirNJBWu9V5cgLCDWjDnqb8rxDRhEPzWCKIsl6lV1rWxYyMudQ48T7UQqIVCrqJ_gytseMNCVFUv7VqQlHp3be_nrnZyD8IyTVhxfcptyx7rAUb9E2WOj2o6kQ" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/CSF-kkQsacXEI_QzeRXeLHEPMUqAcgXh-JEbTkOmHMTuCzOUioGxSO7fnyAp-NzAIRHF_QklbRXfo2G3kImpgp24HMQ1QpIB8xKR5IAfZAm-wuZa7AvAN4iGzOxPD0qoA6ds" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1528-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/in2DE0BFdHaRm6YULiDnf2FcqGyJn9TiPsFu4v2ofyl6BoenzyJKefNVIZhYBi546T2q1o3uZPlGlIx_DDCxLdPGxBw83m2yH1HqD8thg0muCrJfmdx2rFNiHjuSLipY6hcryA https://lh6.googleusercontent.com/Wj_DJ6Cof6XnoirNJBWu9V5cgLCDWjDnqb8rxDRhEPzWCKIsl6lV1rWxYyMudQ48T7UQqIVCrqJ_gytseMNCVFUv7VqQlHp3be_nrnZyD8IyTVhxfcptyx7rAUb9E2WOj2o6kQ https://lh6.googleusercontent.com/CSF-kkQsacXEI_QzeRXeLHEPMUqAcgXh-JEbTkOmHMTuCzOUioGxSO7fnyAp-NzAIRHF_QklbRXfo2G3kImpgp24HMQ1QpIB8xKR5IAfZAm-wuZa7AvAN4iGzOxPD0qoA6ds</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7678714,37.6512094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>일산호수공원: 산책길</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Zbj-ZQc3UMoVvP02F0XZAMpzxq0rZINxW_Ww9HX7g3_GQm5fcHjO3IKlPUEMQqZV3p5R-XEL4D4i1JgcQiqslowFH2d9A2glbE0NsYonNPXs4cKN5EwRBaDuRHfVNtbynSXZ6w" height="200" width="auto" /><br><br>* 유지애(YooJiAe) "Delight" MV (2013.04.23)<br>* 유지애(YooJiAe) "Delight" Making A (2013.04.25)<br>- 지애가 자전거타고 가던 길<br>- https://www.youtube.com/watch?v=uw1ZSSS4hjE<br>- https://www.youtube.com/watch?v=CFWPJtK10O4<br><br><img src="https://lh5.googleusercontent.com/bx-fGLwaudEtYOGrXOomVaUltg2PElIhIbCwIMpdqNahzpyG4beheJ5s8rQ8f07aJF-WgWKoWlv9-dYPtxnlIOz-plscLvWgee-9_oBhqilCjWGeR_GNXhwdtEBTMtnRfruPuw" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/De_RZUOYhbMPVhOadZbVd9FZi1_Zjn-Hi0wLGP5UoL-bGJDBtxqJH_ZuaJYai-K9SQqtitxViE7e7xa91ACShW25SQBGlQH7fiv44MwTGekWakmZ2XsixK80AK9jlKzIukH5nQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Zbj-ZQc3UMoVvP02F0XZAMpzxq0rZINxW_Ww9HX7g3_GQm5fcHjO3IKlPUEMQqZV3p5R-XEL4D4i1JgcQiqslowFH2d9A2glbE0NsYonNPXs4cKN5EwRBaDuRHfVNtbynSXZ6w https://lh5.googleusercontent.com/bx-fGLwaudEtYOGrXOomVaUltg2PElIhIbCwIMpdqNahzpyG4beheJ5s8rQ8f07aJF-WgWKoWlv9-dYPtxnlIOz-plscLvWgee-9_oBhqilCjWGeR_GNXhwdtEBTMtnRfruPuw https://lh3.googleusercontent.com/De_RZUOYhbMPVhOadZbVd9FZi1_Zjn-Hi0wLGP5UoL-bGJDBtxqJH_ZuaJYai-K9SQqtitxViE7e7xa91ACShW25SQBGlQH7fiv44MwTGekWakmZ2XsixK80AK9jlKzIukH5nQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7646286,37.6517615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STUDIO TSA</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/9GTudrXMeuS7xt_ZYLykYU7PPv-kTsFCC2cLj7aLu4Ta-1-dgZLqwNaYBxnApRDu9loA_xYVukObOlspQyN1ctrZffW4xHTRuJPsRRNYZJ_FHL1IYe34OqjtSCDjwXAQ3-etZQ" height="200" width="auto" /><br><br>- '안녕' 자켓 촬영 장소<br><br>* M MAGAZINE 스페셜 러블리즈 자켓 메이킹 영상 (2015.03.03)<br>- http://www.mnet.com/tv/vod/166887<br><br><img src="https://lh5.googleusercontent.com/i4rCHDsmIjjugtxhs_cZJNr3hqmI4avP4Nq_D8lkG8YxtS9JfCZuH_Dy8miyZYp3IHQwko0f7z9X2LATGQcyIPy-Y3jfwdeU5kzkjIMMgEYagQXn89MpEOKOPq27fg_dx2UB" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/HJPfbUiZXlrrdvPFh1wKC-JQx9PiUgWNnOfoVi7RtLEgQeoxnrAhNvNgKVbkq8Yhoc9FKi89VMNazDw2bdZGQFqJxqR07Z-5hLc2w2u_DrbTfElKHI5F3ye5lrkbvQN554sRlg" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/U6xzfiw6QG1huW86QilenA32guaslT8PbrCSGT7s-vbflKeN6dodEkKkb1MwqlxNBHvF_APLfQw6Eqk7ItnhjUzbtf06VoI-0NLxHJzRQDp5h6p5apl4F5kgKkHaFPwWtIaplQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1535-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/9GTudrXMeuS7xt_ZYLykYU7PPv-kTsFCC2cLj7aLu4Ta-1-dgZLqwNaYBxnApRDu9loA_xYVukObOlspQyN1ctrZffW4xHTRuJPsRRNYZJ_FHL1IYe34OqjtSCDjwXAQ3-etZQ https://lh5.googleusercontent.com/i4rCHDsmIjjugtxhs_cZJNr3hqmI4avP4Nq_D8lkG8YxtS9JfCZuH_Dy8miyZYp3IHQwko0f7z9X2LATGQcyIPy-Y3jfwdeU5kzkjIMMgEYagQXn89MpEOKOPq27fg_dx2UB https://lh6.googleusercontent.com/HJPfbUiZXlrrdvPFh1wKC-JQx9PiUgWNnOfoVi7RtLEgQeoxnrAhNvNgKVbkq8Yhoc9FKi89VMNazDw2bdZGQFqJxqR07Z-5hLc2w2u_DrbTfElKHI5F3ye5lrkbvQN554sRlg https://lh5.googleusercontent.com/U6xzfiw6QG1huW86QilenA32guaslT8PbrCSGT7s-vbflKeN6dodEkKkb1MwqlxNBHvF_APLfQw6Eqk7ItnhjUzbtf06VoI-0NLxHJzRQDp5h6p5apl4F5kgKkHaFPwWtIaplQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0551079,37.5496147,0
           </coordinates>
         </Point>
       </Placemark>
