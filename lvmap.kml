@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-27)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-31)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -6253,6 +6253,36 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>가람나무펜션</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/Go1VttKQz7H30hOZp0Bly10lzM27Pn-oXYzo9I7kTr1OOPB2Ldk7qkWNeBt-HTKqdDimThY8qoZTsKc5QO6ffZyAW-GwSRrDnc9uizRxCza6yI8EVRLAzLCJ0tmws4-o1e2p" height="200" width="auto" /><br><br>* 러블리즈 다이어리 시즌1<br>EP.04 러블리즈의 첫 M.T (2014.11.28)<br>- 엠티 장소<br>- https://tv.naver.com/v/242280<br><br><img src="https://lh3.googleusercontent.com/XEUGIEQHzzqUIJ0tUoZ8QIO6wG_A5qK49olyypiD15Fhn8sHv_85S96LnGpwUuBGHHoNFcEEC6W6quTWI3t9s1WMB9WIx9Kcynoqsl0Bj4_RbHCCetzOLlXnPNQJEGTRTabp" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1602-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/Go1VttKQz7H30hOZp0Bly10lzM27Pn-oXYzo9I7kTr1OOPB2Ldk7qkWNeBt-HTKqdDimThY8qoZTsKc5QO6ffZyAW-GwSRrDnc9uizRxCza6yI8EVRLAzLCJ0tmws4-o1e2p https://lh3.googleusercontent.com/XEUGIEQHzzqUIJ0tUoZ8QIO6wG_A5qK49olyypiD15Fhn8sHv_85S96LnGpwUuBGHHoNFcEEC6W6quTWI3t9s1WMB9WIx9Kcynoqsl0Bj4_RbHCCetzOLlXnPNQJEGTRTabp</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.68888,37.754608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>경기 파주시 탄현면 법흥리 1411</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/kdgVR8kXM8fIpNkN0vNNPezlJk86xTTOrDP-FTamsPMDbuthDbLU3zwq_DC8CzZnW5F57STTXV2IOXlBb7qgNyEe5h1v2JyyxiTtvBENCFR0QO0Ul9ez6SsIm77DPckmiC14" height="200" width="auto" /><br><br>* 러블리즈 다이어리 시즌1<br>EP.04 러블리즈의 첫 M.T (2014.11.28)<br>- 라면을 먹고나서 산책했던 논길 (소울, 지수, 케이, 명은)<br>- https://tv.naver.com/v/242280<br><br><img src="https://lh3.googleusercontent.com/NG4kgL7xMu79xv_5pDLbLJ-x3HlxhzCyuykDL1w2gtV7BYz7_Lwk66Eg0QAIUmmIGDlBlrOZQ2VWz7LVwccF8RvXhJLqFRwfCaYK3uJFPsMrBjgj5rPIerVEyETXVPVMsndsnZ0" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/ab4Gh8MqEZztcAUcH-WwbS7Byt3XMhOQsrpToXgKql1VcpnhJ00Rw3MeofeZW6zuabv39udhM7dey-DLtPBglzzfqYAN59Bczo75e_1oM657UBfuhK1PEELq-DVMkVbWzS0g" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/RumP5Nyqh6jijiw9MsysK_vX-P0AHVIl8wqdQlY91bpKVtnrTpB7LZKBriT-1JzDmlf03erT6Yx1Sscy0sI6jX8tPGqH2QQ9kksE3BCi8Jir__sGP7MwCVAjZyql97REreLKkQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/kdgVR8kXM8fIpNkN0vNNPezlJk86xTTOrDP-FTamsPMDbuthDbLU3zwq_DC8CzZnW5F57STTXV2IOXlBb7qgNyEe5h1v2JyyxiTtvBENCFR0QO0Ul9ez6SsIm77DPckmiC14 https://lh3.googleusercontent.com/NG4kgL7xMu79xv_5pDLbLJ-x3HlxhzCyuykDL1w2gtV7BYz7_Lwk66Eg0QAIUmmIGDlBlrOZQ2VWz7LVwccF8RvXhJLqFRwfCaYK3uJFPsMrBjgj5rPIerVEyETXVPVMsndsnZ0 https://lh6.googleusercontent.com/ab4Gh8MqEZztcAUcH-WwbS7Byt3XMhOQsrpToXgKql1VcpnhJ00Rw3MeofeZW6zuabv39udhM7dey-DLtPBglzzfqYAN59Bczo75e_1oM657UBfuhK1PEELq-DVMkVbWzS0g https://lh3.googleusercontent.com/RumP5Nyqh6jijiw9MsysK_vX-P0AHVIl8wqdQlY91bpKVtnrTpB7LZKBriT-1JzDmlf03erT6Yx1Sscy0sI6jX8tPGqH2QQ9kksE3BCi8Jir__sGP7MwCVAjZyql97REreLKkQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.689933,37.7625064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>한국예술고등학교</name>
         <description><![CDATA[<img src="https://lh6.googleusercontent.com/ojiRwSUuN98jCBrjO4mAoDNlZk6VFYq61wJzRTVGkvV7VdrRDtwuCrjMVDH6sj_sp-Y0_FItf2Q_aI5x_7krK9gQ58-AdD58wybno3KktMzEbeU-MsSxotYvl9buYSXyQ6iAoQ" height="200" width="auto" /><br><br>명은이 나온 고등학교 (13회)<br><br>* 러블리즈 다이어리 시즌2<br>EP.01 안녕 러블리즈 다이어리2! (2015.03.06)<br>- 명은이 졸업식<br>- https://tv.naver.com/v/316421]]></description>
         <styleUrl>#icon-1682-880E4F</styleUrl>
@@ -6354,21 +6384,6 @@
         <Point>
           <coordinates>
             126.914841,37.56861,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>가람나무펜션</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/Go1VttKQz7H30hOZp0Bly10lzM27Pn-oXYzo9I7kTr1OOPB2Ldk7qkWNeBt-HTKqdDimThY8qoZTsKc5QO6ffZyAW-GwSRrDnc9uizRxCza6yI8EVRLAzLCJ0tmws4-o1e2p" height="200" width="auto" /><br><br>* 러블리즈 다이어리 시즌1<br>EP.04 러블리즈의 첫 M.T (2014.11.28)<br>- 엠티 장소<br>- https://tv.naver.com/v/242280<br><br><img src="https://lh3.googleusercontent.com/XEUGIEQHzzqUIJ0tUoZ8QIO6wG_A5qK49olyypiD15Fhn8sHv_85S96LnGpwUuBGHHoNFcEEC6W6quTWI3t9s1WMB9WIx9Kcynoqsl0Bj4_RbHCCetzOLlXnPNQJEGTRTabp" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1602-880E4F</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh4.googleusercontent.com/Go1VttKQz7H30hOZp0Bly10lzM27Pn-oXYzo9I7kTr1OOPB2Ldk7qkWNeBt-HTKqdDimThY8qoZTsKc5QO6ffZyAW-GwSRrDnc9uizRxCza6yI8EVRLAzLCJ0tmws4-o1e2p https://lh3.googleusercontent.com/XEUGIEQHzzqUIJ0tUoZ8QIO6wG_A5qK49olyypiD15Fhn8sHv_85S96LnGpwUuBGHHoNFcEEC6W6quTWI3t9s1WMB9WIx9Kcynoqsl0Bj4_RbHCCetzOLlXnPNQJEGTRTabp</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            126.68888,37.754608,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10520,6 +10535,21 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>김희선제주몸국</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/fuhYbjrDDA3Wi4cQSpnzjHhRxXB65ZuE8TqSJeGFzmGniK3m94Ms8L2yZ8RlVzbhWPmLezbr8L9aA2sI3li16Bp4PzrT-H4texW6xyruZvrLgByp2iigExnzrfqp14TAzIxQ" height="200" width="auto" /><br><br>* JTBC 갑자기 히어로즈<br>EP.05 (2017.05.13)<br>- 케이, 예인 출연<br>- 몸국을 먹었던 곳. 후반부에 정말 짧게 나옴 ]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/fuhYbjrDDA3Wi4cQSpnzjHhRxXB65ZuE8TqSJeGFzmGniK3m94Ms8L2yZ8RlVzbhWPmLezbr8L9aA2sI3li16Bp4PzrT-H4texW6xyruZvrLgByp2iigExnzrfqp14TAzIxQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.514026,33.5152024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>노꼬메오름 고사리밭</name>
         <description><![CDATA[<img src="https://lh3.googleusercontent.com/WTVKrJIQYT2_MaRil4BqBThvjlvAbWPXGcU8FyJnxh-WmQNlv1S71pxfFSpwYedod30PIoZUP2wmSZzJF3TroOQjtWzdR-Wbr-i7Jn2t4ndFSOH-Hq69kNZLTaXRg3X770VpgA" height="200" width="auto" /><br><br>* JTBC 갑자기 히어로즈<br>EP.06 (2017.05.20)<br>- 케이와 예인이 고사리 꺾은 곳 <br><br><img src="https://lh3.googleusercontent.com/iT9xvrzRr_4kNkQyP6zuZ3pQLIersBX4Mx-L9z7pTxSs5GHbZHg5iLM4rGaOYm5FhbVQ-bwW_BBxOw7H9U08gf9F72V_R4l1hJN_I4N4jJ-u4r-hXZZzUNAjEScyP8CMTJn3vQ" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/RRlBSqaFIZqK8kq27LCiIlqh6xANCZDcRz2eDmonRc3SmCLO0DTtKVyPNc7tALUr2ahpSSqFJkEbtegfjH6ND83FEUM2_4sElbfc3QVayRVvYiVo0LwQ954N_yxdd79Yrqlb" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/M9U-PiZM3gR7HDtW5cEidwAHj4U3yXzl9gGkxmTwzmtUMq8lh8408DVK1kMAoEivsv90EnxStke8vPj_zOYss_FBryKRWKhlHAmSiVIiUpY_qL-Q9FldFC5nVNQZgSMiODBmOVI" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1634-0288D1</styleUrl>
@@ -11930,7 +11960,7 @@
       </Placemark>
       <Placemark>
         <name>왕경양다리양꼬치</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/S5FPh2lQaUg03KWpdXMaz8nb4kot6z3qV_ZI8rDR-ct0Os28TQgtHUjMU4eRR_6LRcZSixG0gVnl_M2HW1TRQox0MsMFLGh-PZLpeyWYl5fNZBvJ3r_kAJeP2qmQdtP3yWIKzg" height="200" width="auto" /><br><br>* MOMO X [아육대] 두 소녀의 마음을 빼앗은 NO.1 최애음식!?<br>러블리즈편 (2018.10.23)<br>- 수정, 예인 출연<br>- 양꼬치와 양갈비를 먹었던 곳<br>- https://www.vlive.tv/video/94659<br><br><img src="https://lh4.googleusercontent.com/ksEDpWIw1unpfQfg5BgbpsLUZTpW84R1zpPRP1N2tOKrSqE-PPF0Nx4z69RgL0TtknLfWhLFEo_FfhccwaUUqT_WuYNsE9B1YjCoISwy5YQAsmvIaqhV3WMx-0efbg3NASypkiU" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/W8cY7eypZJQMUr1z7k-RkgEUfEXcwDNo05jnQHDQSsjoQy-iMBNkz5qO-DMbgQ2uydSj8DZiSp_LMEM9Q8MV-1AlG5HyY9AhaCmr0BN_EO019i098Mn_jcf7-DS2WjzlapvS9Q" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/hzMQ4v8FZ6fMRrYVSh-qtdvGxIzbDI2xrFz5KctCo_0ElXqY9MN64My7Bs6v4e2SgiekXpWPne1k7tbHfmJi1HE199EGbmRkX-ou3g0GnayyyXjeyDjZma077BVceEzMnNXM7g" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/S5FPh2lQaUg03KWpdXMaz8nb4kot6z3qV_ZI8rDR-ct0Os28TQgtHUjMU4eRR_6LRcZSixG0gVnl_M2HW1TRQox0MsMFLGh-PZLpeyWYl5fNZBvJ3r_kAJeP2qmQdtP3yWIKzg" height="200" width="auto" /><br><br>* MOMO X [아육대] 아이돌 육식대회<br>러블리즈편 (2018.10.23, 2018.10.30)<br>- 수정, 예인 출연<br>- 양꼬치, 양갈비, 양다리 바베큐, 옥수수냉면, 파절임등을 먹었던 곳<br>- https://www.vlive.tv/video/94659<br>- https://www.vlive.tv/video/95726<br><br><img src="https://lh4.googleusercontent.com/ksEDpWIw1unpfQfg5BgbpsLUZTpW84R1zpPRP1N2tOKrSqE-PPF0Nx4z69RgL0TtknLfWhLFEo_FfhccwaUUqT_WuYNsE9B1YjCoISwy5YQAsmvIaqhV3WMx-0efbg3NASypkiU" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/W8cY7eypZJQMUr1z7k-RkgEUfEXcwDNo05jnQHDQSsjoQy-iMBNkz5qO-DMbgQ2uydSj8DZiSp_LMEM9Q8MV-1AlG5HyY9AhaCmr0BN_EO019i098Mn_jcf7-DS2WjzlapvS9Q" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/hzMQ4v8FZ6fMRrYVSh-qtdvGxIzbDI2xrFz5KctCo_0ElXqY9MN64My7Bs6v4e2SgiekXpWPne1k7tbHfmJi1HE199EGbmRkX-ou3g0GnayyyXjeyDjZma077BVceEzMnNXM7g" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -11970,6 +12000,21 @@
         <Point>
           <coordinates>
             127.0424975,37.5237703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>149플라밍고</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/TGEyiAyk2rHxLlgFezW0E9YfF6BLSYfYUTVBDeysQDyUtTnVtmfprQPzUuoI17p9nFIKja5hBFe6REgUtSjhjJ9biV3-FWp15zG2528SSRO07FtFsHDgzb-uqw6bYEsvCwYWfA" height="200" width="auto" /><br><br>* LOVELYZ’s <Eating Show> 러블리즈 X 같이먹어요 (2017.05.05)<br>- 지애, 예인을 제외한 나머지 멤버들이 vlive에서 오돌뼈 먹방을 했던 곳<br>- https://www.vlive.tv/video/28867]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/TGEyiAyk2rHxLlgFezW0E9YfF6BLSYfYUTVBDeysQDyUtTnVtmfprQPzUuoI17p9nFIKja5hBFe6REgUtSjhjJ9biV3-FWp15zG2528SSRO07FtFsHDgzb-uqw6bYEsvCwYWfA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0712156,37.2939218,0
           </coordinates>
         </Point>
       </Placemark>
@@ -14031,6 +14076,81 @@
         <Point>
           <coordinates>
             127.0551079,37.5496147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>마로스튜디오</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/Vy8c4x8Pp5TQS8fe2Pv_iZM4iw8RROn5IRHdqDMkdh6EdjKNQVPOgSUnqRIntfuIoad4niHEM9UeBN_E8Z0E8K5hvRZGPPw3OfztqKbVtCq0Jo9GgPsnphbZl5EIbIxbYsbd" height="200" width="auto" /><br><br>- '겨울나라의 러블리즈' 포스터 촬영장소<br><br><img src="https://lh5.googleusercontent.com/SWEZUR1JyxcP4c_3tgzJZsXHZcmNIvpzWrC3IPSiZA5MTqcjExDro_skyiytku9jEKPvXshfbuj2dcX3oBPZkXogRdAeCY_vn1iyqMIBJan82oNSFJZbpqvm8uXU5MWWr9t47w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1535-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/Vy8c4x8Pp5TQS8fe2Pv_iZM4iw8RROn5IRHdqDMkdh6EdjKNQVPOgSUnqRIntfuIoad4niHEM9UeBN_E8Z0E8K5hvRZGPPw3OfztqKbVtCq0Jo9GgPsnphbZl5EIbIxbYsbd https://lh5.googleusercontent.com/SWEZUR1JyxcP4c_3tgzJZsXHZcmNIvpzWrC3IPSiZA5MTqcjExDro_skyiytku9jEKPvXshfbuj2dcX3oBPZkXogRdAeCY_vn1iyqMIBJan82oNSFJZbpqvm8uXU5MWWr9t47w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9136601,37.4819328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>메종드알로하</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/B7CaGJx3H339nEIp8ZUhU0Osg5YV1wuF-wq3fcpbj2_o_jf1JNnskClMEaJtwJHp0hC725_H3IlSe6fONKsm8J_Au_kbQ4Hr7w1Y7Fq2nd9Zpd1b5SFVYG1vOf-_XF0bi5O8" height="200" width="auto" /><br><br>- 수정이 할로윈때 올린 인스타에 나온 소품샵<br>- https://www.instagram.com/p/Bpl1CxdHx1D/<br><br><img src="https://lh4.googleusercontent.com/ORJkE0_z74FnNW1y4A3snna0sKBgswUP3aca_bHJyy_xq54kVfKf44EpFsbB86INhAJFlOS_Vgub6kZxEls69cs20zJyxJvwkeu-98mPCrIaFK8UdL4BJH38BuSkGFMZ9GDEgA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/B7CaGJx3H339nEIp8ZUhU0Osg5YV1wuF-wq3fcpbj2_o_jf1JNnskClMEaJtwJHp0hC725_H3IlSe6fONKsm8J_Au_kbQ4Hr7w1Y7Fq2nd9Zpd1b5SFVYG1vOf-_XF0bi5O8 https://lh4.googleusercontent.com/ORJkE0_z74FnNW1y4A3snna0sKBgswUP3aca_bHJyy_xq54kVfKf44EpFsbB86INhAJFlOS_Vgub6kZxEls69cs20zJyxJvwkeu-98mPCrIaFK8UdL4BJH38BuSkGFMZ9GDEgA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9283869,37.5542455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>レ レーヴ サロン・ド・テ</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/xxSfA5NRzpasTgYZeUzO_u8SqtaZQx6qzKFHort9IVxsw6stCUvfCiLwbZtoFBnK6_Uq3mlwgaqe9XiVYJ-Y3UF3JrBZcNICe5GxNbjvMsm8OXFETrMxnpHGaKD0o_Fp__CBpA" height="200" width="auto" /><br><br>- 수정이 치유 일본 프로모션때 후지큐 하이랜드에 놀러갔다가 사진 찍은 곳<br>- 여한조 컴백기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/xxSfA5NRzpasTgYZeUzO_u8SqtaZQx6qzKFHort9IVxsw6stCUvfCiLwbZtoFBnK6_Uq3mlwgaqe9XiVYJ-Y3UF3JrBZcNICe5GxNbjvMsm8OXFETrMxnpHGaKD0o_Fp__CBpA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.7788821,35.4851143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リサとガスパール タウン</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/HUnVh7psKgZUgh5cBUC0R3_yPT-ZcsEntOvi6ULGf_yJD5EOKtsMbKDqylU_2oV0afD_gSLuB3k5fz37BGVZTxLdaSbTtaaZHhubIaVeM3ACeCh6niUFzk_3WHoocVAHcnPQSw" height="200" width="auto" /><br><br>- 수정이 치유 일본 프로모션때 후지큐 놀러가서 가스파드와 리사 조각 앞에서 사진 찍은 곳<br>- 여한조 컴백 기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
+        <styleUrl>#icon-1535-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/HUnVh7psKgZUgh5cBUC0R3_yPT-ZcsEntOvi6ULGf_yJD5EOKtsMbKDqylU_2oV0afD_gSLuB3k5fz37BGVZTxLdaSbTtaaZHhubIaVeM3ACeCh6niUFzk_3WHoocVAHcnPQSw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.7788681,35.4852983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戦慄迷宮</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/PcCcVWpU6_5SPBq0Ry-y7Nzb4_uJUI2sUvQc981-zFvv0W7R0e6eoR8C9AtIXwXmnsYTI876gy5s9PbdycVv-H2hC56yJVIJRLiZYomFa1qzIZYuSZJvxr8Vu_vwqDZpmxOBqA" height="200" width="auto" /><br><br>전율미궁<br><br>- 수정이 치유 프로모션때 후지큐에 놀러갔다가 사진 찍은 곳<br>- 여한조 컴백기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
+        <styleUrl>#icon-1535-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/PcCcVWpU6_5SPBq0Ry-y7Nzb4_uJUI2sUvQc981-zFvv0W7R0e6eoR8C9AtIXwXmnsYTI876gy5s9PbdycVv-H2hC56yJVIJRLiZYomFa1qzIZYuSZJvxr8Vu_vwqDZpmxOBqA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.7835357,35.4875872,0
           </coordinates>
         </Point>
       </Placemark>
