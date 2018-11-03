@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-10-31)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-11-04)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -2347,6 +2347,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1587-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1589-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1589-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1589-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1589-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1589-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1589-0F9D58-normal">
@@ -8275,7 +8309,7 @@
       </Placemark>
       <Placemark>
         <name>Calgary Tower</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/Z-LhwIHqbaVsv5lgKWZjodaou9WkLtsztJwaT0DOB29UU5-hZpnH_LWtID07HlS5GMob7g54k8xFxRAVdBudn-CBK_rWdPC0vfxT5kr4AbDTgwA8F3hEqoiqPLm_bvgsYwvL" height="200" width="auto" /><br><br>* 러블리즈가 사랑한 캐나다<br>EP.01 (2017.06.08)<br>- 서부팀이 스테이크 먹고나서 찾은 곳 <br><br><img src="https://lh6.googleusercontent.com/lEr0Fvb5GdPKI9hG0T07VsfRl_hn4hYwUl_xS9BiUVmAUf3Sdv66GdeONJDZBGBkfn9Pd-kF3MrmWw_huEUdf7PNOIOCDFC7Q03b5qKhRiv_1gNBzOOL37VmfMTZLK_hXNz9yg" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/y9aFkokb8XolPYF6tmrxRF7tXVwm9sz2GXLqPioHEaFij9_61O-f8HbTClxZNlv1SGNeJLj041r9MPeMPhsDAtsoXSPKnQ3OO8TJqoriMN-9LBy9NKCDAGkkxPv2B71uZ9hK" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/Z-LhwIHqbaVsv5lgKWZjodaou9WkLtsztJwaT0DOB29UU5-hZpnH_LWtID07HlS5GMob7g54k8xFxRAVdBudn-CBK_rWdPC0vfxT5kr4AbDTgwA8F3hEqoiqPLm_bvgsYwvL" height="200" width="auto" /><br><br>캘거리 타워<br><br>* 러블리즈가 사랑한 캐나다<br>EP.01 (2017.06.08)<br>- 서부팀이 스테이크 먹고나서 찾은 곳 <br><br><img src="https://lh6.googleusercontent.com/lEr0Fvb5GdPKI9hG0T07VsfRl_hn4hYwUl_xS9BiUVmAUf3Sdv66GdeONJDZBGBkfn9Pd-kF3MrmWw_huEUdf7PNOIOCDFC7Q03b5qKhRiv_1gNBzOOL37VmfMTZLK_hXNz9yg" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/y9aFkokb8XolPYF6tmrxRF7tXVwm9sz2GXLqPioHEaFij9_61O-f8HbTClxZNlv1SGNeJLj041r9MPeMPhsDAtsoXSPKnQ3OO8TJqoriMN-9LBy9NKCDAGkkxPv2B71uZ9hK" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1715-C2185B</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -11230,16 +11264,16 @@
       </Placemark>
       <Placemark>
         <name>바이닐앤플라스틱</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/uuhVSabMuYpVSgWMgcqwOa65PfgejPduS9-QI8QAESVNQGiGWSIcvLXeLeZmoYCmz90eo784jJNggYBvEhcpRVCL_VDhRtsKawIMXR-d1JJewkIEU7POKs55E7fORq00UWMF64c" height="200" width="auto" /><br><br>* 런닝맨<br>EP.313 런닝맨X런닝우먼 (2016.08.21)<br>- 미주 출연. 오프닝을 하면서 펀치머신 결과로 대진 결정한 곳<br><br><img src="https://lh4.googleusercontent.com/ewm0q6gLiVM8-mbgscmhkc6b7aEIl2xGR7N2mrtM74FH4KLcUGdZS2TL3z8DQLuC6CK8lDfJEDu---7jxUgtHJv5Z_0hxxPFPbbuDMJX0nGGhmKWwj96tHpUL42E0Y9jcj52" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/uuhVSabMuYpVSgWMgcqwOa65PfgejPduS9-QI8QAESVNQGiGWSIcvLXeLeZmoYCmz90eo784jJNggYBvEhcpRVCL_VDhRtsKawIMXR-d1JJewkIEU7POKs55E7fORq00UWMF64c" height="200" width="auto" /><br><br>* 런닝맨<br>EP.313 런닝맨X런닝우먼 (2016.08.21)<br>- 미주 출연. 오프닝을 하면서 펀치머신 결과로 대진 결정한 곳<br><br>* 인스타그램 (2018.07.06)<br>- 생애 첫 LP판를 샀던 곳<br>- 샀던 LP는 콜드플레이의 7집 앨범 "A Head Full Of Dreams"<br>- https://www.instagram.com/p/Bk4kbK6BnbV/<br><br><img src="https://lh4.googleusercontent.com/ewm0q6gLiVM8-mbgscmhkc6b7aEIl2xGR7N2mrtM74FH4KLcUGdZS2TL3z8DQLuC6CK8lDfJEDu---7jxUgtHJv5Z_0hxxPFPbbuDMJX0nGGhmKWwj96tHpUL42E0Y9jcj52" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/1XdmfhMwWIUsn9nTCe56rSZ_bDwkUGcx5Zls2hiPw4zdbisY4RBjxA-Y25WDq3aW7PLbb48AgH7j9j-gjSoqQBQuVpB66sWr9jP-zuvAsLO3dfiwNFHLoc3lOnopcHJk4WZ-Ag" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1637-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://lh5.googleusercontent.com/uuhVSabMuYpVSgWMgcqwOa65PfgejPduS9-QI8QAESVNQGiGWSIcvLXeLeZmoYCmz90eo784jJNggYBvEhcpRVCL_VDhRtsKawIMXR-d1JJewkIEU7POKs55E7fORq00UWMF64c https://lh4.googleusercontent.com/ewm0q6gLiVM8-mbgscmhkc6b7aEIl2xGR7N2mrtM74FH4KLcUGdZS2TL3z8DQLuC6CK8lDfJEDu---7jxUgtHJv5Z_0hxxPFPbbuDMJX0nGGhmKWwj96tHpUL42E0Y9jcj52</value>
+            <value>https://lh5.googleusercontent.com/uuhVSabMuYpVSgWMgcqwOa65PfgejPduS9-QI8QAESVNQGiGWSIcvLXeLeZmoYCmz90eo784jJNggYBvEhcpRVCL_VDhRtsKawIMXR-d1JJewkIEU7POKs55E7fORq00UWMF64c https://lh4.googleusercontent.com/ewm0q6gLiVM8-mbgscmhkc6b7aEIl2xGR7N2mrtM74FH4KLcUGdZS2TL3z8DQLuC6CK8lDfJEDu---7jxUgtHJv5Z_0hxxPFPbbuDMJX0nGGhmKWwj96tHpUL42E0Y9jcj52 https://lh5.googleusercontent.com/1XdmfhMwWIUsn9nTCe56rSZ_bDwkUGcx5Zls2hiPw4zdbisY4RBjxA-Y25WDq3aW7PLbb48AgH7j9j-gjSoqQBQuVpB66sWr9jP-zuvAsLO3dfiwNFHLoc3lOnopcHJk4WZ-Ag</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            126.9874938,37.5396721,0
+            127.0008297,37.5367987,0
           </coordinates>
         </Point>
       </Placemark>
@@ -11320,7 +11354,7 @@
       </Placemark>
       <Placemark>
         <name>스핀볼링장</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/1n-NS7BKjqFP-kALzIMGetKGkB1MOg-3TY2t7CjgFu9j9bs0te-i0s6AUJ7grLKNLiDoNhi5VFI_GtSd1Zan01XQHDfRo1pbzavBkcFwycBMxCzU2M2G1xZfws4Z2slzoALO" height="200" width="auto" /><br><br>* 설특집 2018 아육대<br>EP.03 (2018.02.16)<br>- 명은, 예인이 볼링 경기를 한 곳<br><br><img src="https://lh3.googleusercontent.com/AepxG_hw58-4frkrYhsgpt-UEqe-MArfXjsJV3YbBhvqXjXdTsJIPdg5FQdlpw-UudiftndB1q7fBQbuuup79qimsva-NdAUuth9rOVEjfWxN9heALYv9b94RqgMscC6YEZt" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/oW22-FLvqjOQqoPh3t2R_gjIos8i_38CPuNJKbsXOIwODV6_SOKobvaRj_bf6pZnTwKA_pZVxH3sXR3jwQ5mdfo0G_rs8zHUCXE2bVFMC1C6A62LcsL_ZxggNeYEsfLwZAuBXKA" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/1n-NS7BKjqFP-kALzIMGetKGkB1MOg-3TY2t7CjgFu9j9bs0te-i0s6AUJ7grLKNLiDoNhi5VFI_GtSd1Zan01XQHDfRo1pbzavBkcFwycBMxCzU2M2G1xZfws4Z2slzoALO" height="200" width="auto" /><br><br>* 설특집 2018 아이돌스타 선수권대회(아육대)<br>EP.03 (2018.02.16)<br>- 명은, 예인이 볼링 경기를 한 곳<br><br><img src="https://lh3.googleusercontent.com/AepxG_hw58-4frkrYhsgpt-UEqe-MArfXjsJV3YbBhvqXjXdTsJIPdg5FQdlpw-UudiftndB1q7fBQbuuup79qimsva-NdAUuth9rOVEjfWxN9heALYv9b94RqgMscC6YEZt" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/oW22-FLvqjOQqoPh3t2R_gjIos8i_38CPuNJKbsXOIwODV6_SOKobvaRj_bf6pZnTwKA_pZVxH3sXR3jwQ5mdfo0G_rs8zHUCXE2bVFMC1C6A62LcsL_ZxggNeYEsfLwZAuBXKA" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1527-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -12015,6 +12049,21 @@
         <Point>
           <coordinates>
             127.0712156,37.2939218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>고양체육관</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/0I4plv7Xk3-qaDIJ79jC0rXD3UIkpxRDCn4sdkc0TYGRGSL4KICy4VBTwNAV93SmzZlc5fxxCAY98cj-rzzCHKZMsq2utdDBA5Uc_yNNXEBq5VUaPm-yRG22_u8ZJeU9A-FAESU" height="200" width="auto" /><br><br>* 설특집 2015 아이돌스타 선수권대회(아육대)<br>2015.02.19 ~ 2015.02.20<br>- 여자 60m (미주, 예인)<br>- 여자 400m 릴레이 (소울, 미주, 수정, 예인)<br><br>* 추석특집 2015 아이돌스타 선수권대회(아육대)<br>2015.09.28<br>- 여자 60m (명은, 예인)<br><br>* 추석특집 2016 아이돌스타 선수권대회(아육대)<br>2016.09.15<br>- 양궁 (소울, 지애, 지수)<br>- 여자 60m (소울, 수정, 예인)<br>- 리듬체조 (예인)<br><br>* 설특집 2017 아이돌스타 선수권대회(아육대)<br>2017.01.30<br>- 여자 60m (케이)<br>- 양궁 (지애, 지수, 미주)<br>- 리듬체조 (예인)<br><br>* 설특집 2018 아이돌스타 선수권대회(아육대)<br>2018.02.15 ~ 2018.02.16<br>- 여자 60m (예인)<br>- 양궁 (소울, 지애, 지수)<br><br><img src="https://lh5.googleusercontent.com/8JRaoQqGiKBHFGT6UpbaoAwxXNrBCBNUBAfC5y2G4HzJiUWDAcLRJt7HNBiR-KTz7Bl7dy7oiR3fSHng3wMo1q9R41pgNlmNm6TYBq8w-9tVGop7VaKSts6ekVeuLaOesuy_79A" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/q9yXabUkxmHyz0GDLp98CGmqJz_OPf1GVcaQzBHLBCUDIcLnW_B_TQTUdMZFl86IM5iBva_f07weDUK06p1SbrzKGJEkSPeLaLH6CgVkGjRLQUGtE72P3F01eUPJDPgnU8Vv" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/JoVzLUx05ybQdvjzdU_EeHlgphTuvOsp02w8jESLkBXppJz2orgbNWfRg0wH5Z-wwDnKIfN_z90RV7z5xiUYHkFOuYiD-u3O5NlpUKZWLNgsj3_E3CQoGtTyF1xjSUmIMh44wg" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/dKlBnVx9v0ay9L1zF7kG2_g8n0b08_MxgZRRYuW0pPlh2ghABGlE8h8fYhWx26po0phwsmOA1kFXg5z4zy2N0vbpA0-gldZ6kV92jTtF4o5FwIWiHX-GoguL41dchmGtpnLju4E" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/UIC66xt8oWGBYOuk4gKpgs1WbN0aj-Vbt_K-iQF-s-OcvECh0ofoUF7aeNyrS7dIWKfkUBWSrdHWp9LN7BV3wRrbcgLGAqRKY6mxP_5YRnhhVUMQlrW9OhtjtaQ9ue_Yn6Qxlg" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/1xLQB_ihchl3bl-fcPAfFWzCOYFxEioLanNId4a_GW65qyH0dOE83FQbibXxYVQUoreBMxbxyMNHbxJLvz1g0TfqSb_MWvQ5UYm_jow55PP-p53ZoHzsgOcYSG-5KzbBt58It2I" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/9AjW9SZBFnpPVRyXRgDrdCrAHyYdq8Uw7vU5ZmDxnIMUKZ0guG7A0V_ZKLiH3O8vNljBxotyFukot6I2tzGzoGjkiWOiPqBAd8LyFh7D9z2RrnJjPIRnkHF74ojQmkZ4N7lXJ10" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/DoMeW9CJ52iwKl9f024tx68Pj2sLs8015jiVlp-f5qZq24HUK5EvozUkNACUYBLwobD07B0pH2MYbwtrjeqkhoOKzgLWYJPY-Lzjpemv6N_g0MoR0X-OguUmTj_5AgjJ_qf3tQ" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/pWxco-824umUV6De2ibgO8mDdDYOUOU0cJo6PulnegTJ6DKpRBqmCwnZu6ZaiiK_GnYlGxaZ9GXK4PE7m4noMeTwLnpnsutxoFu6d42ycdYk_kKaX5vWb2aKAWb2uVQLZ_qV" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/2SKS-ygju57hIr19OWORpbEpPnrH1oi3_Te8IAhDPaheXEDqL0vdWsqB8KPcXnImpttvG4kOxYfmWMrliJf_HnttORHwTjWX029OBzKUjs5ETow56byXj0JFBT770SLWOP0inQ" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/RB-A0eBnqjOdACNrxwoFb9uGPJXpJfO5oxdximwzw0u-XwdnTNX2nXqSgnkpPytmaT-Myebb-OYlVE0v92e6qeugZZzgcnS70Nqp6YKd7bT70LXq2QFj64bwSM55CV9l3EJgKw" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/AYLVrD698isbiNwiSf7MSvPlg-CL-PzQEJ-63p4RuDIW3XCRqvMe6IWzGZcVmxOzZhv_4s-FPfNbCLEBuclD_xLoMFeNYo7l5E_7v-guRArSy0RMc4TbJrspbUVEs-99vYr94Q" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/3d6e8sPXB2avOmDWI1z-8NdCNDNuB6ZOYT8kpGpD2Wj6a4ArZPV-RKDY6buVKIpo6X4uboVNQg8KIf1Vy0n6n34UBQO4fZkmeqPtZyOzzwHhUvYSTcwQ6C0FsEIqM-3yxFK_gA" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/-D_IWPwaugD-HkGOKkxCkap-7hOLQ4VtrPtil_9RV9xx4zQxXN-UqkWf5H7R3kK3i-tOoW8Tg4cyd6AAtCY2KGkU0qAJe7hNj9wTvm9YxqcFhHF-jePXk6seDzMq3zg95wNpWQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1589-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/0I4plv7Xk3-qaDIJ79jC0rXD3UIkpxRDCn4sdkc0TYGRGSL4KICy4VBTwNAV93SmzZlc5fxxCAY98cj-rzzCHKZMsq2utdDBA5Uc_yNNXEBq5VUaPm-yRG22_u8ZJeU9A-FAESU https://lh5.googleusercontent.com/8JRaoQqGiKBHFGT6UpbaoAwxXNrBCBNUBAfC5y2G4HzJiUWDAcLRJt7HNBiR-KTz7Bl7dy7oiR3fSHng3wMo1q9R41pgNlmNm6TYBq8w-9tVGop7VaKSts6ekVeuLaOesuy_79A https://lh5.googleusercontent.com/q9yXabUkxmHyz0GDLp98CGmqJz_OPf1GVcaQzBHLBCUDIcLnW_B_TQTUdMZFl86IM5iBva_f07weDUK06p1SbrzKGJEkSPeLaLH6CgVkGjRLQUGtE72P3F01eUPJDPgnU8Vv https://lh3.googleusercontent.com/JoVzLUx05ybQdvjzdU_EeHlgphTuvOsp02w8jESLkBXppJz2orgbNWfRg0wH5Z-wwDnKIfN_z90RV7z5xiUYHkFOuYiD-u3O5NlpUKZWLNgsj3_E3CQoGtTyF1xjSUmIMh44wg https://lh6.googleusercontent.com/dKlBnVx9v0ay9L1zF7kG2_g8n0b08_MxgZRRYuW0pPlh2ghABGlE8h8fYhWx26po0phwsmOA1kFXg5z4zy2N0vbpA0-gldZ6kV92jTtF4o5FwIWiHX-GoguL41dchmGtpnLju4E https://lh5.googleusercontent.com/UIC66xt8oWGBYOuk4gKpgs1WbN0aj-Vbt_K-iQF-s-OcvECh0ofoUF7aeNyrS7dIWKfkUBWSrdHWp9LN7BV3wRrbcgLGAqRKY6mxP_5YRnhhVUMQlrW9OhtjtaQ9ue_Yn6Qxlg https://lh5.googleusercontent.com/1xLQB_ihchl3bl-fcPAfFWzCOYFxEioLanNId4a_GW65qyH0dOE83FQbibXxYVQUoreBMxbxyMNHbxJLvz1g0TfqSb_MWvQ5UYm_jow55PP-p53ZoHzsgOcYSG-5KzbBt58It2I https://lh4.googleusercontent.com/9AjW9SZBFnpPVRyXRgDrdCrAHyYdq8Uw7vU5ZmDxnIMUKZ0guG7A0V_ZKLiH3O8vNljBxotyFukot6I2tzGzoGjkiWOiPqBAd8LyFh7D9z2RrnJjPIRnkHF74ojQmkZ4N7lXJ10 https://lh5.googleusercontent.com/DoMeW9CJ52iwKl9f024tx68Pj2sLs8015jiVlp-f5qZq24HUK5EvozUkNACUYBLwobD07B0pH2MYbwtrjeqkhoOKzgLWYJPY-Lzjpemv6N_g0MoR0X-OguUmTj_5AgjJ_qf3tQ https://lh5.googleusercontent.com/pWxco-824umUV6De2ibgO8mDdDYOUOU0cJo6PulnegTJ6DKpRBqmCwnZu6ZaiiK_GnYlGxaZ9GXK4PE7m4noMeTwLnpnsutxoFu6d42ycdYk_kKaX5vWb2aKAWb2uVQLZ_qV https://lh6.googleusercontent.com/2SKS-ygju57hIr19OWORpbEpPnrH1oi3_Te8IAhDPaheXEDqL0vdWsqB8KPcXnImpttvG4kOxYfmWMrliJf_HnttORHwTjWX029OBzKUjs5ETow56byXj0JFBT770SLWOP0inQ https://lh4.googleusercontent.com/RB-A0eBnqjOdACNrxwoFb9uGPJXpJfO5oxdximwzw0u-XwdnTNX2nXqSgnkpPytmaT-Myebb-OYlVE0v92e6qeugZZzgcnS70Nqp6YKd7bT70LXq2QFj64bwSM55CV9l3EJgKw https://lh3.googleusercontent.com/AYLVrD698isbiNwiSf7MSvPlg-CL-PzQEJ-63p4RuDIW3XCRqvMe6IWzGZcVmxOzZhv_4s-FPfNbCLEBuclD_xLoMFeNYo7l5E_7v-guRArSy0RMc4TbJrspbUVEs-99vYr94Q https://lh6.googleusercontent.com/3d6e8sPXB2avOmDWI1z-8NdCNDNuB6ZOYT8kpGpD2Wj6a4ArZPV-RKDY6buVKIpo6X4uboVNQg8KIf1Vy0n6n34UBQO4fZkmeqPtZyOzzwHhUvYSTcwQ6C0FsEIqM-3yxFK_gA https://lh3.googleusercontent.com/-D_IWPwaugD-HkGOKkxCkap-7hOLQ4VtrPtil_9RV9xx4zQxXN-UqkWf5H7R3kK3i-tOoW8Tg4cyd6AAtCY2KGkU0qAJe7hNj9wTvm9YxqcFhHF-jePXk6seDzMq3zg95wNpWQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7419062,37.6745174,0
           </coordinates>
         </Point>
       </Placemark>
@@ -13071,7 +13120,7 @@
       </Placemark>
       <Placemark>
         <name>구백가든</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/RfS5O5Oy3KOqo-yFv9ImVyEyXrN21UalCtbAKgOyVZaiw9y1ExqCTJmKkYfueqwYldBc2eXpNevlBt094vOn9gjjqyU6JCBKI_j7xJoZMJ6fu-3iNOq2KzDACAZI7kpNza-Fp6g" height="200" width="auto" /><br><br>- 소울 친척분께서 운영하시는 키조개+소고기 삼합집<br>- 멤버들이 화순행사 가기전에 몸보신 한 곳<br>- https://www.instagram.com/p/BpZHCAon0fL/<br>- https://www.instagram.com/p/BpZGa_1HIL_/<br><br><img src="https://lh3.googleusercontent.com/kvhEWPXOS1pZooy2xxd08gXOGxraPP8603m4az_9XpOFArecHx7d9AhqClByeHzHIbkOCa9V35iCvbP35kcizUHHmf-d1HIDBAgPwld029kHUzqaVHlMmSdk2v5L_Iqq4HkX" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/RfS5O5Oy3KOqo-yFv9ImVyEyXrN21UalCtbAKgOyVZaiw9y1ExqCTJmKkYfueqwYldBc2eXpNevlBt094vOn9gjjqyU6JCBKI_j7xJoZMJ6fu-3iNOq2KzDACAZI7kpNza-Fp6g" height="200" width="auto" /><br><br>* 인스타그램 (2018.10.26)<br>- 소울 친척분께서 운영하시는 키조개+소고기 삼합집<br>- 멤버들이 화순행사 가기전에 몸보신 한 곳<br>- https://www.instagram.com/p/BpZHCAon0fL/<br>- https://www.instagram.com/p/BpZGa_1HIL_/<br><br><img src="https://lh3.googleusercontent.com/kvhEWPXOS1pZooy2xxd08gXOGxraPP8603m4az_9XpOFArecHx7d9AhqClByeHzHIbkOCa9V35iCvbP35kcizUHHmf-d1HIDBAgPwld029kHUzqaVHlMmSdk2v5L_Iqq4HkX" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13096,7 +13145,7 @@
       </Placemark>
       <Placemark>
         <name>하슬라아트월드</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/9b0pNBGESylI7iVxSKXNu5vRBFWzlCmuDkYjjVstcR8rSteVdhgudhXCqVKFWhkAGVKNKG6pDJHLug7v7gXXiq6kYSOWGdl8t_8VgNv1WmgIcrUJTLgsO9HZ0aXkZ9fYNohd" height="200" width="auto" /><br><br>- 지애가 어머니와 효도여행한 곳<br>- https://www.instagram.com/p/BdtwBEeh728/<br><br><img src="https://lh3.googleusercontent.com/f2Z9ALP0EEigaDzatkxH8KV5SXaPDsA4FZi_NhVO_AkteZMl9VPFHh8gNaig9vVLkGpEYo1wi9BfrABbI6L8EGZYrrNK-TV5p_ocNk2sXKHUtsVhXv_3PJkEvv7m2h2KDmDz7O4" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/Vs653GWP5BRlbKEjE6Eup069DaH0sA9J0JgSMh9SCF8QZB2lwaLmIx-rn7fgxDfZrS2SuUlrNY0JgRDugEZHIOci5OpzcJd83R5_U6-qA8Z8k_GqCg0wjeIikxL9jYCvtgG5Ng" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/9b0pNBGESylI7iVxSKXNu5vRBFWzlCmuDkYjjVstcR8rSteVdhgudhXCqVKFWhkAGVKNKG6pDJHLug7v7gXXiq6kYSOWGdl8t_8VgNv1WmgIcrUJTLgsO9HZ0aXkZ9fYNohd" height="200" width="auto" /><br><br>* 인스타그램 (2018.01.09)<br>- 지애가 어머니와 효도여행한 곳<br>- https://www.instagram.com/p/BdtwBEeh728/<br><br><img src="https://lh3.googleusercontent.com/f2Z9ALP0EEigaDzatkxH8KV5SXaPDsA4FZi_NhVO_AkteZMl9VPFHh8gNaig9vVLkGpEYo1wi9BfrABbI6L8EGZYrrNK-TV5p_ocNk2sXKHUtsVhXv_3PJkEvv7m2h2KDmDz7O4" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/Vs653GWP5BRlbKEjE6Eup069DaH0sA9J0JgSMh9SCF8QZB2lwaLmIx-rn7fgxDfZrS2SuUlrNY0JgRDugEZHIOci5OpzcJd83R5_U6-qA8Z8k_GqCg0wjeIikxL9jYCvtgG5Ng" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1509-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13111,7 +13160,7 @@
       </Placemark>
       <Placemark>
         <name>산토리니커피</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/_AlxeOm0Cl7CDOSKgZwHJ11txPpAT6IjL5V7xXNSUfx7A9678NaaNVqmXIXaCeMWw3poNkmliYwyEwkXg7oJj8iEtnOrY4VkZ9hBZlE_7goAtmjWA5lDe9Y4uKWmNaPBi5fu" height="200" width="auto" /><br><br>- 수정이 친구랑 같이 왔던 곳<br>- https://www.instagram.com/p/Bk-RrFDhvss/]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/_AlxeOm0Cl7CDOSKgZwHJ11txPpAT6IjL5V7xXNSUfx7A9678NaaNVqmXIXaCeMWw3poNkmliYwyEwkXg7oJj8iEtnOrY4VkZ9hBZlE_7goAtmjWA5lDe9Y4uKWmNaPBi5fu" height="200" width="auto" /><br><br>* 인스타그램 (2018.07.08)<br>- 수정이 친구랑 같이 왔던 곳<br>- https://www.instagram.com/p/Bk-RrFDhvss/]]></description>
         <styleUrl>#icon-1534-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13126,7 +13175,7 @@
       </Placemark>
       <Placemark>
         <name>이집이좋겠네 2호점</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/ll_4IMBN25VTPmXXYHleA6iiWZghFgAnVW2Dd2RjZRmnZqGlDIoHsC9d2BZO_i9ajwuq9xb_RPt-Sbdhzp7zwqcqSjLf_VxxTd9IDWshaIo1byJArbVPBbYKumzRcAMj790d58I" height="200" width="auto" /><br><br>- 지애가 가족과 함께 갔던 곳<br>- https://www.instagram.com/p/Bk4CJFVB8q2/<br>- https://www.instagram.com/p/Bk48SfChO67/]]></description>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/ll_4IMBN25VTPmXXYHleA6iiWZghFgAnVW2Dd2RjZRmnZqGlDIoHsC9d2BZO_i9ajwuq9xb_RPt-Sbdhzp7zwqcqSjLf_VxxTd9IDWshaIo1byJArbVPBbYKumzRcAMj790d58I" height="200" width="auto" /><br><br>* 인스타그램 (2018.07.06)<br>- 지애가 가족과 함께 갔던 곳<br>- https://www.instagram.com/p/Bk4CJFVB8q2/<br>- https://www.instagram.com/p/Bk48SfChO67/]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13141,7 +13190,7 @@
       </Placemark>
       <Placemark>
         <name>오나시짬뽕</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/GkQeJDLLHqxtrJHs-GEoLF2-cOgVBoJ4cB4c8LxjRCiv6ejZxCdIo5hFF4DsSN_zpILA-G_LWxMv7l9QousJBKDKbCA-CXSyZHcqjgXkQhSGLdBqu_xZdJucChwQLcnr5CFCbg" height="200" width="auto" /><br><br>- 수정이 언니와 함께 들른 곳<br>- 언니가 필름카메라로 사진 찍어줌<br>- https://www.instagram.com/p/BiNi0A5hXCQ/]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/GkQeJDLLHqxtrJHs-GEoLF2-cOgVBoJ4cB4c8LxjRCiv6ejZxCdIo5hFF4DsSN_zpILA-G_LWxMv7l9QousJBKDKbCA-CXSyZHcqjgXkQhSGLdBqu_xZdJucChwQLcnr5CFCbg" height="200" width="auto" /><br><br>* 인스타그램 (2018.05.01)<br>- 수정이 언니와 함께 들른 곳<br>- 언니가 필름카메라로 사진 찍어줌<br>- https://www.instagram.com/p/BiNi0A5hXCQ/]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13156,7 +13205,7 @@
       </Placemark>
       <Placemark>
         <name>대만야시장 본사</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Z3faFL56WgatkP7jJErLdcYFmRVJ0x1sKsXRQItRMNypUcvgWaxlOPFP4AgBg0XeKvw5u5U9GT9htgF0TUJz0F9z9m1toK05f8kqLCMivJOx3rVgR6OF7GfiEn9MIkRNRsTG5g" height="200" width="auto" /><br><br>- 수정 언니가 필름사진 찍어준 주황색 벽 건물<br>- https://www.instagram.com/p/BiNi0A5hXCQ/<br><br><img src="https://lh6.googleusercontent.com/L6IOYd34K2VvBhrLQIZjyy5tbbJTOpBgGZX9_nT2JRuSaKfCqrq80yyabjeMAFvHc6pdhEVcyy-Hs6VkNUhCQ5yc873TBHFlySiX2a_t8ngHwHKHt0KR18Thj5E4VYdPiq6I8A" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Z3faFL56WgatkP7jJErLdcYFmRVJ0x1sKsXRQItRMNypUcvgWaxlOPFP4AgBg0XeKvw5u5U9GT9htgF0TUJz0F9z9m1toK05f8kqLCMivJOx3rVgR6OF7GfiEn9MIkRNRsTG5g" height="200" width="auto" /><br><br>* 인스타그램 (2018.05.01)<br>- 수정 언니가 필름사진 찍어준 주황색 벽 건물<br>- https://www.instagram.com/p/BiNi0A5hXCQ/<br><br><img src="https://lh6.googleusercontent.com/L6IOYd34K2VvBhrLQIZjyy5tbbJTOpBgGZX9_nT2JRuSaKfCqrq80yyabjeMAFvHc6pdhEVcyy-Hs6VkNUhCQ5yc873TBHFlySiX2a_t8ngHwHKHt0KR18Thj5E4VYdPiq6I8A" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1546-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13171,7 +13220,7 @@
       </Placemark>
       <Placemark>
         <name>푸룻푸룻뮤지엄</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/i7UP5wnSX5M4RSM2oARFgEDz5yFfucjViAtYrzuzAXxCa76CIGKsUessaORG65EElJR6Kw8_1K0c4OBOgeaE_CRIVDawfwPWfznCnDjrnV5ryNT60mGHCk9YMctKLvUvjXCqCw" height="200" width="auto" /><br><br>지애가 방문했던 전시회<br>- https://www.instagram.com/p/BnBM8Tvhu4u/<br><br><img src="https://lh4.googleusercontent.com/xZioEejfsUvvxaM6oscRRFJ7s-P--s_FoLeVKYxRddF-Vv8oZkagm0IdaxQzpmI-y2cXywNPTDF_8MzoqKrmKyxzVv32mWF_69to5bPpHjmSl9uwYt2EvLLZCJKdgfpn0KrUvQ" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/y84RAtSmCAQiSxfNDlEQUDPZi6JJiqnEFzq7s1z50yvQsXkuIRDUpjaz3n2RLggoYcxwvr0BiY1OZymNpk5mpd2vCe2GIDMiQKLD-y33CugXKIZY3zpIkeESvPXwWidyyQPS8A" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/i7UP5wnSX5M4RSM2oARFgEDz5yFfucjViAtYrzuzAXxCa76CIGKsUessaORG65EElJR6Kw8_1K0c4OBOgeaE_CRIVDawfwPWfznCnDjrnV5ryNT60mGHCk9YMctKLvUvjXCqCw" height="200" width="auto" /><br><br>* 인스타그램 (2018.08.28)<br>- 지애가 방문했던 전시회<br>- https://www.instagram.com/p/BnBM8Tvhu4u/<br><br><img src="https://lh4.googleusercontent.com/xZioEejfsUvvxaM6oscRRFJ7s-P--s_FoLeVKYxRddF-Vv8oZkagm0IdaxQzpmI-y2cXywNPTDF_8MzoqKrmKyxzVv32mWF_69to5bPpHjmSl9uwYt2EvLLZCJKdgfpn0KrUvQ" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/y84RAtSmCAQiSxfNDlEQUDPZi6JJiqnEFzq7s1z50yvQsXkuIRDUpjaz3n2RLggoYcxwvr0BiY1OZymNpk5mpd2vCe2GIDMiQKLD-y33CugXKIZY3zpIkeESvPXwWidyyQPS8A" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1509-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13186,7 +13235,7 @@
       </Placemark>
       <Placemark>
         <name>심원</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/nILoZXCPkw82oL-37oytbHSo5o0wbenHnijSQPHuknyaQjAtpU2CTX1fZxQbGsO9XwJk2F6OZEsPs_Q3OiFdTlY0lt3cSFqptOt9K0tkJYQRWJ-VMAdzK0_cV8Jc4tf3ggat0g" height="200" width="auto" /><br><br>멤버들이 장어 덮밥 먹으러 자주 찾는 일식집<br>- https://www.instagram.com/p/BoXp6EKhIyD/]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/nILoZXCPkw82oL-37oytbHSo5o0wbenHnijSQPHuknyaQjAtpU2CTX1fZxQbGsO9XwJk2F6OZEsPs_Q3OiFdTlY0lt3cSFqptOt9K0tkJYQRWJ-VMAdzK0_cV8Jc4tf3ggat0g" height="200" width="auto" /><br><br>* 인스타그램 (2018.10.01)<br>- 멤버들이 장어 덮밥 먹으러 자주 찾는 일식집<br>- https://www.instagram.com/p/BoXp6EKhIyD/]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13201,7 +13250,7 @@
       </Placemark>
       <Placemark>
         <name>한화 갤러리아포레</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/3rv-HBdT8neFq7vSUAf9S5xSbTlwRQiuo2OHS_x1yvwxU0AkidS9ylGvfclcIiaKLTvuuUJ-rRyiY3Ddt5DJCCGjEcUkrogm1ZCToxo6osxUM_27pGhfNTIOJdp59qSXdkX0hw" height="200" width="auto" /><br><br>지애가 '슈가플래닛' 전시회를 관람했던 곳<br>- https://www.instagram.com/p/Bmmdtd6hU9T/<br>- https://www.instagram.com/p/Bmv7rP6huX4/<br>- https://www.instagram.com/p/Bmv73hTBEEy/<br><br><img src="https://lh5.googleusercontent.com/2ZgKce5SB0A9QCQHjv92JVXw7dLP-ik_sOwFN9y0nTVoIrw3dbm1mlWydo1R05N142bzZ6g9kaMhLGrqHxdzdgZAr5W-TihsCqMUYb-KPO8qakpGYnB8wXp6R-hzJbujCmn245Q" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/3rv-HBdT8neFq7vSUAf9S5xSbTlwRQiuo2OHS_x1yvwxU0AkidS9ylGvfclcIiaKLTvuuUJ-rRyiY3Ddt5DJCCGjEcUkrogm1ZCToxo6osxUM_27pGhfNTIOJdp59qSXdkX0hw" height="200" width="auto" /><br><br>* 인스타그램 (2018.08.18, 2018.08.22)<br>- 지애가 '슈가플래닛' 전시회를 관람했던 곳<br>- https://www.instagram.com/p/Bmmdtd6hU9T/<br>- https://www.instagram.com/p/Bmv7rP6huX4/<br>- https://www.instagram.com/p/Bmv73hTBEEy/<br><br><img src="https://lh5.googleusercontent.com/2ZgKce5SB0A9QCQHjv92JVXw7dLP-ik_sOwFN9y0nTVoIrw3dbm1mlWydo1R05N142bzZ6g9kaMhLGrqHxdzdgZAr5W-TihsCqMUYb-KPO8qakpGYnB8wXp6R-hzJbujCmn245Q" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1509-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13216,7 +13265,7 @@
       </Placemark>
       <Placemark>
         <name>청사포 쌍둥이등대</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Xw0lugwQVTHaeVKblWmcDrOcoenQA3rwnqVLXXM0qZCZxy8qoxI3Ij1PHMlU5Jr9uDzdf5kNdohEIp38BZNaPFJgYdSaabtKUMCqz6cYqGzKSOT1GRUD-4LycRJCjhYJfPFnsxQ" height="200" width="auto" /><br><br>- 수정이가 휴가때 언니와 함께와서 셀카를 찍었던 곳<br>- https://www.instagram.com/p/BoMLUGBhCC2/<br><br><img src="https://lh4.googleusercontent.com/rrkbM1aL2zIQU7uig92-AvWaCvizg3MYeoCa0YG5OGiTYTvOEHFHZ5VBpWHrqy33BpdWRDZwzkyW3A9qifUo1PBojN9D_7rIJ9yB2L_pQlT16iRgaLBgGFf9cMc3f2LVoaz9" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Xw0lugwQVTHaeVKblWmcDrOcoenQA3rwnqVLXXM0qZCZxy8qoxI3Ij1PHMlU5Jr9uDzdf5kNdohEIp38BZNaPFJgYdSaabtKUMCqz6cYqGzKSOT1GRUD-4LycRJCjhYJfPFnsxQ" height="200" width="auto" /><br><br>* 인스타그램 (2018.09.26)<br>- 수정이가 휴가때 언니와 함께와서 셀카를 찍었던 곳<br>- https://www.instagram.com/p/BoMLUGBhCC2/<br><br><img src="https://lh4.googleusercontent.com/rrkbM1aL2zIQU7uig92-AvWaCvizg3MYeoCa0YG5OGiTYTvOEHFHZ5VBpWHrqy33BpdWRDZwzkyW3A9qifUo1PBojN9D_7rIJ9yB2L_pQlT16iRgaLBgGFf9cMc3f2LVoaz9" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1618-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13306,7 +13355,7 @@
       </Placemark>
       <Placemark>
         <name>Chuu</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/xHQ9OBGbWoHqRnb4xJwJz3ujXP2_qOegP6JMH4pBn2lXeMHMh2DWD4rAH814CFW0xyoB9Ee-Vp8P7mrWHrEauNb6IEvzABFzefE7BuZt5_wmaOUGJQH_yWHwZeKqnuITatTRDw" height="200" width="auto" /><br><br>지애가 혼자 갔던 빵빵덕 스토어<br>- https://www.instagram.com/p/BnLdUWzBsFI/<br><br><img src="https://lh3.googleusercontent.com/_q_qM8cGjnun0ae03fviwDiuYes6lBW3oqgiEtQv-wJl-Qh_zFEQnKBm1dTuMdV0hheGR7geMhYOsJlTmaIX1SZ0_qsaH_BwjnMuV2M-XZ1ctn3msErEnpRiKzEUfx2dOSCXDw" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/xHQ9OBGbWoHqRnb4xJwJz3ujXP2_qOegP6JMH4pBn2lXeMHMh2DWD4rAH814CFW0xyoB9Ee-Vp8P7mrWHrEauNb6IEvzABFzefE7BuZt5_wmaOUGJQH_yWHwZeKqnuITatTRDw" height="200" width="auto" /><br><br>* 인스타그램 (2018.09.01)<br>- 지애가 혼자 갔던 빵빵덕 스토어<br>- https://www.instagram.com/p/BnLdUWzBsFI/<br><br><img src="https://lh3.googleusercontent.com/_q_qM8cGjnun0ae03fviwDiuYes6lBW3oqgiEtQv-wJl-Qh_zFEQnKBm1dTuMdV0hheGR7geMhYOsJlTmaIX1SZ0_qsaH_BwjnMuV2M-XZ1ctn3msErEnpRiKzEUfx2dOSCXDw" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1684-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13321,7 +13370,7 @@
       </Placemark>
       <Placemark>
         <name>宗右衛門町商店街</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/3zN67mee4E-Zy6x9d6HXHlZ2VYSGNjYE9AbJl5RcxtC7nBnFjjZwiCnWS1sXPqNb97mID0isp2K_8jytQjUCZlffMz2suZytuwE7SoYCvhBlrBCapkCWPi3oB3irmfsyjQbx" height="200" width="auto" /><br><br>- 겨나럽2 오사카 콘서트 끝나고 도톤보리에 와서 인증샷 찍은 곳<br>- https://www.instagram.com/p/BfGkHeWhts4/]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/3zN67mee4E-Zy6x9d6HXHlZ2VYSGNjYE9AbJl5RcxtC7nBnFjjZwiCnWS1sXPqNb97mID0isp2K_8jytQjUCZlffMz2suZytuwE7SoYCvhBlrBCapkCWPi3oB3irmfsyjQbx" height="200" width="auto" /><br><br>* 인스타그램 (2018.02.13)<br>- 겨나럽2 오사카 콘서트 끝나고 도톤보리에 와서 인증샷 찍은 곳<br>- https://www.instagram.com/p/BfGkHeWhts4/]]></description>
         <styleUrl>#icon-1731-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13336,7 +13385,7 @@
       </Placemark>
       <Placemark>
         <name>戎橋</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/M9wn05JhqiMu9e9fQCa43p04nf-sUmUNBv9n0mQLhWcINHqsw7GuEs4-COQGns_gHiYWd6aAnBi1arAWYCdoJ2gAk60bF_6BEXV0Za2M5AemVOA0i5GZTJfDfIiWX3PncM2cZA" height="200" width="auto" /><br><br>에비스 다리<br><br>- 겨나럽2 오사카 공연 끝난 뒤 예인이 도톤보리 글리코 사인 배경으로 사진찍은 곳<br>- https://www.instagram.com/p/BfPt4Oah2_B/]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/M9wn05JhqiMu9e9fQCa43p04nf-sUmUNBv9n0mQLhWcINHqsw7GuEs4-COQGns_gHiYWd6aAnBi1arAWYCdoJ2gAk60bF_6BEXV0Za2M5AemVOA0i5GZTJfDfIiWX3PncM2cZA" height="200" width="auto" /><br><br>에비스 다리<br><br>* 인스타그램 (2018.02.16)<br>- 겨나럽2 오사카 공연 끝난 뒤 예인이 도톤보리 글리코 사인 배경으로 사진찍은 곳<br>- https://www.instagram.com/p/BfPt4Oah2_B/]]></description>
         <styleUrl>#icon-1731-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -13886,7 +13935,7 @@
       </Placemark>
       <Placemark>
         <name>황전휴게소 광양방향</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/yBI91F3rxyMG3uYubf0mMCLY9G38DBJpwtAkIeRDx6jJts3c--hxvrn8Zy9SGtW7PJfiecM5kLvHp4PwaamCr2uVhT-aavCPzTRaZh0cUnLdWws153c_fG6qIeQ_iI9ewb3_Mw" height="200" width="auto" /><br><br>- 지수가 순천행사 가는 길에 바나나 쪼꼬과자 먹고 신나했던 곳<br>- https://www.instagram.com/p/BpRX83PhpD4/<br><br><img src="https://lh6.googleusercontent.com/thxSZh6Z-hBlA1-98_P8Gy5aBvsXEmiUTAWu-W5HvitJvklq7RQJ9ZJrzR1LqvDZl2hCQFOPSY06cfWAN9PJBnY9SbTnIsk654CS6XULABUbOLWwhKa_lFKy58o_ZrwA7oD8wA" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/rLXmbWNutve9d6nUsnv39rGAbCwpslHaozu0d4Pm7WkI1eoez5o-No42U-PtlapIEaCIjf-qUuYgtg_fTGBFX9RoKuWjfltUqOUbBDeCmsBl_Pyl4iu8C3ZlFIkdFLN1fBMH" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/q7NsJ4Ls_jT36PTOTehPUol7yG02DSr7pWABcwzxoSuU5nGjr3GChyIQlJmcsf-mLr7st43Lrtt0pR_oRy0kNAvNKDoeIGF-feJ2lLWAtyUzf5s3cGVfAPKDsizN8zU93UJVssE" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/yBI91F3rxyMG3uYubf0mMCLY9G38DBJpwtAkIeRDx6jJts3c--hxvrn8Zy9SGtW7PJfiecM5kLvHp4PwaamCr2uVhT-aavCPzTRaZh0cUnLdWws153c_fG6qIeQ_iI9ewb3_Mw" height="200" width="auto" /><br><br>* 인스타그램 (2018.10.23)<br>- 지수가 순천행사 가는 길에 바나나 쪼꼬과자 먹고 신나했던 곳<br>- https://www.instagram.com/p/BpRX83PhpD4/<br><br><img src="https://lh6.googleusercontent.com/thxSZh6Z-hBlA1-98_P8Gy5aBvsXEmiUTAWu-W5HvitJvklq7RQJ9ZJrzR1LqvDZl2hCQFOPSY06cfWAN9PJBnY9SbTnIsk654CS6XULABUbOLWwhKa_lFKy58o_ZrwA7oD8wA" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/rLXmbWNutve9d6nUsnv39rGAbCwpslHaozu0d4Pm7WkI1eoez5o-No42U-PtlapIEaCIjf-qUuYgtg_fTGBFX9RoKuWjfltUqOUbBDeCmsBl_Pyl4iu8C3ZlFIkdFLN1fBMH" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/q7NsJ4Ls_jT36PTOTehPUol7yG02DSr7pWABcwzxoSuU5nGjr3GChyIQlJmcsf-mLr7st43Lrtt0pR_oRy0kNAvNKDoeIGF-feJ2lLWAtyUzf5s3cGVfAPKDsizN8zU93UJVssE" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1538-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -14096,7 +14145,7 @@
       </Placemark>
       <Placemark>
         <name>메종드알로하</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/B7CaGJx3H339nEIp8ZUhU0Osg5YV1wuF-wq3fcpbj2_o_jf1JNnskClMEaJtwJHp0hC725_H3IlSe6fONKsm8J_Au_kbQ4Hr7w1Y7Fq2nd9Zpd1b5SFVYG1vOf-_XF0bi5O8" height="200" width="auto" /><br><br>- 수정이 할로윈때 올린 인스타에 나온 소품샵<br>- https://www.instagram.com/p/Bpl1CxdHx1D/<br><br><img src="https://lh4.googleusercontent.com/ORJkE0_z74FnNW1y4A3snna0sKBgswUP3aca_bHJyy_xq54kVfKf44EpFsbB86INhAJFlOS_Vgub6kZxEls69cs20zJyxJvwkeu-98mPCrIaFK8UdL4BJH38BuSkGFMZ9GDEgA" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/B7CaGJx3H339nEIp8ZUhU0Osg5YV1wuF-wq3fcpbj2_o_jf1JNnskClMEaJtwJHp0hC725_H3IlSe6fONKsm8J_Au_kbQ4Hr7w1Y7Fq2nd9Zpd1b5SFVYG1vOf-_XF0bi5O8" height="200" width="auto" /><br><br>* 인스타그램 (2018.10.31)<br>- 수정이 할로윈때 올린 인스타에 나온 소품샵<br>- https://www.instagram.com/p/Bpl1CxdHx1D/<br><br><img src="https://lh4.googleusercontent.com/ORJkE0_z74FnNW1y4A3snna0sKBgswUP3aca_bHJyy_xq54kVfKf44EpFsbB86INhAJFlOS_Vgub6kZxEls69cs20zJyxJvwkeu-98mPCrIaFK8UdL4BJH38BuSkGFMZ9GDEgA" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1684-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -14111,7 +14160,7 @@
       </Placemark>
       <Placemark>
         <name>レ レーヴ サロン・ド・テ</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/xxSfA5NRzpasTgYZeUzO_u8SqtaZQx6qzKFHort9IVxsw6stCUvfCiLwbZtoFBnK6_Uq3mlwgaqe9XiVYJ-Y3UF3JrBZcNICe5GxNbjvMsm8OXFETrMxnpHGaKD0o_Fp__CBpA" height="200" width="auto" /><br><br>- 수정이 치유 일본 프로모션때 후지큐 하이랜드에 놀러갔다가 사진 찍은 곳<br>- 여한조 컴백기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/xxSfA5NRzpasTgYZeUzO_u8SqtaZQx6qzKFHort9IVxsw6stCUvfCiLwbZtoFBnK6_Uq3mlwgaqe9XiVYJ-Y3UF3JrBZcNICe5GxNbjvMsm8OXFETrMxnpHGaKD0o_Fp__CBpA" height="200" width="auto" /><br><br>* 인스타그램 (2018.06.23)<br>- 수정이 치유 일본 프로모션때 후지큐 하이랜드에 놀러갔다가 사진 찍은 곳<br>- 여한조 컴백기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -14126,7 +14175,7 @@
       </Placemark>
       <Placemark>
         <name>リサとガスパール タウン</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/HUnVh7psKgZUgh5cBUC0R3_yPT-ZcsEntOvi6ULGf_yJD5EOKtsMbKDqylU_2oV0afD_gSLuB3k5fz37BGVZTxLdaSbTtaaZHhubIaVeM3ACeCh6niUFzk_3WHoocVAHcnPQSw" height="200" width="auto" /><br><br>- 수정이 치유 일본 프로모션때 후지큐 놀러가서 가스파드와 리사 조각 앞에서 사진 찍은 곳<br>- 여한조 컴백 기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/HUnVh7psKgZUgh5cBUC0R3_yPT-ZcsEntOvi6ULGf_yJD5EOKtsMbKDqylU_2oV0afD_gSLuB3k5fz37BGVZTxLdaSbTtaaZHhubIaVeM3ACeCh6niUFzk_3WHoocVAHcnPQSw" height="200" width="auto" /><br><br>* 인스타그램 (2018.06.23)<br>- 수정이 치유 일본 프로모션때 후지큐 놀러가서 가스파드와 리사 조각 앞에서 사진 찍은 곳<br>- 여한조 컴백 기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
         <styleUrl>#icon-1535-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -14141,7 +14190,7 @@
       </Placemark>
       <Placemark>
         <name>戦慄迷宮</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/PcCcVWpU6_5SPBq0Ry-y7Nzb4_uJUI2sUvQc981-zFvv0W7R0e6eoR8C9AtIXwXmnsYTI876gy5s9PbdycVv-H2hC56yJVIJRLiZYomFa1qzIZYuSZJvxr8Vu_vwqDZpmxOBqA" height="200" width="auto" /><br><br>전율미궁<br><br>- 수정이 치유 프로모션때 후지큐에 놀러갔다가 사진 찍은 곳<br>- 여한조 컴백기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/PcCcVWpU6_5SPBq0Ry-y7Nzb4_uJUI2sUvQc981-zFvv0W7R0e6eoR8C9AtIXwXmnsYTI876gy5s9PbdycVv-H2hC56yJVIJRLiZYomFa1qzIZYuSZJvxr8Vu_vwqDZpmxOBqA" height="200" width="auto" /><br><br>전율미궁<br><br>* 인스타그램 (2018.06.23)<br>- 수정이 치유 프로모션때 후지큐에 놀러갔다가 사진 찍은 곳<br>- 여한조 컴백기념으로 인스타에 올려줌<br>- https://www.instagram.com/p/BkXF4dpB_Oq/]]></description>
         <styleUrl>#icon-1535-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -14151,6 +14200,156 @@
         <Point>
           <coordinates>
             138.7835357,35.4875872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>낭낭</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/gayZmjJkhSyoxfJe21_aKYS_c1aBbDYeNbAFb21MdBuKfB_-6XbYg21yK2Ey47CwMPiM1EPR2bb6vf-5E9RdhMaIZWfNnn0M3nOMntZB0haYmruNRzzwDVz6LyR4sVorouOygg" height="200" width="auto" /><br><br>* 인스타그램 (2018.07.06)<br>- 생애 첫 LP판을 샀던날 갔던 이태원의 태국음식점<br>- https://www.instagram.com/p/Bk4kbK6BnbV/]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/gayZmjJkhSyoxfJe21_aKYS_c1aBbDYeNbAFb21MdBuKfB_-6XbYg21yK2Ey47CwMPiM1EPR2bb6vf-5E9RdhMaIZWfNnn0M3nOMntZB0haYmruNRzzwDVz6LyR4sVorouOygg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9934368,37.5338251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>계양산 정상</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/3S6_3ac7eWREV0Nv0nQrK6nlqh8VBS5oIO7vXEahEZNJG3mIYDNVJ_2wfLOnRKg7N2r7djP51wfzpovlt64jzn8lDWklocGXBg4zuhYkAH4-HQytku5N5GOLqt1T5fZtir4qZ1A" height="200" width="auto" /><br><br>* 인스타그램 (2017.09.10)<br>- 지수가 오랜만에 등산했던 산<br>- https://www.instagram.com/p/BY27RByh94I/<br><br><img src="https://lh3.googleusercontent.com/_Pjyh2nvGkjpJx--WqS3rsBJr1ExzHug6aDnBQDyxiXy_jFGN2bvO8UP-XwSIcSnb9QLggBsmzGRRQuwlBXBDUNzktdJ99Y-8eoV-VE-CdfxzWBr2U4w2zAXB1WBe-paqV3J" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1634-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/3S6_3ac7eWREV0Nv0nQrK6nlqh8VBS5oIO7vXEahEZNJG3mIYDNVJ_2wfLOnRKg7N2r7djP51wfzpovlt64jzn8lDWklocGXBg4zuhYkAH4-HQytku5N5GOLqt1T5fZtir4qZ1A https://lh3.googleusercontent.com/_Pjyh2nvGkjpJx--WqS3rsBJr1ExzHug6aDnBQDyxiXy_jFGN2bvO8UP-XwSIcSnb9QLggBsmzGRRQuwlBXBDUNzktdJ99Y-8eoV-VE-CdfxzWBr2U4w2zAXB1WBe-paqV3J</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7144226,37.5535692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>영일대 해수욕장</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/_QSmBq5P_YD2DYpJky9B-I8f9q2k3UCYOnyuFs5W5dKGqF-kpyG3owA2gAq-g6ZAT-4FslT5jREcQReBCtTAOHOFz1JCXLIH0mB3Sw8_WuDduFqdtzzwHOkYWZZBKGe-60Eh" height="200" width="auto" /><br><br>* 인스타그램 (2018.04)<br>- 포항시민감사 콘서트 "동행"에 왔다가 들러서 여러가지 사진과 동영상을 찍었던 곳<br>- https://www.instagram.com/p/BhjFHu5BI5X/<br>- https://www.instagram.com/p/Bhk4EeqhO4-/<br>- https://www.instagram.com/p/Bh0WrdQhv3H/<br><br><img src="https://lh4.googleusercontent.com/xPtzB7lJ1QuWTrhIIAHMpZ8PMAUXF7hzvk1o1k16xueTqXZVBgMDZVGqUqRXsxyIRQEnAtpb0yBw5zYxd7iZ-iIi2CUCQelumCAzd4qjzIK2PaRF8GnlSBFI1vBSo1X3_U8G" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/r7bt7r3vtBqyT8eUBImrjk8_lq4LwyHWR9vtCOcIHnVnfKpTwxylJqHQehMYgkY6Rv2kovYKAQ8urzYE8aVIi2VbQXVjJMi0qrVR4x9e93bioRm5AdJj89aZB6EXVTB_UcxvcA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1521-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/_QSmBq5P_YD2DYpJky9B-I8f9q2k3UCYOnyuFs5W5dKGqF-kpyG3owA2gAq-g6ZAT-4FslT5jREcQReBCtTAOHOFz1JCXLIH0mB3Sw8_WuDduFqdtzzwHOkYWZZBKGe-60Eh https://lh4.googleusercontent.com/xPtzB7lJ1QuWTrhIIAHMpZ8PMAUXF7hzvk1o1k16xueTqXZVBgMDZVGqUqRXsxyIRQEnAtpb0yBw5zYxd7iZ-iIi2CUCQelumCAzd4qjzIK2PaRF8GnlSBFI1vBSo1X3_U8G https://lh3.googleusercontent.com/r7bt7r3vtBqyT8eUBImrjk8_lq4LwyHWR9vtCOcIHnVnfKpTwxylJqHQehMYgkY6Rv2kovYKAQ8urzYE8aVIi2VbQXVjJMi0qrVR4x9e93bioRm5AdJj89aZB6EXVTB_UcxvcA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.3781219,36.0555831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都立シンボルプロムナード公園</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/T3fCOOA6TaXKvAqmxjAH94Nznt61rLpm4GtdMXtq6OQGTXeorPfpgOaqUbjo8jjb632LSBV5ZDP50BosEAryygkQGfgXBPiBgjr4O-EHagSfYJcMxQrbrTu3P8M_jbPY4O0WqN0" height="200" width="auto" /><br><br>* 인스타그램 (2017.05.23)<br>- R U Ready 프로모션차 비너스포트에 왔다가 들러서 사진 찍은 곳<br>- https://www.instagram.com/p/BUbg01HjU5I/]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/T3fCOOA6TaXKvAqmxjAH94Nznt61rLpm4GtdMXtq6OQGTXeorPfpgOaqUbjo8jjb632LSBV5ZDP50BosEAryygkQGfgXBPiBgjr4O-EHagSfYJcMxQrbrTu3P8M_jbPY4O0WqN0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7827672,35.6274625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knutsford Steps</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/Ug8BMuvt84GBIzcfvExnTzfI7mwPrt_tByz1-GXLWFlXWvcm9MFwhx6Aia6h5uPbiMmjJhN1hggKKJgNTGxPxXHkagl5PSFyBl4JcLAEAkD3pMXaMmSsB9dvzvVkh4ozWqSthw" height="200" width="auto" /><br><br>너츠포드 스텝<br><br>* 인스타그램 (2018.06.17)<br>- 홍콩 팬미팅 왔다가 자유시간에 들른 곳<br>- https://www.instagram.com/p/BkIUNM1hHPT/<br><br><img src="https://lh3.googleusercontent.com/6KbjWLVDJzhbuPSg90jnT_F6q9DQfN-E2NgOlcBIfphdOux4K_pZV7PBvWosXxVAk3xXLNTGHjTBl-e9p5XP1Tu5nMNVfYM7o29cd7QLHXMoPhnv7H1qLS5Pxt5CkJ43MwhVDA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/Ug8BMuvt84GBIzcfvExnTzfI7mwPrt_tByz1-GXLWFlXWvcm9MFwhx6Aia6h5uPbiMmjJhN1hggKKJgNTGxPxXHkagl5PSFyBl4JcLAEAkD3pMXaMmSsB9dvzvVkh4ozWqSthw https://lh3.googleusercontent.com/6KbjWLVDJzhbuPSg90jnT_F6q9DQfN-E2NgOlcBIfphdOux4K_pZV7PBvWosXxVAk3xXLNTGHjTBl-e9p5XP1Tu5nMNVfYM7o29cd7QLHXMoPhnv7H1qLS5Pxt5CkJ43MwhVDA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1730978,22.3008599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Emack & Bolio's]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/cc9krgpJNKyvN4oeTdNtMBkxsaGhRRVKsE0oz0nt745ibNj2KL4I1qADXbid2gm1Vx7WlerTA1CDNsFVuh3udFEaofwdFJPSN7iXLg8ksRUMpuhlLX6vDEt7NkXznJe_bout" height="200" width="auto" /><br><br>* 인스타그램 (2018.06.17)<br>- 홍콩팬미팅 왔다가 자유시간에 아이스크림을 사먹은 곳<br>- https://www.instagram.com/p/BkIUNM1hHPT/]]></description>
+        <styleUrl>#icon-1607-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/cc9krgpJNKyvN4oeTdNtMBkxsaGhRRVKsE0oz0nt745ibNj2KL4I1qADXbid2gm1Vx7WlerTA1CDNsFVuh3udFEaofwdFJPSN7iXLg8ksRUMpuhlLX6vDEt7NkXznJe_bout</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1731626,22.3006841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>義順牛奶公司 佐敦分店</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/LS9V4h4CbouHy9p_OBVd_t3HUw_Vz0X9Q4x8bxMkSgIfQQNRQ2TH7Mlc9w6VnDAhQy0fFff8r5wg18VUqpnoowdyA7I-0syctdOrywRQ9PE960rXc69rAfJhWzktxfVUJ4MD" height="200" width="auto" /><br><br>이슌 밀크컴퍼니<br><br>* 인스타그램 (2018.06.17)<br>- 홍콩팬미팅왔다가 자유시간에 들러서 디저트를 먹은 곳<br>- https://www.instagram.com/p/BkIUNM1hHPT/]]></description>
+        <styleUrl>#icon-1534-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/LS9V4h4CbouHy9p_OBVd_t3HUw_Vz0X9Q4x8bxMkSgIfQQNRQ2TH7Mlc9w6VnDAhQy0fFff8r5wg18VUqpnoowdyA7I-0syctdOrywRQ9PE960rXc69rAfJhWzktxfVUJ4MD</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1710285,22.3048918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kowloon Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/e5iEGnB3lnET5D91srP_Q1vTMg1ESQ2LR8wQDRlGj1zeDVWXorodPA0Sd7q6oqP9n47QLY8lc_ciIL1ATos2tvvjZgIpSwq81TnI0_yM_n0FzqdT3rEJertEpi-rRXdkpmgr" height="200" width="auto" /><br><br>* 인스타그램 (2018.06.17)<br>- 홍콩팬미팅 갔다가 자유시간에 들렀던 만화캐릭터인형들이 늘어서있는 계단<br>- 이 계단을 올라가면 "Avenue of Comic Stars"가 나옴<br>- https://www.instagram.com/p/BkF0K_hh5wF/<br><br><img src="https://lh5.googleusercontent.com/W6gRp4Bw5L3_AOUDZwNP3D6To3ni3h6DVraBJOCV92rIUANVzTf1ql1UQvqPSZiThaa7XFOLHXU_hk9TtFl8ItQnSQ4kfJQtxtSNGYhi-A4OG3tnQl0yKSo0jYCnlpdOxBlf2Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/e5iEGnB3lnET5D91srP_Q1vTMg1ESQ2LR8wQDRlGj1zeDVWXorodPA0Sd7q6oqP9n47QLY8lc_ciIL1ATos2tvvjZgIpSwq81TnI0_yM_n0FzqdT3rEJertEpi-rRXdkpmgr https://lh5.googleusercontent.com/W6gRp4Bw5L3_AOUDZwNP3D6To3ni3h6DVraBJOCV92rIUANVzTf1ql1UQvqPSZiThaa7XFOLHXU_hk9TtFl8ItQnSQ4kfJQtxtSNGYhi-A4OG3tnQl0yKSo0jYCnlpdOxBlf2Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1716837,22.3013121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jordan Rd</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/qDQfEY7Gg3nc411Do8d2r6yn3Lri2FjDDeJZ6W8LaxUV6UR1rFCtUbPEoWJrpmnOgNjYmEX7aznCuK9_DafbaHMRCxvRjzdwEUW1_z7rkbo8PZ9lb4jvIAMo088kep_jviIyqA" height="200" width="auto" /><br><br>* 인스타그램 (2018.06.17)<br>- 홍콩팬미팅 갔다가 자유시간에 OCBC은행 건물 배경으로 사진 찍었던 곳<br>- https://www.instagram.com/p/BkF0K_hh5wF/]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/qDQfEY7Gg3nc411Do8d2r6yn3Lri2FjDDeJZ6W8LaxUV6UR1rFCtUbPEoWJrpmnOgNjYmEX7aznCuK9_DafbaHMRCxvRjzdwEUW1_z7rkbo8PZ9lb4jvIAMo088kep_jviIyqA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1714887,22.3054326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kowloon Public Pier</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/kAK4vpeXSLQOOAo8Vr2Onc5q4JsZhF_9IQypAoNXr6A5_co5--R6TKu6e3Vl99skO1FF4cjoH01XW-ObwrhcEfIh8lwizmjw4JhZJJ44uq-AjqY-T2l4-20EKXRcQQjCGOoC" height="200" width="auto" /><br><br>* 인스타그램 (2018.06.17)<br>- 홍콩팬미팅 갔다가 자유시간에 수정이 홍콩섬을 배경으로 사진을 찍은 곳<br>- https://www.instagram.com/p/BkF0K_hh5wF/<br><br><img src="https://lh6.googleusercontent.com/BfIOoYdK71JYjlbSUPqw5Ex81P49DMG7GdfqxMeHEaOCQsVyZ_mYqtAv9-6VOR0WOb7b-UW3CtTOqIofdAYm236KxrsJpSzWXOXvK8nILFLZvgm7uBVezeIrylnR6H0EYtTGDg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/kAK4vpeXSLQOOAo8Vr2Onc5q4JsZhF_9IQypAoNXr6A5_co5--R6TKu6e3Vl99skO1FF4cjoH01XW-ObwrhcEfIh8lwizmjw4JhZJJ44uq-AjqY-T2l4-20EKXRcQQjCGOoC https://lh6.googleusercontent.com/BfIOoYdK71JYjlbSUPqw5Ex81P49DMG7GdfqxMeHEaOCQsVyZ_mYqtAv9-6VOR0WOb7b-UW3CtTOqIofdAYm236KxrsJpSzWXOXvK8nILFLZvgm7uBVezeIrylnR6H0EYtTGDg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1696724,22.292937,0
           </coordinates>
         </Point>
       </Placemark>
