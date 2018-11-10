@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-11-04)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2018-11-10)<br>(제보/문의: lvonlyx@gmail.com)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -4559,6 +4559,40 @@
         <styleUrl>#icon-1696-880E4F-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1697-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1697-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1697-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1697-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1697-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1697-880E4F-normal">
       <IconStyle>
         <color>ff4f0e88</color>
@@ -6191,6 +6225,40 @@
         <styleUrl>#icon-1821-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1826-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1826-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1826-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1826-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1826-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1859-C2185B-normal">
       <IconStyle>
         <color>ff5b18c2</color>
@@ -6461,6 +6529,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1886-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1887-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1887-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1887-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1887-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1887-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1892-0288D1-normal">
@@ -10512,7 +10614,7 @@
       </Placemark>
       <Placemark>
         <name>신성일식</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/yAR1PHVjFM2c0LrsOta9mSSTV4QatxTQzvJyVJbMh-8NxeFlZydpRQnQMfblwrlq9HUOz6rlNtYhO13qXbN97Bmbnx25mQmkexZjr1c8OG4y_dC-tHH5I88OKMFDqD-ZFxOhyA" height="200" width="auto" /><br><br>* 수요미식회<br>EP.181 (2018.08.09)<br>- 미주 출연]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/yAR1PHVjFM2c0LrsOta9mSSTV4QatxTQzvJyVJbMh-8NxeFlZydpRQnQMfblwrlq9HUOz6rlNtYhO13qXbN97Bmbnx25mQmkexZjr1c8OG4y_dC-tHH5I88OKMFDqD-ZFxOhyA" height="200" width="auto" /><br><br>* 수요미식회<br>EP.181 (2018.08.09)<br>- 미주 출연. 보리굴비를 먹은 곳]]></description>
         <styleUrl>#icon-1577-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -12351,6 +12453,111 @@
         <Point>
           <coordinates>
             127.0090929,37.5674606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>롯데마트 화정점</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/MvbxMxOK9_XeVWiI_5z-6Pxt30XlPx3EWeTltuZ-2vVtLBpBiu-mWk66eRrbRswgNA4R-cXgaKSyqbYZQiPpstSt_FHQc2Jz7bD6QfVSKrdNljwC5wkF0_t6ODCDa-fLfniQRg" height="200" width="auto" /><br><br>* 두니아 - 처음 만난 세계<br>EP.07 (2018.07.15)<br>- 미주 출연. 장보다가 워프되었던 마트<br><br><img src="https://lh5.googleusercontent.com/S1Ivv3pCm8YIHussz1hzYc0pQvRiUlly8c6tCz3LO1lC4MqV2iVKfJ6RwRjglPda8Pcx6pEy4KNlrjV5LFOJEEmE6z3yH1eDrgRpwavu6QPBlTDC-snfHfgSx0k8aQkarsaX" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/hlvAkq6kfFhEMndZGrgfqwXaEH6yliAGxE7VKwDAGSB1V7wiNnTYOnDVzhz-9aB4FrwWwlJRlWnLTHA3gm-j7mOynTMu6T8yPGx9Si_vk-SgRLBvLoq6dOpnOzPlll7iO36dS6w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1685-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/MvbxMxOK9_XeVWiI_5z-6Pxt30XlPx3EWeTltuZ-2vVtLBpBiu-mWk66eRrbRswgNA4R-cXgaKSyqbYZQiPpstSt_FHQc2Jz7bD6QfVSKrdNljwC5wkF0_t6ODCDa-fLfniQRg https://lh5.googleusercontent.com/S1Ivv3pCm8YIHussz1hzYc0pQvRiUlly8c6tCz3LO1lC4MqV2iVKfJ6RwRjglPda8Pcx6pEy4KNlrjV5LFOJEEmE6z3yH1eDrgRpwavu6QPBlTDC-snfHfgSx0k8aQkarsaX https://lh3.googleusercontent.com/hlvAkq6kfFhEMndZGrgfqwXaEH6yliAGxE7VKwDAGSB1V7wiNnTYOnDVzhz-9aB4FrwWwlJRlWnLTHA3gm-j7mOynTMu6T8yPGx9Si_vk-SgRLBvLoq6dOpnOzPlll7iO36dS6w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8309903,37.632954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>상암문화광장</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/lzVjvIO0FvKQAA8hiqyAkJgt4w6iBUG-L_RDi9XvYxVKIzerAU4qD6F5g-rThqpmlrIGg9dQ0kbkNaaW_UWaTav2ZnI--2hBq8szUGUfEPpYmon5tZhsCy_C6gwk9nKh6Scq" height="200" width="auto" /><br><br>* 두니아 - 처음 만난 세계<br>EP.10 (2018.08.05)<br>- 미주 출연. 두니아에서 다시 현실세계로 워프될때 떨어진 곳<br><br><img src="https://lh3.googleusercontent.com/HU106CfafaCB9PJcsZhqqiCRspw6jdOxRgoorsSPcuXvcWf2dS52ntwql7f9rE_km0NWt2vv48kd4FulxlMbSbbka3nQzRmYfdrZlczIj-a7EQUjqMOsbum2kW2y78iut93M_w" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/V3ADhxsuw4NUPGRlIkLETU6pLJDSNKxMirmI38vnAR7Y40XGoQKbDjW2NlM1Ka61cHVPJ_ugisczURhFLqbwGSxY-s7oXBSryyJL6xdxtRSfpaHnNtJBnQyDDyE4ENWIhHDfCA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1826-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/lzVjvIO0FvKQAA8hiqyAkJgt4w6iBUG-L_RDi9XvYxVKIzerAU4qD6F5g-rThqpmlrIGg9dQ0kbkNaaW_UWaTav2ZnI--2hBq8szUGUfEPpYmon5tZhsCy_C6gwk9nKh6Scq https://lh3.googleusercontent.com/HU106CfafaCB9PJcsZhqqiCRspw6jdOxRgoorsSPcuXvcWf2dS52ntwql7f9rE_km0NWt2vv48kd4FulxlMbSbbka3nQzRmYfdrZlczIj-a7EQUjqMOsbum2kW2y78iut93M_w https://lh4.googleusercontent.com/V3ADhxsuw4NUPGRlIkLETU6pLJDSNKxMirmI38vnAR7Y40XGoQKbDjW2NlM1Ka61cHVPJ_ugisczURhFLqbwGSxY-s7oXBSryyJL6xdxtRSfpaHnNtJBnQyDDyE4ENWIhHDfCA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8911434,37.5804628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태극당</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/inwKWLNXC7E-JnzDS2uUwN7U7KGGvO1HvHqxqAjJTUMxUBKTqkiUFpyjH1iMLaT8h0WHWBiYBrFPDSOtpHHLt1jYKDQ6f3k2ZEIJAVfRYiqo_4OBNawOcrmYkecUp_QZAEE3Jw" height="200" width="auto" /><br><br>* tvN 아찔한 사돈연습<br>EP.06 (2018.11.09)<br>- 미주출연. 혁수미식회 첫번째로 와서 카스테라, 단팥빵 등을 먹은 곳<br>- https://tv.naver.com/v/4484619<br><br><img src="https://lh6.googleusercontent.com/v60VMEnQepHAMTMvyWhRI8fHCtV4J9XVb11ErEsBSeZU3A6PAktOHU8N-5MKx-L-m3WWKDMDo9gV4MFnueflr6Kjge8MkoPE1baz9dwG-hDwRiN9BviaCkOrKgngfzbW7dlX_Q" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/TEeq-rlrBDEntgg3NWTnxU49F7ZQCOsWfJIVCTlHXGd8hIRIzg2y9hPd8GvV_IPTXdw-909qZ10i1OSqvPV02UXJRSlfEjBWmggNHljVyyzJ8NZ9jEkB1Ki3bO7QwQ1SD2gNin4" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/p-nGEe2vR0eHeQpTqwa0T0pyBqrUc_8JXLTxz2chk2zSAG0laEeJbJ8VE4SWvBDkHpfdlQUQD6pKRHoPpXpdvMbPmgwPAtVad6zxkGbCusDD0cdHjZRR8Jf93V2_WXLAEczX" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/inwKWLNXC7E-JnzDS2uUwN7U7KGGvO1HvHqxqAjJTUMxUBKTqkiUFpyjH1iMLaT8h0WHWBiYBrFPDSOtpHHLt1jYKDQ6f3k2ZEIJAVfRYiqo_4OBNawOcrmYkecUp_QZAEE3Jw https://lh6.googleusercontent.com/v60VMEnQepHAMTMvyWhRI8fHCtV4J9XVb11ErEsBSeZU3A6PAktOHU8N-5MKx-L-m3WWKDMDo9gV4MFnueflr6Kjge8MkoPE1baz9dwG-hDwRiN9BviaCkOrKgngfzbW7dlX_Q https://lh6.googleusercontent.com/TEeq-rlrBDEntgg3NWTnxU49F7ZQCOsWfJIVCTlHXGd8hIRIzg2y9hPd8GvV_IPTXdw-909qZ10i1OSqvPV02UXJRSlfEjBWmggNHljVyyzJ8NZ9jEkB1Ki3bO7QwQ1SD2gNin4 https://lh3.googleusercontent.com/p-nGEe2vR0eHeQpTqwa0T0pyBqrUc_8JXLTxz2chk2zSAG0laEeJbJ8VE4SWvBDkHpfdlQUQD6pKRHoPpXpdvMbPmgwPAtVad6zxkGbCusDD0cdHjZRR8Jf93V2_WXLAEczX</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0051983,37.5594923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>원조남산왕돈까스</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/CU9XOQo8dDhgGmgPXGLJzLZrIto32bmpw8VP_2vbzRl9SakBAD6bsz-GSfUyxV9fbx6HPOfbtFxBeRvrkd8b_IMCfE_X7ME7C33WUzDi7_3hobb5W3kE36z3b66hF5Ota_YQnno" height="200" width="auto" /><br><br>* tvN 아찔한 사돈연습<br>EP.06 (2018.11.09)<br>- 미주출연. 혁수미식회 2번째 장소로 왕돈까스를 먹은 곳<br><br><img src="https://lh4.googleusercontent.com/5rp15m-7zrteegkRcao2HXi6nzLZCXkt4wgqWTHkFK0u3c6Nn56SNHYySeqcBVhgnClrqWRlb9cp6uuWIluQrdpaNaqMRc2l6ZwBkyYheBnoLwfCuqtXBp5cbrorhL1jY-dh8A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/CU9XOQo8dDhgGmgPXGLJzLZrIto32bmpw8VP_2vbzRl9SakBAD6bsz-GSfUyxV9fbx6HPOfbtFxBeRvrkd8b_IMCfE_X7ME7C33WUzDi7_3hobb5W3kE36z3b66hF5Ota_YQnno https://lh4.googleusercontent.com/5rp15m-7zrteegkRcao2HXi6nzLZCXkt4wgqWTHkFK0u3c6Nn56SNHYySeqcBVhgnClrqWRlb9cp6uuWIluQrdpaNaqMRc2l6ZwBkyYheBnoLwfCuqtXBp5cbrorhL1jY-dh8A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9861289,37.5573378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남산서울타워 전망데크</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/o0O3vnMIjHUWnHk5y4UY54SNWgn8NGxgbWFIzxuB2Jq82KqfNAQDLdG5niwnBCXwJgBOlEX7Pu-AiCHxFSTmR7U5B-0ak_SrFJ456i88n5OTq_LVWXCTRS_t7gM4hylERz1TeQ" height="200" width="auto" /><br><br>* tvN 아찔한 사돈연습<br>EP.06 (2018.11.09)<br>- 미주출연. 돈까스 먹고와서 줄넘기하며 소화 시킨 곳<br>- https://tv.naver.com/v/4484625]]></description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/o0O3vnMIjHUWnHk5y4UY54SNWgn8NGxgbWFIzxuB2Jq82KqfNAQDLdG5niwnBCXwJgBOlEX7Pu-AiCHxFSTmR7U5B-0ak_SrFJ456i88n5OTq_LVWXCTRS_t7gM4hylERz1TeQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9879538,37.5513705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>종로진낙지</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/awlkL-E-7Uw-abTd9_bwJutBa6XzWIILlKlUgQPxlb99PYwjEsrP5o-awC89p3r160FfALXSjBRvKQWb9R0BN4oUPoXNnzCFjzbQBXTFvAkDo-ptf5uSjr3f5OjA48Yvg7vTSA" height="200" width="auto" /><br><br>* tvN 아찔한 사돈연습<br>EP.06 (2018.11.09)<br>- 미주출연. 혁수미식회로 낙지를 먹으러 온 곳<br>- 소주잔에 소주대신 물을 따라 '내 머리속의 지우개'의 명장면을 재연함<br>- https://tv.naver.com/v/4484702<br><br><img src="https://lh4.googleusercontent.com/q6RIwVmthzsb60LUxv4THxb4JN3H1AQM1tdcbIg1dn7Kbkf2lgl7uvnJNhsgJfMHksFs23SUBdM-lVvpANiC_YyuO8qOGNzmHZtsoh06sBNUxewsR_3fPrlN9y5dq20h3-hV" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/GDzYkbs6BW6e7pSpoylS659DIVuhfITBkQds-jku894v1JQdG6ZeJYrXxf6ovqbrhgutqJbyNxtorAX4Bc_ZtdPGnDY7dRInzWv_eHSWRmSb40IhOwNiqAW3HAOFmI2TAf1U2ho" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/awlkL-E-7Uw-abTd9_bwJutBa6XzWIILlKlUgQPxlb99PYwjEsrP5o-awC89p3r160FfALXSjBRvKQWb9R0BN4oUPoXNnzCFjzbQBXTFvAkDo-ptf5uSjr3f5OjA48Yvg7vTSA https://lh4.googleusercontent.com/q6RIwVmthzsb60LUxv4THxb4JN3H1AQM1tdcbIg1dn7Kbkf2lgl7uvnJNhsgJfMHksFs23SUBdM-lVvpANiC_YyuO8qOGNzmHZtsoh06sBNUxewsR_3fPrlN9y5dq20h3-hV https://lh6.googleusercontent.com/GDzYkbs6BW6e7pSpoylS659DIVuhfITBkQds-jku894v1JQdG6ZeJYrXxf6ovqbrhgutqJbyNxtorAX4Bc_ZtdPGnDY7dRInzWv_eHSWRmSb40IhOwNiqAW3HAOFmI2TAf1U2ho</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9890677,37.5720711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西表島</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/C8bjTtxIm4UoxqXLYErB0U_JR7-RZGqw6J54Tw5QpScOlih4QRzqjrGxCy1UAnSR_hU4H4x75xZguxT7c2NwsxmnurC6CgcJqPLZbC0yuXzlbKCbL2nqM0Y9pQPCoUjZWgWs" height="200" width="auto" /><br><br>이리오모테 섬<br><br>* 두니아 - 처음 만난 세계<br>- 미주출연. 두니아의 주된 촬영장소<br>- 정확한 위치는 찾기 어려움<br><br><img src="https://lh3.googleusercontent.com/FgPz_BkauGK0-b4RFwGPurtQJL5YIFoSCGfTip_-l6YeSLBZvaLvVNoUwhmXqyyyxxjoU8hmCymO5croVB55m2SaAsL6SF2ALyF_tOxq96MPDPS347xw5hIDNRk0KpzvJ8NDLw" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/_8kCTQigxn_SaJ2OKOdFrxIoQNnU2TCPezFtdsjiumLHRNZL6teteZFLBP2W97WuIx8deiklAPMTBm4iSv0sOuFGEoXkOpk13vX_VhAdGDGNMlUYXELM1KS4u5igMs-dqP67vVQ" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/oWfseqfzbsIYfoYBaIRECpx_rRHCHWhs91DoOpMgN8irNEzOGQgWe2Q8qYIsa7F51H3wxEdyaL-afuAyD8Y7zI-cp-VCsA2AQZh2-x_TIm9tq_HYHgSGK1ha4lO1PjRe1r6NLQ" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/YGB3H4_EDqXVL74ouFiBfEB8yczQQUXrnwPXBirPMMqAIptxtCu5V6coj4moHHXLkcMUyXE3X8Eps5uqPC2_Ydx8bd2UWtN76lsiw463pEdoCQMZ41v_KM0om6WX1lAfrRtIFQ" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/Vwp3i1zim98v_Hgt-UsDkrVWJfVd87BvcAOpso9ZWe1OktHuyRxq1iu7O17kGZbUkBJnqhjZQSG0Krxp0GrY3z5LVei3yXGhMMzH08oztSBXI6mGjS5dovcdEa7j95Xj3GtkZA" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/DX3XBW-_4UKwPW06HONIj6Ij4XONFABFjWmsGGy2Bg7xZ_bTadM7uH0gZuFLPAq1ctnn-SBX4vgGsjm6SLod0v-MPEn2-uO1FZWw9z6GCGKFptvKTo7afld0ILHkuG1FigDYcQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1887-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/C8bjTtxIm4UoxqXLYErB0U_JR7-RZGqw6J54Tw5QpScOlih4QRzqjrGxCy1UAnSR_hU4H4x75xZguxT7c2NwsxmnurC6CgcJqPLZbC0yuXzlbKCbL2nqM0Y9pQPCoUjZWgWs https://lh3.googleusercontent.com/FgPz_BkauGK0-b4RFwGPurtQJL5YIFoSCGfTip_-l6YeSLBZvaLvVNoUwhmXqyyyxxjoU8hmCymO5croVB55m2SaAsL6SF2ALyF_tOxq96MPDPS347xw5hIDNRk0KpzvJ8NDLw https://lh3.googleusercontent.com/_8kCTQigxn_SaJ2OKOdFrxIoQNnU2TCPezFtdsjiumLHRNZL6teteZFLBP2W97WuIx8deiklAPMTBm4iSv0sOuFGEoXkOpk13vX_VhAdGDGNMlUYXELM1KS4u5igMs-dqP67vVQ https://lh5.googleusercontent.com/oWfseqfzbsIYfoYBaIRECpx_rRHCHWhs91DoOpMgN8irNEzOGQgWe2Q8qYIsa7F51H3wxEdyaL-afuAyD8Y7zI-cp-VCsA2AQZh2-x_TIm9tq_HYHgSGK1ha4lO1PjRe1r6NLQ https://lh4.googleusercontent.com/YGB3H4_EDqXVL74ouFiBfEB8yczQQUXrnwPXBirPMMqAIptxtCu5V6coj4moHHXLkcMUyXE3X8Eps5uqPC2_Ydx8bd2UWtN76lsiw463pEdoCQMZ41v_KM0om6WX1lAfrRtIFQ https://lh4.googleusercontent.com/Vwp3i1zim98v_Hgt-UsDkrVWJfVd87BvcAOpso9ZWe1OktHuyRxq1iu7O17kGZbUkBJnqhjZQSG0Krxp0GrY3z5LVei3yXGhMMzH08oztSBXI6mGjS5dovcdEa7j95Xj3GtkZA https://lh3.googleusercontent.com/DX3XBW-_4UKwPW06HONIj6Ij4XONFABFjWmsGGy2Bg7xZ_bTadM7uH0gZuFLPAq1ctnn-SBX4vgGsjm6SLod0v-MPEn2-uO1FZWw9z6GCGKFptvKTo7afld0ILHkuG1FigDYcQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            123.8187977,24.3300613,0
           </coordinates>
         </Point>
       </Placemark>
@@ -15072,6 +15279,96 @@
         <Point>
           <coordinates>
             127.9272248,26.4565567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>아웃도어나무</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/jZhLLPblvmdYqePa6f3UWdietknhLchahvBpMV1GdcgP57zwcTUsPBYxigg306QX5Ox9pkEK2OTCtCMQLxr6BpysRpbew44OFIkeVJ5CcpJLs9DEite5YnufL14AMMwLKkYeMg" height="200" width="auto" /><br><br>* 인스타그램 (2018.09.23)<br>- 뀨뀨자매(케이, 케이언니)가 데이트 했던 곳<br>- https://www.instagram.com/p/BoERXm1B2Tu/]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/jZhLLPblvmdYqePa6f3UWdietknhLchahvBpMV1GdcgP57zwcTUsPBYxigg306QX5Ox9pkEK2OTCtCMQLxr6BpysRpbew44OFIkeVJ5CcpJLs9DEite5YnufL14AMMwLKkYeMg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.021597,37.5224724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>선유도공원 시간의 정원</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/m01cOjpQ9aYymSReZ_QxSIpOIhEQjgAMdNUzUBEvehxQqx4bIzXbJrmQO9vmp-CIJKiI5rBm6H97TeqQfZ_L286p5xY116ZohBx_VlhsnSyFcLWGzNL9kpTi-eGLo0E-EGP-9A" height="200" width="auto" /><br><br>* 인스타그램 (2016.12.29)<br>- 수정이 언니가 필름카메라로 사진 찍어준 곳<br>- https://www.instagram.com/p/BOl2KFLDFML/]]></description>
+        <styleUrl>#icon-1720-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/m01cOjpQ9aYymSReZ_QxSIpOIhEQjgAMdNUzUBEvehxQqx4bIzXbJrmQO9vmp-CIJKiI5rBm6H97TeqQfZ_L286p5xY116ZohBx_VlhsnSyFcLWGzNL9kpTi-eGLo0E-EGP-9A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8995339,37.5439594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>스파레이</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/4Nz9KWgHzzv-jhlZy3FqiN4QuIoeb63sVD-A41nmXvRnBMSQcFpzbja4D_XxW1VbOhrb-T0lGMnvCURhcfv-951g2PCZyH0s6NJOeMjtgr5cL5eRrX5LJnnK4CA3D_ulrgF5oQ" height="200" width="auto" /><br><br>* 인스타그램 (2018.11.04)<br>- 명은이 리얼 소확행을 느꼈던 여성전용 찜질방<br>- https://www.instagram.com/p/Bpubre3nyOt/<br><br><img src="https://lh4.googleusercontent.com/Sd1GyIYd2lPN4HZBPAt6th_z-GD6O2IfscU9Zwj0bC8fmaQvztkehW79nfsopkNOxEc3Aq4GEVzOyiKv4qMF_muUk3PenpgTWHsjF7us1ViDtJpN35eEvm9_fXX6nbfQ8faY6Jw" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/R4YhDLkeJp1gBIkXQ-m8HDZ-CRLtcruzb-HYINFkqB9YGC8-hxZB-9TY6Oem60L9GzIpeC4iM4GgEmOcCqghSeuAF-B0eoCmM8k52sXVrKlfzkQhAP--AqffveXqCZd0hW5Y" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1697-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/4Nz9KWgHzzv-jhlZy3FqiN4QuIoeb63sVD-A41nmXvRnBMSQcFpzbja4D_XxW1VbOhrb-T0lGMnvCURhcfv-951g2PCZyH0s6NJOeMjtgr5cL5eRrX5LJnnK4CA3D_ulrgF5oQ https://lh4.googleusercontent.com/Sd1GyIYd2lPN4HZBPAt6th_z-GD6O2IfscU9Zwj0bC8fmaQvztkehW79nfsopkNOxEc3Aq4GEVzOyiKv4qMF_muUk3PenpgTWHsjF7us1ViDtJpN35eEvm9_fXX6nbfQ8faY6Jw https://lh6.googleusercontent.com/R4YhDLkeJp1gBIkXQ-m8HDZ-CRLtcruzb-HYINFkqB9YGC8-hxZB-9TY6Oem60L9GzIpeC4iM4GgEmOcCqghSeuAF-B0eoCmM8k52sXVrKlfzkQhAP--AqffveXqCZd0hW5Y</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0181337,37.5179859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>한강대교</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/h5o-hkUoXw5Pn-I-ISHzH9qIFAIcWYpRSCO8ESCVxvN-BNErCjrPwFvP8rE-GQBbBn5_C4vexKFy7bPPl1j483jy0mpsV6eTXRk3fX68TFjGE9m_kbepD7wAe7BOEX9BuvPz_Q" height="200" width="auto" /><br><br>* "그녀는 바람둥이야" MV (2012.01.17)<br>- 소울이 한강을 바라보며 소리를 질렀던 곳<br>- https://www.youtube.com/watch?v=8x-EbW3Hs7Q<br><br><img src="https://lh4.googleusercontent.com/QZIdT9mUYOsE2FwffphoTnS6JIMLgdWX24OeZQs4EtJIVhP4xL1b14GkbFsXWzhyZy5QjEdsSRk9DZ5jr6kHu38zcO387tCXRFWWYYaK1-CTkoLqClwR3DM49ZTKZokh5-lYbQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/h5o-hkUoXw5Pn-I-ISHzH9qIFAIcWYpRSCO8ESCVxvN-BNErCjrPwFvP8rE-GQBbBn5_C4vexKFy7bPPl1j483jy0mpsV6eTXRk3fX68TFjGE9m_kbepD7wAe7BOEX9BuvPz_Q https://lh4.googleusercontent.com/QZIdT9mUYOsE2FwffphoTnS6JIMLgdWX24OeZQs4EtJIVhP4xL1b14GkbFsXWzhyZy5QjEdsSRk9DZ5jr6kHu38zcO387tCXRFWWYYaK1-CTkoLqClwR3DM49ZTKZokh5-lYbQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9580703,37.5167325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>노들섬</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/vpj1oP_VsBpVmuv5izG7wFGQFHEpbVDsQi7_Yy9GAMcZ7x3ej9b7xtvOIPiWbEl30KX9tBEgpc6bLHRCHL6i0PIrqw5zIln9d5bDB88Ft2RPNEEGbmeUxNBwt0Ee5u_2Uxu923w" height="200" width="auto" /><br><br>* "그녀는 바람둥이야" MV (2012.01.17)<br>- 소울이 해질녘에 한강대교를 바라보던 곳<br>- https://www.youtube.com/watch?v=8x-EbW3Hs7Q]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/vpj1oP_VsBpVmuv5izG7wFGQFHEpbVDsQi7_Yy9GAMcZ7x3ej9b7xtvOIPiWbEl30KX9tBEgpc6bLHRCHL6i0PIrqw5zIln9d5bDB88Ft2RPNEEGbmeUxNBwt0Ee5u_2Uxu923w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9575982,37.5170772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(구) Studi5</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Uh8h9qKxJbwGGEWz-utC14TNBDw-kl-OVgiJrdq3mZqr43P6nlbTEKL3flCzpnMuLMNoxTfVpiTyt6OPHOQwV0PBB6_MECzIspfe16-MEh9zMp2cv9LaUEzIWxJMfb32pw6P" height="200" width="auto" /><br><br>현재는 다른 곳으로 이전<br><br>- '그대에게' 자켓 촬영<br><br> * 뮤직스페셜 Lovelinus 자켓 촬영 현장 (2015.12.07)<br>- https://music.naver.com/promotion/specialContent.nhn?articleId=6456&page=1<br><br><img src="https://lh3.googleusercontent.com/aAN8pGlFYBI4eltHSd3gqa22jp1sPbDh1yIMKVWEPzsWD0X0ucQEJrklLlrTQVAotMU78uTZ1s8jGcYiOqJ6WXLwoxR90rfAfM6Q36aFXJEihzlnmGNIMark6DgiJBWDvQ8B" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/M5lheth6YeBaaFovqlwjFdhABMh-sYG670jbELYmnQnCVL8ACNNY9kfIh_M6JnGTI_8lJul2e8r2NxN_wiNbxgZS5KRo5NXQVf8W1o8W-svDfqfFm6ngzXKxKINJYwHhxJUCOA" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/VgAsZ5BSSNpq2UlwEIDTDF98_y0kbgnPhFjTUmVoLyxbqlXm-qdKjPzOHxSRMquOGWxiWtxoAnAlltDiHZ_I9fMYtaUIeEftiur0fX2GQ2Hvql2SDmVi17w0wiRWwwL2nkmzdw" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/PpP23yDx5BQNlrbVcYLhdEsT0p605AYMGZd_5jU4sGEmq37pzNGbMU0KRRygjPAcnulPg5kB3Bu-uP1UsNIWG4jkEdWksU8QrdSoyU_GyVZLRZgNaj1i4hBt4VDRwFBXrjXzlCc" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/MOOidNh0A-DVTETPOvtYBEfyUcZLPUE8pZMxcoAMcWaCEY561muyUwb-J-YYSvWxrg1fispAsjIsMVDwuAu_kO-zjnLxVpj9YClAsGCLOrVUVnzyD7h5cNjUG9BszSPwMcKKak0" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1535-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Uh8h9qKxJbwGGEWz-utC14TNBDw-kl-OVgiJrdq3mZqr43P6nlbTEKL3flCzpnMuLMNoxTfVpiTyt6OPHOQwV0PBB6_MECzIspfe16-MEh9zMp2cv9LaUEzIWxJMfb32pw6P https://lh3.googleusercontent.com/aAN8pGlFYBI4eltHSd3gqa22jp1sPbDh1yIMKVWEPzsWD0X0ucQEJrklLlrTQVAotMU78uTZ1s8jGcYiOqJ6WXLwoxR90rfAfM6Q36aFXJEihzlnmGNIMark6DgiJBWDvQ8B https://lh5.googleusercontent.com/M5lheth6YeBaaFovqlwjFdhABMh-sYG670jbELYmnQnCVL8ACNNY9kfIh_M6JnGTI_8lJul2e8r2NxN_wiNbxgZS5KRo5NXQVf8W1o8W-svDfqfFm6ngzXKxKINJYwHhxJUCOA https://lh4.googleusercontent.com/VgAsZ5BSSNpq2UlwEIDTDF98_y0kbgnPhFjTUmVoLyxbqlXm-qdKjPzOHxSRMquOGWxiWtxoAnAlltDiHZ_I9fMYtaUIeEftiur0fX2GQ2Hvql2SDmVi17w0wiRWwwL2nkmzdw https://lh4.googleusercontent.com/PpP23yDx5BQNlrbVcYLhdEsT0p605AYMGZd_5jU4sGEmq37pzNGbMU0KRRygjPAcnulPg5kB3Bu-uP1UsNIWG4jkEdWksU8QrdSoyU_GyVZLRZgNaj1i4hBt4VDRwFBXrjXzlCc https://lh4.googleusercontent.com/MOOidNh0A-DVTETPOvtYBEfyUcZLPUE8pZMxcoAMcWaCEY561muyUwb-J-YYSvWxrg1fispAsjIsMVDwuAu_kO-zjnLxVpj9YClAsGCLOrVUVnzyD7h5cNjUG9BszSPwMcKKak0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0466061,37.5222941,0
           </coordinates>
         </Point>
       </Placemark>
