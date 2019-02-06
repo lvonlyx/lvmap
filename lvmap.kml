@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2019-02-03)<br>(제보/문의: lvonlyx@gmail.com)<br><br>최근 갱신 장소<br>[2019-02-03]<br>- 생추어리 일본 프로모션때 들렸던 장소들 (음식점, 카페, ...)<br>[2019-01-27]<br>- 미향언니패션잡화점<br>- 더 파크 프론트 호텔 / 나고야 시라카와 (장어)<br>[2019-01-26]<br>- 커피 투리스 바벨 (지수 밀가루파티)<br>[2019-01-15]<br>- 연세대학교 대강당 (겨나럽3 공연장소)<br>[2019-01-08]<br>- 스파오 AK홍대점 (짱구 버스)<br>[2019-01-05]<br>- 럽다5 EP.02 (강변산책로)<br>- 각종 정보 수정<br>[2019-01-01]<br>- 찾아가세요 EP.05 (미소천사가 선물 숨긴곳)]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2019-02-06)<br>(제보/문의: lvonlyx@gmail.com)<br><br>최근 갱신 장소<br>[2019-02-06]<br>- 생추어리 일본 프로모션때 들렸던 장소들 (스시집, 맥주집, ...)<br>[2019-02-03]<br>- 생추어리 일본 프로모션때 들렸던 장소들 (음식점, 카페, ...)<br>[2019-01-27]<br>- 미향언니패션잡화점<br>- 더 파크 프론트 호텔 / 나고야 시라카와 (장어)<br>[2019-01-26]<br>- 커피 투리스 바벨 (지수 밀가루파티)<br>[2019-01-15]<br>- 연세대학교 대강당 (겨나럽3 공연장소)<br>[2019-01-08]<br>- 스파오 AK홍대점 (짱구 버스)<br>[2019-01-05]<br>- 럽다5 EP.02 (강변산책로)<br>- 각종 정보 수정]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -6735,6 +6735,40 @@
         <styleUrl>#icon-1879-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1879-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1879-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1879-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1879-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1879-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1879-880E4F-normal">
       <IconStyle>
         <color>ff4f0e88</color>
@@ -9929,7 +9963,7 @@
       </Placemark>
       <Placemark>
         <name>六本木駅</name>
-        <description><![CDATA[로폰기역<br><br>* LOVELYZ FALL IN JAPAN (2018.05.16)<br>- 소울, 미주가 카미야쵸역에서 지하철을 반대방향으로 잘못타서 온 역<br>- https://www.vlive.tv/video/68781]]></description>
+        <description><![CDATA[롯본기역<br><br>* LOVELYZ FALL IN JAPAN (2018.05.16)<br>- 소울, 미주가 카미야쵸역에서 지하철을 반대방향으로 잘못타서 온 역<br>- https://www.vlive.tv/video/68781]]></description>
         <styleUrl>#icon-1719-F57C00</styleUrl>
         <Point>
           <coordinates>
@@ -10164,7 +10198,7 @@
       </Placemark>
       <Placemark>
         <name>oliveSPA 六本木店</name>
-        <description><![CDATA[* LOVELYZ FALL IN JAPAN (2018.05.16)<br>- 지수, 케이가 미션에서 1등하여 마사지를 받은 곳<br>- https://www.vlive.tv/video/68781]]></description>
+        <description><![CDATA[올리브스파 롯본기점<br><br>* LOVELYZ FALL IN JAPAN (2018.05.16)<br>- 지수, 케이가 미션에서 1등하여 마사지를 받은 곳<br>- https://www.vlive.tv/video/68781]]></description>
         <styleUrl>#icon-1624-F57C00</styleUrl>
         <Point>
           <coordinates>
@@ -16646,7 +16680,7 @@
       </Placemark>
       <Placemark>
         <name>ザ パーク フロント ホテル アット ユニバーサル・スタジオ・ジャパン</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/y1SrDkVVnI2EGXkX_S8NqMqhF4A-ViSrpAKuREU5Vulmq0yznz9SNTZnamiq4YYo26wQZeFCtaZG0s8E-aos2yDJZ6dkTJnjTl9AXF4M3dzrjgnZtlvLQKFTuEGVtoOOz_KWoFQ" height="200" width="auto" /><br><br>더 파크프론트호텔 앳 유니버셜<br><br>* 인스타그램 (2019.01.27)<br>- 생추어리 일본 프로모션 오사카쪽  숙소<br>- http://towershibuya.jp/news/2018/12/21/129186<br>- https://www.instagram.com/p/BtIGuo7HB9f/<br><br><img src="https://lh4.googleusercontent.com/JTQptOHgGoE-YGxZ8fIfIe28Mi8-8g1ySmQlDZktqOgr8X2LBiI-SfR2qkpf1osFNw0PehxbubiyAMBljxd3eijfvYzDil8zufUk2vl0AnuCmtHMXiVGjRLCLq3K5wamwflHEw" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/y1SrDkVVnI2EGXkX_S8NqMqhF4A-ViSrpAKuREU5Vulmq0yznz9SNTZnamiq4YYo26wQZeFCtaZG0s8E-aos2yDJZ6dkTJnjTl9AXF4M3dzrjgnZtlvLQKFTuEGVtoOOz_KWoFQ" height="200" width="auto" /><br><br>더 파크프론트호텔 앳 유니버셜<br><br>* 인스타그램 (2019.01.27)<br>- 생추어리 일본 오사카 프로모션때 묵었던  숙소<br>- http://towershibuya.jp/news/2018/12/21/129186<br>- https://www.instagram.com/p/BtIGuo7HB9f/<br><br><img src="https://lh4.googleusercontent.com/JTQptOHgGoE-YGxZ8fIfIe28Mi8-8g1ySmQlDZktqOgr8X2LBiI-SfR2qkpf1osFNw0PehxbubiyAMBljxd3eijfvYzDil8zufUk2vl0AnuCmtHMXiVGjRLCLq3K5wamwflHEw" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1602-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -16661,7 +16695,7 @@
       </Placemark>
       <Placemark>
         <name>うなぎ和食 しら河 名駅店</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Ij-5YDhbLJ2wE2FxuUuB5uhCX9GxdgLwAFUPJT2ZIU_1Z09SbI-7DtAAQbnn0tFaH_CG4XXctayF7TdMqC7jZ0roNxaXnMjCB7G5VrM67WNGciJsIuqGzWQKUwgCCYoqeiY_YXo" height="200" width="auto" /><br><br>히츠마부시 시라카와 메이에키점<br><br>* 인스타그램 (2019.01.27)<br>- 생추어리 일본 나고야 프로모션을 마친 후 장어덮밥을 먹은 곳 (지점이 틀릴 수 있음)<br>- https://www.instagram.com/p/BtIubm_Hrhv/<br><br><img src="https://lh6.googleusercontent.com/Q6jJwO4hjGvIZMM_cxYS9ZJ-drAEZBjXZXAI6K776XGVJQGNRMwHIploX8lMRVdKiDRzGLZpfETazcVZ_Tt0uqx7Fy7hi53MRiWd-EtCG88d7SLFX6C6WFhWBq2LF2atzZtD" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Ij-5YDhbLJ2wE2FxuUuB5uhCX9GxdgLwAFUPJT2ZIU_1Z09SbI-7DtAAQbnn0tFaH_CG4XXctayF7TdMqC7jZ0roNxaXnMjCB7G5VrM67WNGciJsIuqGzWQKUwgCCYoqeiY_YXo" height="200" width="auto" /><br><br>히츠마부시 시라카와 메이에키점<br><br>* 인스타그램 (2019.01.27)<br>- 생추어리 일본 나고야 프로모션을 마친 후 장어덮밥을 먹은 곳 (지점이 틀릴 수 있음)<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.instagram.com/p/BtIubm_Hrhv/<br><br><img src="https://lh6.googleusercontent.com/Q6jJwO4hjGvIZMM_cxYS9ZJ-drAEZBjXZXAI6K776XGVJQGNRMwHIploX8lMRVdKiDRzGLZpfETazcVZ_Tt0uqx7Fy7hi53MRiWd-EtCG88d7SLFX6C6WFhWBq2LF2atzZtD" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -16675,8 +16709,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>牛かつもと村 新宿アルタ裏店</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/38KvFoz_fBGuNlBxm0OyuRIoHbIa2Fo0U5OaGvSgJbH4DR1O3U3d5_vZHxLm5unnhOYmx6vosrKkxXNUznT93wZgknVMDP2t_yN2N7SwFIzvwwrDryJcO0wegLPVxBxuVC_t" height="200" width="auto" /><br><br>규카츠 모토무라 신주쿠알타우라점<br><br>* 인스타그램 (2019-01-29, 2019-01-31)<br>- 생추어리 일본 프로모션때 규카츠를 먹은 곳 (지점이 틀릴 수 있음)<br>- 지수, 명은이 사진을 올림<br>- https://www.instagram.com/p/BtN5agRnbs5/<br>- https://www.instagram.com/p/BtOAQ3NnsCr/<br>- https://www.instagram.com/p/BtS_1LoHrnw/<br><br><img src="https://lh4.googleusercontent.com/rkJm23S6glouwgaMOtn6F1TQbThqpLw0tXYbdyZj6UELV8HRMmVuTXLmheDP1l0SVTojD-XkpLSzWoOm6Iw8ZNVEGDzNGrBrzT6oTarGmqI93pl1G60HP1tRgEaFZ7GXus4V" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/8sPPHFDi0GKVP1203BmM_326fqF6o8gAe31AAUCQoSgP9I34pQL-_Hgn0x4b0jaZIENEgW5JeVd_bWnvUtPQBuQn57tnq-f2XgeN1MG30LHdxJzp5qRfRRlqv6IGPlvixVtSdg" height="200" width="auto" />]]></description>
+        <name>牛かつもと村 六本木店</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/38KvFoz_fBGuNlBxm0OyuRIoHbIa2Fo0U5OaGvSgJbH4DR1O3U3d5_vZHxLm5unnhOYmx6vosrKkxXNUznT93wZgknVMDP2t_yN2N7SwFIzvwwrDryJcO0wegLPVxBxuVC_t" height="200" width="auto" /><br><br>규카츠 모토무라 롯본기점<br><br>* 인스타그램 (2019-01-29, 2019-01-31)<br>- 생추어리 일본 프로모션때 규카츠를 먹은 곳<br>- 지수, 명은이 사진을 올림<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.instagram.com/p/BtN5agRnbs5/<br>- https://www.instagram.com/p/BtOAQ3NnsCr/<br>- https://www.instagram.com/p/BtS_1LoHrnw/<br><br><img src="https://lh4.googleusercontent.com/rkJm23S6glouwgaMOtn6F1TQbThqpLw0tXYbdyZj6UELV8HRMmVuTXLmheDP1l0SVTojD-XkpLSzWoOm6Iw8ZNVEGDzNGrBrzT6oTarGmqI93pl1G60HP1tRgEaFZ7GXus4V" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/8sPPHFDi0GKVP1203BmM_326fqF6o8gAe31AAUCQoSgP9I34pQL-_Hgn0x4b0jaZIENEgW5JeVd_bWnvUtPQBuQn57tnq-f2XgeN1MG30LHdxJzp5qRfRRlqv6IGPlvixVtSdg" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -16685,17 +16719,17 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            139.7015257,35.6932284,0
+            139.7316862,35.6640274,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>uzna omom</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/lNnn6bXQMIbIvZQS1PyNJWsoUQDqLvUHX281v-1a-wHtrYIfOukZ9ynaQxFnyYrpyZgwjidKCxo9xeHtH4goF-XA4guig6TcKX-8l9EZuSrZfSqhpxAL_debKxK5L2rXAXD7cuw" height="200" width="auto" /><br><br>우즈나 오몬<br><br>* 인스타그램 (2019-01-30)<br>- 생추어리 일본 프로모션때 쉬는날 지수와 예인이와 하라주쿠, 오모테산도 쇼핑을 하다 들러서 커피와 팬케이크등을 먹었던 카페<br>- https://www.instagram.com/p/BtQqRzmHnSw/<br><br><img src="https://lh4.googleusercontent.com/X1G-X8Jn36Iu3dlPI4J-GWf_8TzAwJ9DBlIXtKR2PAXY7xtoyy6xEAeRVXY6yjIwrADghY-SjcF54_Vp5hBZKYeE2yiADpwSzNq10PwH9GROkfFprLZrZeg_D_JikC4VHYdL" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/lNnn6bXQMIbIvZQS1PyNJWsoUQDqLvUHX281v-1a-wHtrYIfOukZ9ynaQxFnyYrpyZgwjidKCxo9xeHtH4goF-XA4guig6TcKX-8l9EZuSrZfSqhpxAL_debKxK5L2rXAXD7cuw" height="200" width="auto" /><br><br>우즈나 오몬<br><br>* 인스타그램 (2019-01-30)<br>- 생추어리 일본 프로모션때 쉬는날 지수와 예인이와 하라주쿠, 오모테산도 쇼핑을 하다 들러서 커피와 팬케이크등을 먹었던 카페<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.instagram.com/p/BtQqRzmHnSw/<br><br>* 트위터 (2019-01-31)<br>- https://twitter.com/OfficialLVLZ_JP/status/1090959140158005248<br><br><img src="https://lh4.googleusercontent.com/X1G-X8Jn36Iu3dlPI4J-GWf_8TzAwJ9DBlIXtKR2PAXY7xtoyy6xEAeRVXY6yjIwrADghY-SjcF54_Vp5hBZKYeE2yiADpwSzNq10PwH9GROkfFprLZrZeg_D_JikC4VHYdL" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/uP90Se7wJ5ePk__O2by8oXCResmJNa1cQW7yQTNbBbLnnyGDDw6CqkqlqwDCJPl9LUT1OUfbK2DTaeP2H91I82Ra_3f6z2cWeo_SMF6Ay0yhwSI2g4OCqlD2zqiaGjigGDy_" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1534-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/lNnn6bXQMIbIvZQS1PyNJWsoUQDqLvUHX281v-1a-wHtrYIfOukZ9ynaQxFnyYrpyZgwjidKCxo9xeHtH4goF-XA4guig6TcKX-8l9EZuSrZfSqhpxAL_debKxK5L2rXAXD7cuw https://lh4.googleusercontent.com/X1G-X8Jn36Iu3dlPI4J-GWf_8TzAwJ9DBlIXtKR2PAXY7xtoyy6xEAeRVXY6yjIwrADghY-SjcF54_Vp5hBZKYeE2yiADpwSzNq10PwH9GROkfFprLZrZeg_D_JikC4VHYdL</value>
+            <value>https://lh3.googleusercontent.com/lNnn6bXQMIbIvZQS1PyNJWsoUQDqLvUHX281v-1a-wHtrYIfOukZ9ynaQxFnyYrpyZgwjidKCxo9xeHtH4goF-XA4guig6TcKX-8l9EZuSrZfSqhpxAL_debKxK5L2rXAXD7cuw https://lh4.googleusercontent.com/X1G-X8Jn36Iu3dlPI4J-GWf_8TzAwJ9DBlIXtKR2PAXY7xtoyy6xEAeRVXY6yjIwrADghY-SjcF54_Vp5hBZKYeE2yiADpwSzNq10PwH9GROkfFprLZrZeg_D_JikC4VHYdL https://lh4.googleusercontent.com/uP90Se7wJ5ePk__O2by8oXCResmJNa1cQW7yQTNbBbLnnyGDDw6CqkqlqwDCJPl9LUT1OUfbK2DTaeP2H91I82Ra_3f6z2cWeo_SMF6Ay0yhwSI2g4OCqlD2zqiaGjigGDy_</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -16706,7 +16740,7 @@
       </Placemark>
       <Placemark>
         <name>bills 表参道</name>
-        <description><![CDATA[<img src="https://lh4.googleusercontent.com/IEX0Mbh7D9IURXPMQox3W-e6RmEqcwzRszBxZwNm9gOM9Ff9LXK6dfAQhW0REHK8H_XwLyx2D52I6yzj-oozyVDiyhPgjB03hNLzfsYVbuycmripAXsabzsUXsR3O8cyg-tADw" height="200" width="auto" /><br><br>빌즈 오모테산도<br><br>* 인스타그램 (2019.01.30)<br>- 생추어리 일본 프로모션때 쉬느날 멤버들이 들렸던 팬케이크 가게<br>- https://www.instagram.com/p/BtQi6E2nls_/<br>- https://www.instagram.com/p/BtQhdnxnvm5/<br><br><img src="https://lh5.googleusercontent.com/ssVV2BIsZxAxx1Fl7_-gLSr5mSMnBJe7kHkjPZVugPwoZ6T34BrrpC5fCwg_DjdR0xlQLSlFzs6qu-a3GtxWBK4T1ZJySw8jlPGwWgNF8HTpCN5R-AbxO8ksCGHy8TNP0cqPpA" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/IEX0Mbh7D9IURXPMQox3W-e6RmEqcwzRszBxZwNm9gOM9Ff9LXK6dfAQhW0REHK8H_XwLyx2D52I6yzj-oozyVDiyhPgjB03hNLzfsYVbuycmripAXsabzsUXsR3O8cyg-tADw" height="200" width="auto" /><br><br>빌즈 오모테산도<br><br>* 인스타그램 (2019.01.30)<br>- 생추어리 일본 프로모션때 쉬느날 멤버들이 들렸던 팬케이크 가게<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.instagram.com/p/BtQi6E2nls_/<br>- https://www.instagram.com/p/BtQhdnxnvm5/<br><br><img src="https://lh5.googleusercontent.com/ssVV2BIsZxAxx1Fl7_-gLSr5mSMnBJe7kHkjPZVugPwoZ6T34BrrpC5fCwg_DjdR0xlQLSlFzs6qu-a3GtxWBK4T1ZJySw8jlPGwWgNF8HTpCN5R-AbxO8ksCGHy8TNP0cqPpA" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1534-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -16721,7 +16755,7 @@
       </Placemark>
       <Placemark>
         <name>レッドロック 原宿店</name>
-        <description><![CDATA[<img src="https://lh6.googleusercontent.com/ERNRI4pE7vOO-v-NfLF0hn4JJRPRtVqTNlSmzq6EeukOd5_h5vuPKys3GFFxU69NtNNIf-bL9-91lIWlNCUByWXJcd33HgRRSbcjlDxehmoSHuIT5K2rPqWaskJ-p9wtzj8PSQ" height="200" width="auto" /><br><br>레드락 하라주쿠점<br><br>* 인스타그램 (2019-01-30)<br>- 생추어리 일본 프로모션때 로스트비프동을 먹은 곳<br>- https://www.instagram.com/p/BtQi6E2nls_/<br>- https://www.instagram.com/p/BtQhdnxnvm5/]]></description>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/ERNRI4pE7vOO-v-NfLF0hn4JJRPRtVqTNlSmzq6EeukOd5_h5vuPKys3GFFxU69NtNNIf-bL9-91lIWlNCUByWXJcd33HgRRSbcjlDxehmoSHuIT5K2rPqWaskJ-p9wtzj8PSQ" height="200" width="auto" /><br><br>레드락 하라주쿠점<br><br>* 인스타그램 (2019-01-30)<br>- 생추어리 일본 프로모션때 로스트비프동을 먹은 곳<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.instagram.com/p/BtQi6E2nls_/<br>- https://www.instagram.com/p/BtQhdnxnvm5/]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -16736,7 +16770,7 @@
       </Placemark>
       <Placemark>
         <name>洋麺屋五右衛門 原宿２号店</name>
-        <description><![CDATA[<img src="https://lh5.googleusercontent.com/FeFcU7H63i8OoEsPtYjFdjSE_GWNTVZ3SlcFAI-FHj8dbunaFSTcqMBwyfNxDEljodw4gJ9kWdkktnVt2_dGdGdhj2GyFCmRSpyLNiHLpEmNyG5QlYzUO5mqSFscTN7GnzqoRqI" height="200" width="auto" /><br><br>고에몬 하라주쿠 2호점<br><br>* 인스타그램 (2019-01-30)<br>- 생추어리 일본 프로모션때 멤버들이 들려서 식사를 했던 일본식 파스타집 (지점이 틀릴 수 있음)<br>- https://www.instagram.com/p/BtQhdnxnvm5/<br><br><img src="https://lh4.googleusercontent.com/1RVYKGofUgqHD-4XxKs93EKOksYq8_UEHBnv6s-CHc-3Veyfm16-gZTCvYClOiwUW-o2mQPwT_lUE5i6TaWLnj4H2kJ6aL9WGLvqevrQ1PKpKsVM8jfskBnnpKPBGP-cVyAkfA" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/YCMMrvl7Lfzsg7l-yuXa6b8dwydSExXLiOo5jTp8Gm_oGMy_llmrwof2ZR8R_rUmoXW0kUUCaxub42E7wwN1e_N5_kT-r9qabP8dzS3bvXmgSC_RNlDcnvauSEMIa6zgXYPj_A" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/HZQYsc-vZgZHQpxRZjXRIyPADaLWnNhUxe8ZTqbD-m006UYUouMqEzgggM-5j2bgPLsDZAu3BjPvECVGgB9h8wfWGKVR_GV6hdohwNUnkEj_l1yPjwiqdBTfdj6Hckxyxeua" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/FeFcU7H63i8OoEsPtYjFdjSE_GWNTVZ3SlcFAI-FHj8dbunaFSTcqMBwyfNxDEljodw4gJ9kWdkktnVt2_dGdGdhj2GyFCmRSpyLNiHLpEmNyG5QlYzUO5mqSFscTN7GnzqoRqI" height="200" width="auto" /><br><br>고에몬 하라주쿠 2호점<br><br>* 인스타그램 (2019-01-30)<br>- 생추어리 일본 프로모션때 멤버들이 들려서 식사를 했던 일본식 파스타집 (지점이 틀릴 수 있음)<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.instagram.com/p/BtQhdnxnvm5/<br><br><img src="https://lh4.googleusercontent.com/1RVYKGofUgqHD-4XxKs93EKOksYq8_UEHBnv6s-CHc-3Veyfm16-gZTCvYClOiwUW-o2mQPwT_lUE5i6TaWLnj4H2kJ6aL9WGLvqevrQ1PKpKsVM8jfskBnnpKPBGP-cVyAkfA" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/YCMMrvl7Lfzsg7l-yuXa6b8dwydSExXLiOo5jTp8Gm_oGMy_llmrwof2ZR8R_rUmoXW0kUUCaxub42E7wwN1e_N5_kT-r9qabP8dzS3bvXmgSC_RNlDcnvauSEMIa6zgXYPj_A" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/HZQYsc-vZgZHQpxRZjXRIyPADaLWnNhUxe8ZTqbD-m006UYUouMqEzgggM-5j2bgPLsDZAu3BjPvECVGgB9h8wfWGKVR_GV6hdohwNUnkEj_l1yPjwiqdBTfdj6Hckxyxeua" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -16751,8 +16785,13 @@
       </Placemark>
       <Placemark>
         <name>NUMBER SUGAR</name>
-        <description><![CDATA[넘버 슈가<br><br>- 생추어리 일본 프로모션때 지수와 명은이 카라멜을 샀던 곳]]></description>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/0oY1s8KsrqTlJfPwVu7JiBdtvv6E0zGMsIDxrAKWpHoe7F1YqYQneVVFWrhLF9vwr9IArmD2Vhrl-hnyV9m0XvaGcvS4rvpoaKzI38tFeH7C1FXtb_wl-SdDX3KBK9YmmrfXog" height="200" width="auto" /><br><br>넘버 슈가<br><br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.vlive.tv/video/111878 (1:11:48부근)<br>- 생추어리 일본 프로모션때 지수와 명은이 카라멜을 샀던 곳]]></description>
         <styleUrl>#icon-1684-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/0oY1s8KsrqTlJfPwVu7JiBdtvv6E0zGMsIDxrAKWpHoe7F1YqYQneVVFWrhLF9vwr9IArmD2Vhrl-hnyV9m0XvaGcvS4rvpoaKzI38tFeH7C1FXtb_wl-SdDX3KBK9YmmrfXog</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             139.7061697,35.6664907,0
@@ -16760,12 +16799,97 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>一蘭 西新宿店</name>
-        <description><![CDATA[이치란 니시신주쿠점<br><br>- 생추어리 일본 프로모션때 지수와 수정이 돈코츠를 전혀 쓰지 않고 만든 라멘을 먹었던 곳<br>- https://ko.ichiran.com/np/]]></description>
+        <name>一蘭 六本木店</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/w_R_YavQryEv46tE_F91f1VxkUhe6Aaa3Kw7rtHvlhH7crknNrp3QE3JpcCv7acaIeUZExZC3yV9vM9V20B2ah0Ui3P0aqG_cg_qbEkCxgqGmZM1BNTyhdtMEeuLFioIv0sH" height="200" width="auto" /><br><br>이치란 롯폰기점<br><br>- 생추어리 일본 프로모션때 지수와 수정이 라멘을 먹었던 곳<br>- http://towershibuya.jp/news/2019/01/29/129186]]></description>
+        <styleUrl>#icon-1577-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/w_R_YavQryEv46tE_F91f1VxkUhe6Aaa3Kw7rtHvlhH7crknNrp3QE3JpcCv7acaIeUZExZC3yV9vM9V20B2ah0Ui3P0aqG_cg_qbEkCxgqGmZM1BNTyhdtMEeuLFioIv0sH</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7315336,35.6642183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>イマカツ 六本木本店 앞</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/XoS66PaHQW3LzuyHzn9V9zEeKH3TKNrjZf9Q8Wt4vK8Se-j1laWl7ML18rgtZXgAICQft226Z1pOkrC63sqHDfdNiOzqGcvKoOsV5FAk37r4sO7DaIXrLWGEsA5st8RbJwyWFA" height="200" width="auto" /><br><br>이마카츠 롯본기점 앞<br><br>- 생추어리 일본 프로모션때 지수와 수정이 근처에서 이치란 라멘을 먹고 앞에서 사진 찍은 곳<br>- 프로모션 중에 이마카츠를 들렀었는데 이 점포로 추정<br>- http://towershibuya.jp/news/2019/01/29/129186]]></description>
+        <styleUrl>#icon-1577-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/XoS66PaHQW3LzuyHzn9V9zEeKH3TKNrjZf9Q8Wt4vK8Se-j1laWl7ML18rgtZXgAICQft226Z1pOkrC63sqHDfdNiOzqGcvKoOsV5FAk37r4sO7DaIXrLWGEsA5st8RbJwyWFA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7316242,35.6643934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテルニューオータニ ガーデンタワー</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/UZfkF34emwpJc4_zYwNQzuMT76LhtEMxFSd7hRfHFaan5r5IhUP-jzGFJdAkFSpXKxf2AfpZoYVBrs2-yrXPpPZGRs9gIx1LnBVkWtNTeug57-0rVp_qeZ8Sm2XKjz61dASVLg" height="200" width="auto" /><br><br>호텔 뉴 오타니 도쿄 가든타워<br><br>* 인스타그램 (2019-01-29~2019-02-02)<br>- 생추어리 일본 도쿄 프로모션때 멤버들이 묵었던 숙소<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://www.instagram.com/p/BtOFnT6n1k9/<br>- https://www.instagram.com/p/BtTPGbRHPtJ/<br>- https://www.instagram.com/p/BtWKO9yHfN8/<br><br><img src="https://lh5.googleusercontent.com/Zdg54rXzO_bA7qdPWgR4eJT5wajsouFDjXqDTPt1edq5ue2ZpKS40tdQIIjJrHkYCqgI0uI7D8m2u318SH1XtW6AfJcUAtHR3hAt3b3sgyQk0DbBqLChcIwsHuvFodpTHol_" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/Ax7iu4bsQQK_7qZJ0VA_J_yUDf1xIPKaA7Ny2ueKk1ddv_xsPbx1nSqR-8wsOzWCgSiVdRP3_4a5uq3SGwGYXHnaEqTSqdElPl6tktM5YcVgA_svZC26kN_ybbHPOBWa7nLEUg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1602-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/UZfkF34emwpJc4_zYwNQzuMT76LhtEMxFSd7hRfHFaan5r5IhUP-jzGFJdAkFSpXKxf2AfpZoYVBrs2-yrXPpPZGRs9gIx1LnBVkWtNTeug57-0rVp_qeZ8Sm2XKjz61dASVLg https://lh5.googleusercontent.com/Zdg54rXzO_bA7qdPWgR4eJT5wajsouFDjXqDTPt1edq5ue2ZpKS40tdQIIjJrHkYCqgI0uI7D8m2u318SH1XtW6AfJcUAtHR3hAt3b3sgyQk0DbBqLChcIwsHuvFodpTHol_ https://lh5.googleusercontent.com/Ax7iu4bsQQK_7qZJ0VA_J_yUDf1xIPKaA7Ny2ueKk1ddv_xsPbx1nSqR-8wsOzWCgSiVdRP3_4a5uq3SGwGYXHnaEqTSqdElPl6tktM5YcVgA_svZC26kN_ybbHPOBWa7nLEUg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7350092,35.6797254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>キャットストリート</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/IW4gkYvFlVKOol3LFlo9WSvLgN4GTJ__CDp7HJNY1ESE17L6IDDXNMqv7pK1jmKxxBTXvd5L3eteiVWWY7Tf8dCGWrCAH1ywLnY1ej3zMqXuDyOut3qfDW5gENGe_7dHmPrBCg" height="200" width="auto" /><br><br>캣스트리트<br><br>* 트위터 (2019-01-31)<br>- 생추어리 일본 도쿄 프로모션때 쉬는 날에 지수와 예인이 쇼핑하며 사진 찍었던 거리<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://twitter.com/OfficialLVLZ_JP/status/1090959569331806209<br><br><img src="https://lh3.googleusercontent.com/9npvo4lefHoieiMSJfbfrPU4cEj6QFB56NfMFje2fuIEBXBNLOIBXaoNjxflPLaZZRYiYsKgQeOTnH-DVMC9D_ZG4qYL_q18qZ_CLFOQCKgFv_KXK-eVJrgaA85IIh3xL0sAKw" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/hVpFkujWG_cgHDIQv9BeGbNfeyxbiiSGtOR6YiyKgq6D_DAItNpavPisD8u_w5TK5sD7pyoekZKXesCWAurUt8PJ8XSOiCfFCLoCPRZLqWxNbe5DTViSBmnvVmJTJx8hgar2KA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1731-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/IW4gkYvFlVKOol3LFlo9WSvLgN4GTJ__CDp7HJNY1ESE17L6IDDXNMqv7pK1jmKxxBTXvd5L3eteiVWWY7Tf8dCGWrCAH1ywLnY1ej3zMqXuDyOut3qfDW5gENGe_7dHmPrBCg https://lh3.googleusercontent.com/9npvo4lefHoieiMSJfbfrPU4cEj6QFB56NfMFje2fuIEBXBNLOIBXaoNjxflPLaZZRYiYsKgQeOTnH-DVMC9D_ZG4qYL_q18qZ_CLFOQCKgFv_KXK-eVJrgaA85IIh3xL0sAKw https://lh6.googleusercontent.com/hVpFkujWG_cgHDIQv9BeGbNfeyxbiiSGtOR6YiyKgq6D_DAItNpavPisD8u_w5TK5sD7pyoekZKXesCWAurUt8PJ8XSOiCfFCLoCPRZLqWxNbe5DTViSBmnvVmJTJx8hgar2KA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7063186,35.6669376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セブンパーク アリオ柏</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/SDLBd5xJtDmKtLe8ZHnuVKOh9zehZx8fxZPZYjy73rkCRx5UzRmpc9r1LLlEN1NddajYhPUEBpEykfFE35ibBMjWShbw0SG4OM_4LF-uDv6sTxBVXaGQwIrv8pggQ_quC_JXtQ" height="200" width="auto" /><br><br>세븐파크 아리오 카시와<br><br>* 트위터 (2019-02-02)<br>- 생추어리 일본 프로모션 후 단체사진을 찍었던 곳<br>- http://towershibuya.jp/news/2019/01/29/129186<br>- https://twitter.com/sevenpark_ksw/status/1091625213786173441]]></description>
+        <styleUrl>#icon-1731-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/SDLBd5xJtDmKtLe8ZHnuVKOh9zehZx8fxZPZYjy73rkCRx5UzRmpc9r1LLlEN1NddajYhPUEBpEykfFE35ibBMjWShbw0SG4OM_4LF-uDv6sTxBVXaGQwIrv8pggQ_quC_JXtQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            140.0144695,35.8342227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ビヤホール ライオン 銀座七丁目店</name>
+        <description><![CDATA[긴자 라이온 비어홀 본점<br><br>- 생추어리 일본 프로모션때 쉬는 날 소울과 미주가 들려서 맥주를 마신 120년된 비어홀<br>- https://news.yahoo.co.jp/byline/yoshizakieijinho/20190205-00113600/<br>- 번역: http://gall.dcinside.com/board/view/?id=lovelyz&no=5215057<br>- http://towershibuya.jp/news/2019/01/29/129186]]></description>
+        <styleUrl>#icon-1879-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            139.7632062,35.6692417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUSHI TOKYO TEN</name>
+        <description><![CDATA[스시 도쿄 텐<br><br>- 생추어리 일본 프로모션때 소울이 미주와 들렸던 스시 가게<br>- 가게에서 일본어 잘한다고 칭찬 받았다 함<br>- https://news.yahoo.co.jp/byline/yoshizakieijinho/20190205-00113600/<br>- 번역: http://gall.dcinside.com/board/view/?id=lovelyz&no=5215057<br>- http://towershibuya.jp/news/2019/01/29/129186]]></description>
         <styleUrl>#icon-1577-673AB7</styleUrl>
         <Point>
           <coordinates>
-            139.6986634,35.6944831,0
+            139.7032142,35.6571993,0
           </coordinates>
         </Point>
       </Placemark>
