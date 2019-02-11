@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2019-02-06)<br>(제보/문의: lvonlyx@gmail.com)<br><br>최근 갱신 장소<br>[2019-02-06]<br>- 생추어리 일본 프로모션때 들렸던 장소들 (스시집, 맥주집, ...)<br>[2019-02-03]<br>- 생추어리 일본 프로모션때 들렸던 장소들 (음식점, 카페, ...)<br>[2019-01-27]<br>- 미향언니패션잡화점<br>- 더 파크 프론트 호텔 / 나고야 시라카와 (장어)<br>[2019-01-26]<br>- 커피 투리스 바벨 (지수 밀가루파티)<br>[2019-01-15]<br>- 연세대학교 대강당 (겨나럽3 공연장소)<br>[2019-01-08]<br>- 스파오 AK홍대점 (짱구 버스)<br>[2019-01-05]<br>- 럽다5 EP.02 (강변산책로)<br>- 각종 정보 수정]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2019-02-11 / 681개 장소)<br>(제보/문의: lvonlyx@gmail.com)<br><br>최근 갱신 장소<br>[2019-02-11]<br>- 라파토리아 (지수 생일 인스타)<br>- 카페 요호 (어섬라이브)<br>[2019-02-08]<br>- 이스트덜위치 (지금 1위는?)<br>- GS25 논현하니점 (럽소말 EP.02)<br>[2019-02-06]<br>- 생추어리 일본 프로모션때 들렸던 장소들 (스시집, 맥주집, ...)<br>[2019-02-03]<br>- 생추어리 일본 프로모션때 들렸던 장소들 (음식점, 카페, ...)<br>[2019-01-27]<br>- 미향언니패션잡화점<br>- 더 파크 프론트 호텔 / 나고야 시라카와 (장어)<br>[2019-01-26]<br>- 커피 투리스 바벨 (지수 밀가루파티)<br>[2019-01-15]<br>- 연세대학교 대강당 (겨나럽3 공연장소)]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -11650,6 +11650,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>GS25 논현하니점</name>
+        <description><![CDATA[* 러블리즈의 소원을 말해봐<br>EP.02 (2017.11.30)<br>- 케이가 미주의 소원을 들어주면서 핫바를 데웠던 편의점<br>- 티저: https://www.vlive.tv/video/50297<br>- 본편: https://www.vlive.tv/video/51276]]></description>
+        <styleUrl>#icon-1578-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            127.0277528,37.5137917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>에버랜드: 허리케인</name>
         <description><![CDATA[* tvN 아찔한 사돈연습<br>EP.01 (2018.10.05)<br>- 미주출연]]></description>
         <styleUrl>#icon-1568-0288D1</styleUrl>
@@ -13507,6 +13517,21 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>이스트덜위치</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/kM-xcEhVvyCWcNaIn9GCVZBya97WBsu-yblJLUmX1DbdCqbRKIIvPWYZYMDZZ795-SrFSku0fbfSfKA25JLqDzRf2wMNmQ_pA2GVN-GVprIWM9UhUtEQJ42NVYGup1eNJLrLzKw" height="200" width="auto" /><br><br>* MBC 다시 쓰는 차트쇼 지금 1위는<br>- 케이 출연. 내 사랑 투유 듀엣 상대인 준을 만났던 카페<br>- https://tv.naver.com/v/5276280<br><br><img src="https://lh3.googleusercontent.com/s48DiIZSVvm2JwWydqlxEC0zQtYXB6rfDglVHLshI4_-cZOfHxW1vCpwQrLJSkXu0B2k145ielS_OU_V5_lmJXd-GvgOYLS-MTfAQ6Ogr5l68QMnwZqSYUnz0IYmBtVumN9v4Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1534-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/kM-xcEhVvyCWcNaIn9GCVZBya97WBsu-yblJLUmX1DbdCqbRKIIvPWYZYMDZZ795-SrFSku0fbfSfKA25JLqDzRf2wMNmQ_pA2GVN-GVprIWM9UhUtEQJ42NVYGup1eNJLrLzKw https://lh3.googleusercontent.com/s48DiIZSVvm2JwWydqlxEC0zQtYXB6rfDglVHLshI4_-cZOfHxW1vCpwQrLJSkXu0B2k145ielS_OU_V5_lmJXd-GvgOYLS-MTfAQ6Ogr5l68QMnwZqSYUnz0IYmBtVumN9v4Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0554262,37.5000793,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>드라마</name>
@@ -15210,7 +15235,7 @@
       </Placemark>
       <Placemark>
         <name>어라운드스튜디오</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/dZi9aqMOTc_C5i6evYpoA5FX-Dk-A9C3ZIzVZMui5SA7F1A2cjQLJuJyb0V_Tey6VDPVFzBo9JzkM84VYObRHGuHcmyevdMgd71T8gqUT0IbHUbmnt7B2ExebQadFegOcXblrA" height="200" width="auto" /><br><br>* 2017 시즌 그리팅 촬영 장소<br><br>* "종소리" MV 실내 촬영 장소<br><br>* "종소리" MV (2017.11.14)<br>- https://www.youtube.com/watch?v=vDxD4HwEFdY<br><br><img src="https://lh5.googleusercontent.com/ibRgufbk_YjNVMxiecvve5veF6s6Set0aHxMhXoVaLSjAE-lEYp1zmog1fs6hCWQf9HXEePImVEQyxhlUZIkITm7oHL_FgaTxGSRUS_VjRnl4TRMUhWBqCgXJ8PxayclzV5PZ9o" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/LHHZi4xWkmO3spAneD-uq2ziQDgXu2ughio9kx5maP1RqwHdiZkn9Myf1-36aFQOzyT6bGLKmla4j-Kfe4O_JLOWXepQz0g7Wz-zqr6W1gD2mt9x7PU13Rb5p_vOoiyp69I3bFs" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/otkgRVkfmDQFJ25Qt8AMFrZHNW4uJsf7UGVU1Jcups306zvzZgQq1aiJiiKQwCCOkRpOkM_VSsf2fQMQUhYOh7NUCvb4FpmlAFk1pke0NCYNeuyEZLY9sDNLjiswfRdFgfJ5" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/dZi9aqMOTc_C5i6evYpoA5FX-Dk-A9C3ZIzVZMui5SA7F1A2cjQLJuJyb0V_Tey6VDPVFzBo9JzkM84VYObRHGuHcmyevdMgd71T8gqUT0IbHUbmnt7B2ExebQadFegOcXblrA" height="200" width="auto" /><br><br>* 2017 시즌 그리팅 촬영 장소<br><br>* "종소리" MV 실내 촬영 장소<br><br>* "종소리" MV (2017.11.14)<br>- https://www.youtube.com/watch?v=vDxD4HwEFdY<br><br>* 러블리즈의 소원을 말해봐<br>EP.02 (2017.11.30)<br>- 종소리 MV 촬영하면서 케이가 미주의 소원을 들어줬던 곳<br>- 티저: https://www.vlive.tv/video/50297<br>- 본편: https://www.vlive.tv/video/51276<br><br><img src="https://lh5.googleusercontent.com/ibRgufbk_YjNVMxiecvve5veF6s6Set0aHxMhXoVaLSjAE-lEYp1zmog1fs6hCWQf9HXEePImVEQyxhlUZIkITm7oHL_FgaTxGSRUS_VjRnl4TRMUhWBqCgXJ8PxayclzV5PZ9o" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/LHHZi4xWkmO3spAneD-uq2ziQDgXu2ughio9kx5maP1RqwHdiZkn9Myf1-36aFQOzyT6bGLKmla4j-Kfe4O_JLOWXepQz0g7Wz-zqr6W1gD2mt9x7PU13Rb5p_vOoiyp69I3bFs" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/otkgRVkfmDQFJ25Qt8AMFrZHNW4uJsf7UGVU1Jcups306zvzZgQq1aiJiiKQwCCOkRpOkM_VSsf2fQMQUhYOh7NUCvb4FpmlAFk1pke0NCYNeuyEZLY9sDNLjiswfRdFgfJ5" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1535-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -16890,6 +16915,31 @@
         <Point>
           <coordinates>
             139.7032142,35.6571993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>라파토리아</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/DNrLkkgky1pdvG2cNZ_sK38b1QAFls237h8pJSTEageAgDvaZtgdlEbuiSb7bQhUtKVy9akmXQPEOnvz2fMDHGzcL_lI7R807e3Q337fzSnA_vEqyLrdLHSZE-Gc9AA_941yMJk" height="200" width="auto" /><br><br>* 인스타그램 (2019.02.11)<br>- 지수 생일때 동생이 사진을 찍었줬던 이탈리안음식점<br>- https://www.instagram.com/p/BtvdRiJnhh4/<br><br><img src="https://lh5.googleusercontent.com/PkeHLSOOFnUVsM6W0YM9WTNE4KBVAgr6C3YSm693rllRrx6e1oPX1n56IDSlqrgg0Tio1q2jCkslcpbbLH5qrQMMlNQVuKV9m7ETYD4M9x3zdghGTWiSTv52MEck_vJZkgCf4w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1577-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/DNrLkkgky1pdvG2cNZ_sK38b1QAFls237h8pJSTEageAgDvaZtgdlEbuiSb7bQhUtKVy9akmXQPEOnvz2fMDHGzcL_lI7R807e3Q337fzSnA_vEqyLrdLHSZE-Gc9AA_941yMJk https://lh5.googleusercontent.com/PkeHLSOOFnUVsM6W0YM9WTNE4KBVAgr6C3YSm693rllRrx6e1oPX1n56IDSlqrgg0Tio1q2jCkslcpbbLH5qrQMMlNQVuKV9m7ETYD4M9x3zdghGTWiSTv52MEck_vJZkgCf4w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9376461,37.5574958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>카페 요호</name>
+        <description><![CDATA[* 초특급 아이돌들의 기상천외한 라이브쇼 어섬라이브 2회 (2019.02.23)<br>- 02/20(수) 오후 3시까지 현장응모<br>- https://www.instagram.com/p/BtkwyDrhoUL/]]></description>
+        <styleUrl>#icon-1534-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            126.9158129,37.5551889,0
           </coordinates>
         </Point>
       </Placemark>
