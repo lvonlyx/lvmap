@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>새로 만든 럽동여지도</name>
-    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2019-04-13 / 766개 장소)<br>(제보/문의: lvonlyx@gmail.com)<br>(link: https://goo.gl/maps/1KoLB2o5zd42)<br><br>최근 갱신 장소<br>[2019-04-13] - 카페벤시몽, 논현로161길, 겟썸커피, 논현로159길, 스튜디오빌리빈, 카페 잔<br>[2019-04-12] - 헤이스튜디오<br>[2019-04-08] - 스페인야시장, 화규, 현대맨션<br>[2019-04-03] - 모닝모닝, 스타벅스 신림역포도몰점<br>[2019-04-01] - 這一鍋 台北吉林殿, 台北晶華酒店<br>[2019-03-31] - LOVE裝置藝術, 鼎泰豐 101店, 臨江街夜市, 台北101, 冰世界]]></description>
+    <description><![CDATA[럽지순례를 위한 가이드맵<br>(최종갱신일: 2019-04-25 / 771개 장소)<br>(제보/문의: lvonlyx@gmail.com)<br>(link: https://goo.gl/maps/1KoLB2o5zd42)<br><br>최근 갱신 장소<br>[2019-04-25] - 신림면 종림길, 하이칙스<br>[2019-04-16] - 우리녹음실, 엠플라운지<br>[2019-04-13] - 카페벤시몽, 논현로161길, 겟썸커피, 논현로159길, 스튜디오빌리빈, 카페 잔<br>[2019-04-12] - 헤이스튜디오<br>[2019-04-08] - 스페인야시장, 화규, 현대맨션<br>[2019-04-03] - 모닝모닝, 스타벅스 신림역포도몰점<br>[2019-04-01] - 這一鍋 台北吉林殿, 台北晶華酒店<br>[2019-03-31] - LOVE裝置藝術, 鼎泰豐 101店, 臨江街夜市, 台北101, 冰世界]]></description>
     <Style id="icon-1504-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -7561,6 +7561,81 @@
         <Point>
           <coordinates>
             126.9899437,37.5657453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>우리녹음실</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/w8SjVaUPnFW1Dg5L2NrZ9jTfebdrgvbtlCXh1NHNn-NCCJxAPQq7teny-T-KT81xc62hQY7XTbEbtdB3vjcrJuWrvqL0nf2syjJX3zr6lYVNDq6BJCvZMUcCWcsOYARLDYW7hg" height="200" width="auto" /><br><br>* 금영 VR 녹음실 버전 촬영<br>- https://www.instagram.com/p/BwTfrjZHomS/<br>- https://www.instagram.com/p/BwTfweVHga6/<br>- https://www.instagram.com/p/BwTfzvXHd9L/<br>- https://www.instagram.com/p/BwTf9bTHmgP/<br>- https://www.instagram.com/p/BwTgDCMnbLt/<br><br><img src="https://lh3.googleusercontent.com/sllP7EvUML4mOlGGc7kfv2HCFDhzqxy38n9RcNEt6c_eTQ1KH0tR7ei_ehO-3vbNRzKoqvi16Ct-Cp_1rONKam4xwRjBHLRL4B5C6tiLgZ9SvZigQy6KwM-kuPqhXNmBdrWNag" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/L5TcahEw0ZFO0tONRzOpvrvfL5nkPC7coTw-hWoXkTG2Ew9OM4oVsLtONk2iXWcz-xLGDWR7PcuX4kkzDLdtHe-I38TSeTe5rH7qaSNTPDlYxOEY-u4AM4C6URnAY3cVJDwZ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1637-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/w8SjVaUPnFW1Dg5L2NrZ9jTfebdrgvbtlCXh1NHNn-NCCJxAPQq7teny-T-KT81xc62hQY7XTbEbtdB3vjcrJuWrvqL0nf2syjJX3zr6lYVNDq6BJCvZMUcCWcsOYARLDYW7hg https://lh3.googleusercontent.com/sllP7EvUML4mOlGGc7kfv2HCFDhzqxy38n9RcNEt6c_eTQ1KH0tR7ei_ehO-3vbNRzKoqvi16Ct-Cp_1rONKam4xwRjBHLRL4B5C6tiLgZ9SvZigQy6KwM-kuPqhXNmBdrWNag https://lh3.googleusercontent.com/L5TcahEw0ZFO0tONRzOpvrvfL5nkPC7coTw-hWoXkTG2Ew9OM4oVsLtONk2iXWcz-xLGDWR7PcuX4kkzDLdtHe-I38TSeTe5rH7qaSNTPDlYxOEY-u4AM4C6URnAY3cVJDwZ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0334792,37.5154962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>엠플라운지</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/VkEtokA5aexeMqfNeVhCJVAxZgYKjjsPhZg1_yzlTSxwfLzB1wZkWvVkEedzNWZzUx8x0tLd_c6mTc3Cdfat9iniacTRUYJ1xvF4Vb-Jc8DdPGPplpC2F_IosCnu5ATZ8e6T" height="200" width="auto" /><br><br>* 금영 VR 라이브카페 버전 촬영<br>- https://www.instagram.com/p/BpjPacoHDoz/]]></description>
+        <styleUrl>#icon-1879-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/VkEtokA5aexeMqfNeVhCJVAxZgYKjjsPhZg1_yzlTSxwfLzB1wZkWvVkEedzNWZzUx8x0tLd_c6mTc3Cdfat9iniacTRUYJ1xvF4Vb-Jc8DdPGPplpC2F_IosCnu5ATZ8e6T</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.039419,37.4961685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>신림면 종림길</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/bv2PMRJKLjRzOEhOP1QgvthA2rBv2uHbWo1iiq9fzKslvceEc3anDptUx5yt4rf77mr_nCnCO6v84ffs7mEtp99P2Jjj2fyvLOmuxmByE_gKI0vLhTAKRcjy7wTqz81tvsXgwnI" height="200" width="auto" /><br><br>* V Live 럽다6 (2019.04.23)<br>- 소울, 미주, 명은이 벚꽃 나무 배경으로 사진찍은 곳<br>- https://www.vlive.tv/video/125066]]></description>
+        <styleUrl>#icon-1731-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/bv2PMRJKLjRzOEhOP1QgvthA2rBv2uHbWo1iiq9fzKslvceEc3anDptUx5yt4rf77mr_nCnCO6v84ffs7mEtp99P2Jjj2fyvLOmuxmByE_gKI0vLhTAKRcjy7wTqz81tvsXgwnI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.0915335,37.2032942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>신림면 종림길 132-14</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/3S4sXioj6jAJ3Yi9FPAl-a9T9_KLlWthkAQfInS_fsNlrRW991wNKKz96f619F-rwF5FtXkfkCNuGbH5FNHMu93D9HEno_d03RtRbzn6uUnfroh9EJAvjjAvyWvcsMpXn2e2Og" height="200" width="auto" /><br><br>* V Live 럽다6 (2019.04.23)<br>- 소울이 시골집으로 소개된 집. 고민을 들어주고 그림 그리기를 함<br>- 바로 옆 미주가 살았던 마당으로 이동하여 눕방을 함<br>- https://www.vlive.tv/video/125066<br><br><img src="https://lh5.googleusercontent.com/AwRJFtnyZ6BIDF_WjfVlGLmltUktK55JtSn7JAuj9sSI8R2cdYQBOFty5mtTPfgCUImWXOLR1lacdxPLpPHviPUoCWWHixwhYUigivI-DmDVIiQq1nQ_HjncTI5kYvbKt9tAHQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/3S4sXioj6jAJ3Yi9FPAl-a9T9_KLlWthkAQfInS_fsNlrRW991wNKKz96f619F-rwF5FtXkfkCNuGbH5FNHMu93D9HEno_d03RtRbzn6uUnfroh9EJAvjjAvyWvcsMpXn2e2Og https://lh5.googleusercontent.com/AwRJFtnyZ6BIDF_WjfVlGLmltUktK55JtSn7JAuj9sSI8R2cdYQBOFty5mtTPfgCUImWXOLR1lacdxPLpPHviPUoCWWHixwhYUigivI-DmDVIiQq1nQ_HjncTI5kYvbKt9tAHQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.0911003,37.202946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>하이칙스 합정쇼룸</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/aHC5k-4coOE_6MN9D8B7gJSJ6W0cHx13gTzeD5P0-AjfMDnhK_uFHHvto7M8LTn_JjISdK6B7irHZl8A3XeF9pbvvWHLu2nyRLMxcNYMP6J4H4Ibwlb8FGyVNY8I8HqHeO438w" height="200" width="auto" /><br><br>* 인스타그램 (2019.04.20)<br>- 케이가 언니와 함께 들렸던 패션 브랜드 샵<br>- https://www.instagram.com/p/BwehGE_BSYW/]]></description>
+        <styleUrl>#icon-1684-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/aHC5k-4coOE_6MN9D8B7gJSJ6W0cHx13gTzeD5P0-AjfMDnhK_uFHHvto7M8LTn_JjISdK6B7irHZl8A3XeF9pbvvWHLu2nyRLMxcNYMP6J4H4Ibwlb8FGyVNY8I8HqHeO438w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9155739,37.5488759,0
           </coordinates>
         </Point>
       </Placemark>
